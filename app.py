@@ -5,8 +5,12 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 from datetime import datetime
-from flask import Flask, jsonify
+
+from flask import Flask, jsonify, render_template
 from config import DB_KEY
+import pandas as pd
+import plotly
+import json
 
 #################################################
 # Database Setup
@@ -35,15 +39,24 @@ app = Flask(__name__)
 #################################################
 
 @app.route("/")
+
+def index():
+    players_table = list(engine.execute("select * from players"))
+    # return str(players_table)
+    return render_template("index.html")
+
+
+@app.route("/players")
 def players():
     players_table = list(engine.execute("select * from players"))
-    return str(players_table)
+    # return str(players_table)
+    return render_template("players_Page.html", players=players_table)
 
+# @app.route("/teams/")
+# def teams():
+#     teams_table = list(engine.execute("select * from teams"))
+#     return str(teams_table)
 
-@app.route("/teams/")
-def teams():
-    teams_table = list(engine.execute("select * from teams"))
-    return str(teams_table)
 
     # session = Session(engine)
     # print(session.query(Players.id).all())
@@ -95,7 +108,6 @@ def teams():
 #         all_passengers.append(passenger_dict)
 
 #     return jsonify(all_passengers)
-f
 
 if __name__ == '__main__':
     app.run(debug=True)
