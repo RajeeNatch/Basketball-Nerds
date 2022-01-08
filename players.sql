@@ -1,3 +1,11 @@
+CREATE TABLE IF NOT EXISTS public.teams
+(
+  team_id INT NOT NULL,
+  team_full_name VARCHAR ( 50 ) UNIQUE NOT NULL,
+  PRIMARY KEY (team_id)
+  
+);
+
 CREATE TABLE IF NOT EXISTS public.players
 (
   player_id INT NOT NULL,
@@ -11,10 +19,3 @@ CREATE TABLE IF NOT EXISTS public.players
       REFERENCES teams (team_id)
 );
 
-CREATE TABLE IF NOT EXISTS public.teams
-(
-  team_id INT NOT NULL,
-  team_full_name VARCHAR ( 50 ) UNIQUE NOT NULL,
-  PRIMARY KEY (team_id)
-  
-)

@@ -12,17 +12,18 @@ from config import DB_KEY
 # Database Setup
 #################################################
 
-connection_string = f"postgres:{DB_KEY}@localhost:5432/Basketball_stats"
-engine = create_engine('postgresql://{connection_string}')
+connection_string = "postgres:Dontforget123!@localhost:5432/Basketball_stats"
+engine = create_engine(f'postgresql://{connection_string}')
 
 # reflect an existing database into a new model
-Base = automap_base()
-# reflect the tables
-Base.prepare(engine, reflect=True)
+# Base = automap_base()
+# # reflect the tables
+# Base.prepare(engine, reflect=True)
 
 # Save reference to the table
-Players = Base.classes.players
-Teams = Base.classes.teams
+# Players = Base.classes.players
+# Teams = Base.classes.teams
+
 
 # Flask Setup
 #################################################
@@ -35,31 +36,42 @@ app = Flask(__name__)
 
 @app.route("/")
 def players():
-    """List all available api routes."""
-    return (
-        f"Available Routes:<br/>"
-        f"/api/v1.0/home_Page.html<br/>"
-        f"/api/v1.0/player_Page.html"
-        f"/api/v1.0/team_Page.html"
-    )
+    players_table = list(engine.execute("select * from players"))
+    return str(players_table)
 
 
-@app.route("/api/v1.0/home_Page.html")
-def names():
-    # Create our session (link) from Python to the DB
-    session = Session(engine)
+@app.route("/teams/")
+def teams():
+    teams_table = list(engine.execute("select * from teams"))
+    return str(teams_table)
 
-    """Return a list of all passenger names"""
+    # session = Session(engine)
+    # print(session.query(Players.id).all())
+#     """List all available api routes."""
+    # return (
+    #     f"Available Routes:<br/>"
+    #     f"/api/v1.0/home_Page.html<br/>"
+    #     f"/api/v1.0/player_Page.html"
+    #     f"/api/v1.0/team_Page.html"
+    # )
 
-    # Query all passengers
-    results = session.query(Passenger.name).all()
 
-    session.close()
+# @app.route("/api/v1.0/home_Page.html")
+# def names():
+#     # Create our session (link) from Python to the DB
+#     session = Session(engine)
 
-    # Convert list of tuples into normal list
-    all_names = list(np.ravel(results))
+#     """Return a list of all passenger names"""
 
-    return jsonify(all_names)
+#     # Query all passengers
+#     results = session.query(Passenger.name).all()
+
+#     session.close()
+
+#     # Convert list of tuples into normal list
+#     all_names = list(np.ravel(results))
+
+#     return jsonify(all_names)
 
 
 # @app.route("/api/v1.0/passengers")
@@ -85,5 +97,5 @@ def names():
 #     return jsonify(all_passengers)
 
 
-# if __name__ == '__main__':
-#     app.run(debug=True)
+if __name__ == '__main__':
+    app.run(debug=True)
