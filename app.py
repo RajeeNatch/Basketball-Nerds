@@ -5,11 +5,13 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 from datetime import datetime
+
 from flask import Flask, jsonify, render_template
 from config import DB_KEY
 import pandas as pd
 import plotly
 import json
+
 #################################################
 # Database Setup
 #################################################
@@ -37,6 +39,7 @@ app = Flask(__name__)
 #################################################
 
 @app.route("/")
+
 def index():
     players_table = list(engine.execute("select * from players"))
     # return str(players_table)
@@ -53,6 +56,7 @@ def players():
 # def teams():
 #     teams_table = list(engine.execute("select * from teams"))
 #     return str(teams_table)
+
 
     # session = Session(engine)
     # print(session.query(Players.id).all())
