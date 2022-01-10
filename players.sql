@@ -19,3 +19,8 @@ CREATE TABLE IF NOT EXISTS public.players
       REFERENCES teams (team_id)
 );
 
+ALTER TABLE teams
+ADD CONSTRAINT PK_teams PRIMARY KEY (team_id)
+
+ALTER TABLE players
+ADD CONSTRAINT PK_players PRIMARY KEY (player_id)
