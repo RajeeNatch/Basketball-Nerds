@@ -1,0 +1,201 @@
+	id	ast	blk	dreb	fg3_pct	pts	reb	stl	turnover	game_season	player_id	player_first_name	player_height_feet	player_last_name	player_position	player_team_id	team_id	team_full_name
+0	9461757	0	0	4	0.0	6	5	1	0	2021	173	Taj	6.0	Gibson	F	20	20	New York Knicks
+1	9461758	6	1	1	20.0	7	1	1	2	2021	17895858	Quentin		Grimes	G	20	20	New York Knicks
+2	9461763	0	0	2	0.0	6	3	0	0	2021	3547243	Obi		Toppin	F	20	20	New York Knicks
+3	9461759	0	0	0	0.0	0	0	0	1	2021	259	Kevin	6.0	Knox	F	20	20	New York Knicks
+4	9462092	2	0	2	40.0	10	2	3	0	2021	666923	Matisse		Thybulle	G-F	23	23	Philadelphia 76ers
+5	9462093	4	2	4	20.0	13	4	1	2	2021	200	Tobias	6.0	Harris	F	23	23	Philadelphia 76ers
+6	9462094	6	2	4	0.0	31	8	1	2	2021	145	Joel	7.0	Embiid	F-C	23	23	Philadelphia 76ers
+7	9462095	0	1	3	25.0	5	4	1	0	2021	184	Danny	6.0	Green	G-F	23	23	Philadelphia 76ers
+8	9462096	2	0	5	50.0	12	6	1	2	2021	260	Furkan	6.0	Korkmaz	G-F	23	23	Philadelphia 76ers
+9	9462104	2	0	3	0.0	6	4	1	3	2021	10384980	Myles		Powell	G	23	23	Philadelphia 76ers
+10	9462103	1	0	0	40.0	8	0	1	1	2021	344	Georges	6.0	Niang	F	23	23	Philadelphia 76ers
+11	9462101	3	0	2	33.3	10	3	0	0	2021	3547272	Isaiah		Joe	G	23	23	Philadelphia 76ers
+12	9462099	3	1	6	0.0	13	10	1	1	2021	137	Andre	6.0	Drummond	C	23	23	Philadelphia 76ers
+13	9462098	0	0	4	0.0	1	4	2	1	2021	666474	Charles		Brown	G	23	23	Philadelphia 76ers
+14	9461751	0	0	1	100.0	7	1	0	0	2021	17896064	Joe		Wieskamp	G-F	27	27	San Antonio Spurs
+15	9461750	1	0	0	0.0	1	0	0	1	2021	327	Jaylen	6.0	Morris	G	27	27	San Antonio Spurs
+16	9461749	1	0	0	0.0	0	0	0	0	2021	7155648	Anthony		Lamb	F	27	27	San Antonio Spurs
+17	9461760	0	0	1	0.0	0	1	0	0	2021	17896033	Miles		McBride	G	20	20	New York Knicks
+18	9461762	0	1	0	0.0	0	0	0	0	2021	17896063	Jericho		Sims	F	20	20	New York Knicks
+19	9462097	0	1	0	0.0	0	1	1	0	2021	17895854	Charles		Bassey	G	23	23	Philadelphia 76ers
+20	9462102	0	0	0	0.0	2	1	1	2	2021	17896007	Braxton		Key	G	23	23	Philadelphia 76ers
+21	9462100	0	0	0	0.0	0	0	0	0	2021	17896053	Aaron		Henry	G	23	23	Philadelphia 76ers
+22	9462105	1	2	1	33.3	9	1	0	0	2021	3547301	Jae'Sean		Tate	F	11	11	Houston Rockets
+23	9462106	2	0	6	20.0	14	6	1	0	2021	486	Christian	6.0	Wood	F	11	11	Houston Rockets
+24	9462107	1	1	3	60.0	12	4	2	1	2021	439	Daniel	6.0	Theis	F	11	11	Houston Rockets
+25	9462108	5	0	6	0.0	8	6	0	4	2021	666849	Kevin		Porter Jr.	G	11	11	Houston Rockets
+26	9461028	1	0	2	25.0	3	2	0	1	2021	666762	Jalen		McDaniels	F	4	4	Charlotte Hornets
+27	9461023	0	0	0	0.0	0	0	0	0	2021	17896037	James		Bouknight	G	4	4	Charlotte Hornets
+28	9461024	0	0	0	0.0	0	0	0	0	2021	17896032	Kai		Jones	F-C	4	4	Charlotte Hornets
+29	9461025	0	0	0	0.0	0	0	0	0	2021	4197232	Arnoldas		Kulboka	F	4	4	Charlotte Hornets
+30	9461026	0	0	0	0.0	0	0	0	0	2021	17896061	Scottie		Lewis	G	4	4	Charlotte Hornets
+31	9461029	0	0	0	0.0	0	0	0	0	2021	3547282	Nick		Richards	C	4	4	Charlotte Hornets
+32	9461030	0	0	0	0.0	0	0	0	0	2021	422	Ish	6.0	Smith	G	4	4	Charlotte Hornets
+33	9461031	0	0	0	0.0	0	0	0	0	2021	18678001	JT		Thor	F	4	4	Charlotte Hornets
+34	9462116	0	1	1	0.0	4	2	1	0	2021	350	David	6.0	Nwaba	G	11	11	Houston Rockets
+35	9462115	1	0	0	0.0	2	0	1	1	2021	17895968	Daishen		Nix	F	11	11	Houston Rockets
+36	9462112	0	1	1	0.0	0	3	1	0	2021	17896070	Usman		Garuba	F	11	11	Houston Rockets
+37	9463059	5	2	5	0.0	17	7	1	3	2021	17896076	Evan		Mobley	F-C	6	6	Cleveland Cavaliers
+38	9463058	1	1	4	37.5	15	5	0	0	2021	297	Lauri	7.0	Markkanen	F	6	6	Cleveland Cavaliers
+39	9463060	1	2	11	0.0	18	17	1	0	2021	9	Jarrett	6.0	Allen	C	6	6	Cleveland Cavaliers
+40	9463061	2	1	1	100.0	9	3	1	2	2021	3547279	Lamar		Stevens	F	6	6	Cleveland Cavaliers
+41	9463062	11	0	4	16.7	12	5	1	4	2021	666581	Darius		Garland	G	6	6	Cleveland Cavaliers
+42	9463065	2	2	3	25.0	18	3	0	2	2021	285	Kevin	6.0	Love	F-C	6	6	Cleveland Cavaliers
+43	9463067	1	0	3	33.3	15	3	0	1	2021	359	Cedi	6.0	Osman	F	6	6	Cleveland Cavaliers
+44	9463063	0	0	0	0.0	0	0	0	0	2021	118	Ed	6.0	Davis	C	6	6	Cleveland Cavaliers
+45	9463064	0	0	0	0.0	0	0	0	0	2021	3091	Brandon	6.0	Goodwin		6	6	Cleveland Cavaliers
+46	9463066	0	0	0	0.0	0	0	0	0	2021	17554003	RJ		Nembhard Jr.	G	6	6	Cleveland Cavaliers
+47	9463068	0	0	0	0.0	0	0	0	0	2021	19465586	Kevin		Pangos	G	6	6	Cleveland Cavaliers
+48	9462111	2	0	2	42.9	13	2	1	3	2021	17896023	Josh		Christopher	G	11	11	Houston Rockets
+49	9462110	1	0	1	0.0	0	2	0	1	2021	21	D.J.	6.0	Augustin	G	11	11	Houston Rockets
+50	9463069	6	0	3	33.3	5	4	2	3	2021	400	Rajon	6.0	Rondo	G	6	6	Cleveland Cavaliers
+51	9463071	0	0	0	0.0	0	0	0	0	2021	666971	Dylan		Windler	G-F	6	6	Cleveland Cavaliers
+52	9463070	0	0	0	0.0	0	1	0	1	2021	666940	Dean		Wade	F	6	6	Cleveland Cavaliers
+53	9463072	2	0	2	60.0	14	3	1	0	2021	30	Harrison	6.0	Barnes	F	26	26	Sacramento Kings
+54	9463073	0	0	4	0.0	8	10	0	0	2021	24	Marvin	6.0	Bagley III	F	26	26	Sacramento Kings
+55	9463074	1	1	4	0.0	4	10	0	1	2021	273	Alex	7.0	Len	C	26	26	Sacramento Kings
+56	9463075	8	1	2	33.3	21	2	3	3	2021	3547245	Tyrese		Haliburton	G	26	26	Sacramento Kings
+57	9463076	4	0	4	0.0	12	4	2	2	2021	161	De'Aaron	6.0	Fox	G	26	26	Sacramento Kings
+58	9463082	1	0	4	0.0	11	5	1	1	2021	17553967	Neemias		Queta	C	26	26	Sacramento Kings
+59	9463080	0	0	4	50.0	13	5	1	2	2021	314	Chimezie	6.0	Metu	F	26	26	Sacramento Kings
+60	9463081	1	0	0	100.0	4	0	0	1	2021	17553994	Davion		Mitchell	G	26	26	Sacramento Kings
+61	9463077	0	0	1	0.0	2	1	0	0	2021	666530	Terence		Davis	G	26	26	Sacramento Kings
+62	9463078	0	0	0	0.0	0	0	0	0	2021	193	Maurice	6.0	Harkless	F	26	26	Sacramento Kings
+63	9463083	0	0	0	0.0	0	0	0	0	2021	3547262	Jahmi'us		Ramsey	G	26	26	Sacramento Kings
+64	9463700	5	1	9	28.6	28	10	2	1	2021	140	Kevin	6.0	Durant	F	3	3	Brooklyn Nets
+65	9463701	1	0	1	0.0	4	2	2	1	2021	42	DeAndre'	6.0	Bembry	F	3	3	Brooklyn Nets
+66	9463702	1	0	0	0.0	2	1	0	1	2021	666508	Nicolas		Claxton	F-C	3	3	Brooklyn Nets
+67	9463703	2	0	0	50.0	5	2	0	0	2021	17896049	David		Duke Jr.	G	3	3	Brooklyn Nets
+68	9463704	4	1	7	37.5	22	8	1	4	2021	228	Kyrie	6.0	Irving	G	3	3	Brooklyn Nets
+69	9463705	3	0	2	0.0	0	2	0	1	2021	189	Blake	6.0	Griffin	F	3	3	Brooklyn Nets
+70	9462109	1	0	4	33.3	14	5	0	7	2021	17895966	Jalen		Green	G	11	11	Houston Rockets
+71	9462113	1	2	4	66.7	10	4	0	2	2021	3547294	Kenyon		Martin Jr.	F	11	11	Houston Rockets
+72	9462114	3	0	3	20.0	5	4	1	1	2021	666754	Garrison		Mathews	G	11	11	Houston Rockets
+73	9463079	3	1	3	62.5	19	3	2	0	2021	210	Buddy	6.0	Hield	G	26	26	Sacramento Kings
+74	9463708	0	0	4	33.3	5	5	1	1	2021	17896044	Kessler		Edwards	F	3	3	Brooklyn Nets
+75	9463713	0	0	3	57.1	21	3	3	3	2021	17896048	Cam		Thomas	G	3	3	Brooklyn Nets
+76	9463709	0	0	1	0.0	4	2	0	0	2021	242	James	6.0	Johnson	F	3	3	Brooklyn Nets
+77	9463710	5	1	0	33.3	3	0	0	0	2021	319	Patty	6.0	Mills	G	3	3	Brooklyn Nets
+78	9463712	2	3	3	0.0	14	7	0	3	2021	17896038	Day'Ron		Sharpe	C	3	3	Brooklyn Nets
+79	9463706	0	0	0	0.0	0	0	0	0	2021	69	Bruce	6.0	Brown	G	3	3	Brooklyn Nets
+80	9463707	0	0	0	0.0	0	0	0	0	2021	87	Jevon	6.0	Carter	G	3	3	Brooklyn Nets
+81	9463711	0	0	0	0.0	0	0	0	0	2021	318	Paul	6.0	Millsap	F	3	3	Brooklyn Nets
+82	9463714	2	3	4	33.3	13	5	1	0	2021	666729	Nassir		Little	F	25	25	Portland Trail Blazers
+83	9463715	1	3	4	71.4	21	4	3	1	2021	108	Robert	6.0	Covington	F	25	25	Portland Trail Blazers
+84	9463716	3	0	6	0.0	14	8	1	2	2021	349	Jusuf	7.0	Nurkic	C	25	25	Portland Trail Blazers
+85	9463717	0	2	5	62.5	20	5	1	2	2021	309	Ben		McLemore	G	25	25	Portland Trail Blazers
+86	9463718	11	0	6	18.2	23	6	0	3	2021	419	Anfernee	6.0	Simons	G	25	25	Portland Trail Blazers
+87	9463720	2	0	3	25.0	9	5	1	2	2021	3547164	CJ		Elleby	F-G	25	25	Portland Trail Blazers
+88	9463723	0	1	4	0.0	4	6	0	2	2021	17896058	Trendon		Watford	F	25	25	Portland Trail Blazers
+89	9461745	0	2	9	0.0	6	10	1	0	2021	666486	Devontae		Cacok	F-C	27	27	San Antonio Spurs
+90	9463084	0	0	0	0.0	0	0	0	0	2021	444	Tristan	6.0	Thompson	C-F	26	26	Sacramento Kings
+91	9463085	0	0	0	0.0	0	0	0	0	2021	3547288	Robert		Woodard II	F	26	26	Sacramento Kings
+92	9463721	3	0	0	0.0	6	1	1	1	2021	421	Dennis	6.0	Smith Jr.	G	25	25	Portland Trail Blazers
+93	9463724	1	0	4	0.0	4	7	0	0	2021	491	Cody	7.0	Zeller	C	25	25	Portland Trail Blazers
+94	9463722	0	0	0	0.0	0	0	0	0	2021	426	Tony	6.0	Snell	G	25	25	Portland Trail Blazers
+95	9463719	0	0	0	0.0	0	0	0	0	2021	17896028	Greg		Brown III	F	25	25	Portland Trail Blazers
+96	9485793	2	0	4	28.6	17	5	2	0	2021	666541	Luguentz		Dort	G	21	21	Oklahoma City Thunder
+97	9485794	0	0	4	0.0	2	6	1	1	2021	17896078	Aaron		Wiggins	G	21	21	Oklahoma City Thunder
+98	9485795	2	0	2	50.0	7	3	0	0	2021	17896021	Jeremiah		Robinson-Earl	F	21	21	Oklahoma City Thunder
+99	9485796	8	0	4	33.3	18	6	2	2	2021	17896065	Josh		Giddey	G	21	21	Oklahoma City Thunder
+100	9485797	8	0	3	50.0	32	3	0	2	2021	175	Shai	6.0	Gilgeous-Alexander	G	21	21	Oklahoma City Thunder
+101	9485798	1	1	7	50.0	14	9	0	0	2021	666429	Darius		Bazley	F	21	21	Oklahoma City Thunder
+102	9485799	0	0	0	0.0	0	0	0	0	2021	3547163	Mamadi		Diakite	F	21	21	Oklahoma City Thunder
+103	9485803	0	0	2	20.0	11	2	0	0	2021	17896036	Tre		Mann	G	21	21	Oklahoma City Thunder
+104	9485804	0	0	3	33.3	5	3	0	0	2021	337	Mike	6.0	Muscala	F-C	21	21	Oklahoma City Thunder
+105	9485801	1	0	1	0.0	12	1	0	0	2021	666676	Ty		Jerome	G	21	21	Oklahoma City Thunder
+106	9485800	1	0	2	0.0	0	3	0	0	2021	153	Derrick	6.0	Favors	F-C	21	21	Oklahoma City Thunder
+107	9485802	0	0	0	0.0	0	0	0	0	2021	3547253	Theo		Maledon	G	21	21	Oklahoma City Thunder
+108	9485805	0	0	0	0.0	0	0	0	0	2021	24572055	Olivier		Sarr	C	21	21	Oklahoma City Thunder
+109	9485806	0	0	0	0.0	0	0	0	0	2021	1567838	Paul		Watson	G	21	21	Oklahoma City Thunder
+110	9486160	5	0	2	50.0	28	4	1	3	2021	3547238	Anthony		Edwards	G	18	18	Minnesota Timberwolves
+111	9486161	2	0	3	0.0	8	5	3	1	2021	457	Jarred	6.0	Vanderbilt	F	18	18	Minnesota Timberwolves
+112	9486162	5	1	5	25.0	26	8	3	3	2021	447	Karl-Anthony	7.0	Towns	C	18	18	Minnesota Timberwolves
+113	9486163	2	1	3	0.0	10	3	3	2	2021	45	Patrick	6.0	Beverley	G	18	18	Minnesota Timberwolves
+114	9486108	1	0	3	16.7	12	3	1	2	2021	61	Mikal	6.0	Bridges	F	24	24	Phoenix Suns
+115	9486109	3	0	5	45.5	19	5	2	2	2021	112	Jae	6.0	Crowder	F	24	24	Phoenix Suns
+116	9486110	0	1	6	0.0	16	9	0	2	2021	22	Deandre	7.0	Ayton	C	24	24	Phoenix Suns
+117	9486111	3	0	4	28.6	16	5	1	3	2021	57	Devin	6.0	Booker	G	24	24	Phoenix Suns
+118	9486112	12	0	2	33.3	15	2	5	2	2021	367	Chris	6.0	Paul	G	24	24	Phoenix Suns
+119	9486115	0	0	2	0.0	4	3	1	1	2021	306	JaVale	7.0	McGee	C	24	24	Phoenix Suns
+120	9485807	3	1	5	40.0	12	5	0	1	2021	17896045	Corey		Kispert	F	30	30	Washington Wizards
+121	9485808	3	1	5	25.0	29	5	0	1	2021	265	Kyle	6.0	Kuzma	F	30	30	Washington Wizards
+122	9485809	2	0	6	0.0	6	7	1	0	2021	666577	Daniel		Gafford	F	30	30	Washington Wizards
+123	9485810	3	2	2	42.9	16	3	0	2	2021	81	Kentavious	6.0	Caldwell-Pope	G	30	30	Washington Wizards
+124	9485811	10	0	2	16.7	22	3	2	0	2021	130	Spencer	6.0	Dinwiddie	G	30	30	Washington Wizards
+125	9485815	1	0	2	0.0	7	2	0	1	2021	666609	Rui		Hachimura	F	30	30	Washington Wizards
+126	9486129	0	0	0	0.0	2	5	1	0	2021	17896039	Justin		Champagnie	F	28	28	Toronto Raptors
+127	9486126	0	0	0	0.0	0	0	0	0	2021	17896094	Dalano		Banton	G	28	28	Toronto Raptors
+128	9486127	0	0	0	0.0	0	0	0	0	2021	56	Isaac	6.0	Bonga	G	28	28	Toronto Raptors
+129	9486240	2	0	4	50.0	13	4	0	4	2021	475	Andrew	6.0	Wiggins	F-G	10	10	Golden State Warriors
+130	9486241	0	0	2	0.0	0	2	0	3	2021	666925	Juan		Toscano-Anderson	F	10	10	Golden State Warriors
+131	9486242	1	0	4	0.0	6	6	1	1	2021	282	Kevon	6.0	Looney	F	10	10	Golden State Warriors
+132	9486171	0	1	0	0.0	0	0	0	0	2021	356	Josh	6.0	Okogie	G	18	18	Minnesota Timberwolves
+133	9486170	0	0	0	0.0	1	0	0	0	2021	666809	Jaylen		Nowell	G	18	18	Minnesota Timberwolves
+134	9486173	0	0	1	0.0	2	1	0	0	2021	667378	Naz		Reid	F-C	18	18	Minnesota Timberwolves
+135	9486172	1	1	0	100.0	5	0	0	0	2021	383	Taurean	6.0	Prince	F	18	18	Minnesota Timberwolves
+136	9486130	0	0	0	0.0	0	0	0	0	2021	3547275	Malachi		Flynn	G	28	28	Toronto Raptors
+137	9486174	1	0	0	100.0	14	0	0	0	2021	17896024	Herbert		Jones	F	19	19	New Orleans Pelicans
+138	9486175	9	1	4	85.7	33	4	1	5	2021	227	Brandon	6.0	Ingram	F	19	19	New Orleans Pelicans
+139	9486176	5	0	9	0.0	13	12	0	4	2021	455	Jonas	7.0	Valanciunas	C	19	19	New Orleans Pelicans
+140	9486177	5	0	6	25.0	21	9	1	3	2021	202	Josh	6.0	Hart	G	19	19	New Orleans Pelicans
+141	9486178	4	0	2	14.3	11	4	1	2	2021	180	Devonte'	6.0	Graham	G	19	19	New Orleans Pelicans
+142	9486182	0	0	1	0.0	13	1	1	1	2021	666626	Jaxson		Hayes	C	19	19	New Orleans Pelicans
+143	9486180	3	0	0	33.3	3	1	1	0	2021	17896097	Jose		Alvarado	G	19	19	New Orleans Pelicans
+144	9486179	6	0	2	66.7	9	2	1	4	2021	666400	Nickeil		Alexander-Walker	G	19	19	New Orleans Pelicans
+145	9486181	0	0	1	100.0	6	1	0	0	2021	98	Gary	6.0	Clark	F	19	19	New Orleans Pelicans
+146	9486183	0	0	0	0.0	0	0	0	0	2021	207	Willy	6.0	Hernangomez	C	19	19	New Orleans Pelicans
+147	9486184	0	0	0	0.0	0	0	0	0	2021	3547293	Naji		Marshall	F	19	19	New Orleans Pelicans
+148	9486185	0	0	0	0.0	0	0	0	0	2021	18677986	Trey		Murphy III	F	19	19	New Orleans Pelicans
+149	9486121	7	0	7	0.0	22	7	3	4	2021	416	Pascal	6.0	Siakam	F	28	28	Toronto Raptors
+150	9486122	2	0	2	0.0	6	6	1	1	2021	46	Khem	6.0	Birch	C	28	28	Toronto Raptors
+151	9486123	1	0	1	30.8	25	2	1	2	2021	18	OG	6.0	Anunoby	F	28	28	Toronto Raptors
+152	9486124	5	0	2	40.0	21	2	2	3	2021	458	Fred	6.0	VanVleet	G	28	28	Toronto Raptors
+153	9486128	0	3	7	0.0	13	16	0	2	2021	58	Chris	6.0	Boucher	F	28	28	Toronto Raptors
+154	9486125	0	0	4	0.0	6	6	2	0	2021	3547249	Precious		Achiuwa	F	28	28	Toronto Raptors
+155	9486243	3	1	3	40.0	14	3	1	3	2021	443	Klay	6.0	Thompson	G	10	10	Golden State Warriors
+156	9486244	10	0	9	22.2	27	10	2	3	2021	115	Stephen	6.0	Curry	G	10	10	Golden State Warriors
+157	9486251	2	2	1	16.7	12	1	0	1	2021	666848	Jordan		Poole	G	10	10	Golden State Warriors
+158	9486245	1	0	4	66.7	7	4	0	0	2021	49	Nemanja	6.0	Bjelica	F	10	10	Golden State Warriors
+159	9486247	2	1	3	0.0	0	3	1	0	2021	224	Andre	6.0	Iguodala	G-F	10	10	Golden State Warriors
+160	9486252	2	1	6	50.0	9	6	0	1	2021	376	Otto	6.0	Porter Jr.	F	10	10	Golden State Warriors
+161	9486164	10	0	1	40.0	18	1	1	2	2021	405	D'Angelo	6.0	Russell	G	18	18	Minnesota Timberwolves
+162	9486168	2	0	5	0.0	9	6	0	2	2021	3547259	Jaden		McDaniels	F	18	18	Minnesota Timberwolves
+163	9486165	0	0	3	75.0	18	4	0	0	2021	38	Malik	6.0	Beasley	G	18	18	Minnesota Timberwolves
+164	9486166	0	0	0	0.0	0	0	0	0	2021	3547295	Nathan		Knight	F-C	18	18	Minnesota Timberwolves
+165	9486167	0	0	0	0.0	0	0	0	0	2021	269	Jake	6.0	Layman	F	18	18	Minnesota Timberwolves
+166	9486169	0	0	0	0.0	0	0	0	0	2021	666767	Jordan		McLaughlin	G	18	18	Minnesota Timberwolves
+167	9486119	1	1	2	50.0	7	5	0	3	2021	3547264	Jalen		Smith	F-C	24	24	Phoenix Suns
+168	9486118	2	0	2	50.0	6	2	0	1	2021	414	Landry	6.0	Shamet	G	24	24	Phoenix Suns
+169	9486113	0	0	3	0.0	0	5	0	2	2021	48	Bismack	6.0	Biyombo	C	24	24	Phoenix Suns
+170	9486114	0	0	0	0.0	0	0	0	0	2021	666679	Cameron		Johnson	F	24	24	Phoenix Suns
+171	9486117	0	0	0	0.0	0	0	0	0	2021	369	Elfrid	6.0	Payton	G	24	24	Phoenix Suns
+172	9486120	0	0	1	0.0	0	1	1	1	2021	470	Yuta	6.0	Watanabe	G	28	28	Toronto Raptors
+173	9486132	0	0	1	0.0	0	2	0	1	2021	338	Svi	6.0	Mykhailiuk	G	28	28	Toronto Raptors
+174	9486131	0	0	0	0.0	0	0	0	0	2021	17896020	David		Johnson	G	28	28	Toronto Raptors
+175	9486619	4	1	3	20.0	14	5	0	2	2021	3547256	Saddiq		Bey	F	9	9	Detroit Pistons
+176	9486620	1	0	7	50.0	7	7	2	1	2021	128	Hamidou	6.0	Diallo	G	9	9	Detroit Pistons
+177	9486621	2	4	2	0.0	11	7	0	2	2021	3547267	Isaiah		Stewart	F-C	9	9	Detroit Pistons
+178	9486622	5	0	2	0.0	8	3	4	3	2021	3547241	Killian		Hayes	G	9	9	Detroit Pistons
+179	9486623	3	0	6	40.0	8	7	1	6	2021	17896075	Cade		Cunningham	G-F	9	9	Detroit Pistons
+180	9486625	0	0	0	20.0	16	2	2	3	2021	234	Josh	6.0	Jackson	F	9	9	Detroit Pistons
+181	9486627	1	0	2	0.0	7	3	0	1	2021	3547298	Saben		Lee	G	9	9	Detroit Pistons
+182	9486187	0	0	4	20.0	5	4	0	1	2021	436	Garrett	6.0	Temple	G-F	19	19	New Orleans Pelicans
+183	9486186	0	0	0	0.0	0	0	0	0	2021	408	Tomas	6.0	Satoransky	G-F	19	19	New Orleans Pelicans
+184	9486116	3	0	0	0.0	4	0	0	2	2021	368	Cameron		Payne	G	24	24	Phoenix Suns
+185	9486250	0	0	4	50.0	13	5	3	0	2021	2189	Gary		Payton II		10	10	Golden State Warriors
+186	9486249	1	0	1	0.0	2	1	0	0	2021	17553992	Moses		Moody	G	10	10	Golden State Warriors
+187	9486248	1	0	0	100.0	5	0	0	0	2021	272	Damion	6.0	Lee	G	10	10	Golden State Warriors
+188	9486246	0	0	0	0.0	0	0	0	0	2021	50661	Chris		Chiozza	G	10	10	Golden State Warriors
+189	9486253	0	0	0	0.0	0	0	0	0	2021	666953	Quinndary		Weatherspoon	G	10	10	Golden State Warriors
+190	9486255	2	0	1	42.9	17	1	0	1	2021	17896027	Ziaire		Williams	G-F	15	15	Memphis Grizzlies
+191	9485814	0	0	0	0.0	0	0	0	0	2021	3547302	Anthony		Gill	F	30	30	Washington Wizards
+192	9485817	0	0	0	0.0	0	0	0	0	2021	213	Aaron	6.0	Holiday	G	30	30	Washington Wizards
+193	9485818	0	0	0	0.0	0	0	0	0	2021	325	Greg		Monroe	C	30	30	Washington Wizards
+194	9486629	0	0	1	0.0	4	2	0	0	2021	3547273	Cassius		Stanley	G	9	9	Detroit Pistons
+195	9486624	0	2	0	0.0	6	2	0	0	2021	17896056	Luka		Garza	C	9	9	Detroit Pistons
+196	9486626	0	0	0	0.0	0	0	0	0	2021	251	Cory	6.0	Joseph	G	9	9	Detroit Pistons
+197	9486630	0	0	2	100.0	6	2	0	0	2021	247	Derrick	6.0	Jones Jr.	F-G	5	5	Chicago Bulls
+198	9486631	7	0	10	0.0	20	12	0	3	2021	125	DeMar	6.0	DeRozan	G	5	5	Chicago Bulls
+199	9486632	4	0	5	50.0	22	8	2	2	2021	460	Nikola	7.0	Vucevic	C	5	5	Chicago Bulls
