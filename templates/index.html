@@ -1,9 +1,14 @@
 {%extends "base.html"%}
 
 {%block content%}
+
 <div class="container">
     <br>
-    <h2>WELCOME TO F1STATS!</h2>
+    <div class="welcome_header">
+        <h2>Waddup Nerds!</h2>
+        <h3>Where we look at the numbers instead of watching the games.</h3>
+    </div>
+
     </br>
     This web application produces race results, driver and constructor rankings, up-to-date timetables, circuit
     layouts,
@@ -17,21 +22,27 @@
     Questions, comments, or concerns? Feel free to reach out on LinkedIn and check out the source code here!
 
     Last updated: December 18th, 2020
+
 </div>
-<!-- {{%blockCharts%}} -->
-<div class="container">
-    <div class="row">
-        <div class="col">
-            <img src="" alt="Chart">
-            Column
-        </div>
-        <div class="col">
-            <img src="" alt="Chart">
-            Column
-        </div>
-        <div class="col">
-            <img src="" alt="Chart">
-            Column
+
+<div class="row">
+    <div class="col-sm-5">
+        <div class="card">
+            <h3>Teams</h3>
+            <table class="table table-dark table-striped">
+                <tr>
+                    {% for headings in teams_headings %}
+                    <th scope="col">{{ headings }}</th>
+                    {% endfor %}
+                </tr>
+                {% for row in teams %}
+                <tr>
+                    {% for cell in row %}
+                    <td>{{ cell }}</td>
+                    {% endfor %}
+                </tr>
+                {% endfor %}
+            </table>
         </div>
     </div>
 </div>
