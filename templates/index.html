@@ -23,8 +23,15 @@
 
     Last updated: December 18th, 2020
 
-</div>
+    <div class='row p-4'>
+        <div class='card mb-4 ml-auto mr-auto' style='width: 90%;' data-aos='slide-up'>
+            <div class='card-body'>
+                <div id='chart1'></div>
+            </div>
+        </div>
+    </div>
 
+</div>
 <div class="row">
     <div class="col-sm-5">
         <div class="card">
@@ -35,7 +42,7 @@
                     <th scope="col">{{ headings }}</th>
                     {% endfor %}
                 </tr>
-                {% for row in teams %}
+                {% for row in seasons %}
                 <tr>
                     {% for cell in row %}
                     <td>{{ cell }}</td>
@@ -46,4 +53,12 @@
         </div>
     </div>
 </div>
+
+<script src=“https://cdn.plot.ly/plotly-latest.min.js”></script>
+<script>
+    let graphData = JSON.parse('{{ graph1JSON  }}')
+    Plotly.plot('chart1', graphData);
+
+</script>
+
 {%endblock content%}
