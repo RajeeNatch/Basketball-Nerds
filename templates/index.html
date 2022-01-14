@@ -23,27 +23,21 @@
 
     Last updated: December 18th, 2020
 
-</div>
-
-<div class="row">
-    <div class="col-sm-5">
-        <div class="card">
-            <h3>Teams</h3>
-            <table class="table table-dark table-striped">
-                <tr>
-                    {% for headings in teams_headings %}
-                    <th scope="col">{{ headings }}</th>
-                    {% endfor %}
-                </tr>
-                {% for row in teams %}
-                <tr>
-                    {% for cell in row %}
-                    <td>{{ cell }}</td>
-                    {% endfor %}
-                </tr>
-                {% endfor %}
-            </table>
+    <div class='row p-4'>
+        <div class='card mb-4 ml-auto mr-auto' style='width: 90%;' data-aos='slide-up'>
+            <div class='card-body'>
+                <div id='chart1'></div>
+            </div>
         </div>
     </div>
-</div>
-{%endblock content%}
+
+
+
+    <script src=“https://cdn.plot.ly/plotly-latest.min.js”></script>
+    <script>
+        let graphData = JSON.parse('{{ graph1JSON | tojson | safe }}')
+        Plotly.plot('chart1', graphData);
+
+    </script>
+
+    {%endblock content%}
