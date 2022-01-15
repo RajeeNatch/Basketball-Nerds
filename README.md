@@ -27,6 +27,6 @@ Once you've loaded the data and created a virtual enviorment, make sure to insta
 Run python app.py in your terminal and open the browser address that it instructs. 
 
 ## Authors
-Rajeswari Natchiappan
-Alexander Lorin
+Rajeswari Natchiappan,
+Alexander Lorin,
 Ra Ish Andrews
