@@ -3,31 +3,38 @@
 <!-- {%for player in players%}
 <div>{{player}}</div>
 {%endfor%} -->
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-md-8">
-            <div class="card">
-                <h3>NBA Players</h3>
-                <table class="table table-dark table-striped">
-                    <thead>
-                        <th>Index</th>
-                        <th>player id</th>
-                        <th>First name</th>
-                        <th>Last name</th>
-                        <th>Positions</th>
-                        <th>Team id</th>
-                        <th>Team fullname</th>
-                    </thead>
-                    {%for row in players%}
-                    <tr>
-                        {% for cell in row %}
-                        <td>{{ cell }}</td>
-                        {% endfor %}
-                    </tr>
-                    {% endfor %}
-                </table>
-            </div>
+<div class="row p-4">
+    <div class="card mb-4 ml-auto mr-auto" style="width: 90%;" data-aos="slide-up">
+        <div class="card-body">
+            <div id = "chart2"></div>
+            <p>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni, dignissimos nesciunt. Explicabo, dolorem! Aspernatur ipsa nam ea minus reiciendis! Nesciunt exercitationem quaerat tenetur cumque laudantium, facilis sit fugit ea enim suscipit, officiis quia consectetur, minus accusantium. Veritatis odio quae, eos ad ut impedit ab corporis consequuntur consectetur veniam. Non voluptatibus fuga earum minus aspernatur ad reiciendis eos dolorem saepe nisi tenetur voluptatum cumque aut qui, neque dignissimos at eveniet dicta perferendis ipsum hic dolore. Voluptatum esse veritatis amet harum iure.
+            </p>
+            
         </div>
     </div>
+
 </div>
+<div class="row p-4">
+    <div class="card mb-4 ml-auto mr-auto" style="width: 90%;" data-aos="slide-up">
+        <div class="card-body">
+            <div id = "chart3"></div>
+            <p>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni, dignissimos nesciunt. Explicabo, dolorem! Aspernatur ipsa nam ea minus reiciendis! Nesciunt exercitationem quaerat tenetur cumque laudantium, facilis sit fugit ea enim suscipit, officiis quia consectetur, minus accusantium. Veritatis odio quae, eos ad ut impedit ab corporis consequuntur consectetur veniam. Non voluptatibus fuga earum minus aspernatur ad reiciendis eos dolorem saepe nisi tenetur voluptatum cumque aut qui, neque dignissimos at eveniet dicta perferendis ipsum hic dolore. Voluptatum esse veritatis amet harum iure.
+            </p>
+            
+        </div>
+    </div>
+
+</div>
+
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+
+<script>
+    var table1 = {{players | safe}};
+    Plotly.plot("chart2", table1, {})
+    var graph2 = {{graph3JSON | safe}};
+    Plotly.plot("chart3", graph2, {})
+</script>
 {%endblock content%}
