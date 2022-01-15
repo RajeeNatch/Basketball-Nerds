@@ -57,6 +57,19 @@ CREATE TABLE public.games
 	team_id	INT NOT NULL,
 	team_full_name VARCHAR (50) NOT NULL
   );
+  
+  CREATE TABLE public.stats_avg
+(
+	ast	INT NOT NULL,
+	blk	INT NOT NULL,
+	pts	INT NOT NULL,
+	reb	INT NOT NULL,
+	stl	INT NOT NULL,
+	turnover INT NOT NULL,	
+	game_season INT NOT NULL,	
+	player_fullname VARCHAR (50) NOT NULL	
+	
+  );
 
 ALTER TABLE teams
 ADD CONSTRAINT PK_teams PRIMARY KEY (team_id)
