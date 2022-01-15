@@ -1,43 +1,44 @@
 {%extends "base.html"%}
 
 {%block content%}
-
-<div class="container">
-    <br>
-    <div class="welcome_header">
-        <h2>Waddup Nerds!</h2>
-        <h3>Where we look at the numbers instead of watching the games.</h3>
+    <div class="site-header-logo">
+        <h1 class = "text-center">
+            Basketball Nerds
+        </h1>
     </div>
-
-    </br>
-    This web application produces race results, driver and constructor rankings, up-to-date timetables, circuit
-    layouts,
-    and comparisons of Formula 1 seasons from 1950 to the present.
-
-    Built with Python, Dash, and the Ergast Developer API (Motor Racing Data), this application provides users an
-    in-depth look at the numbers behind Formula 1.
-
-    NOTE: This app optimized for desktop use - A mobile layout will be released in the future.
-
-    Questions, comments, or concerns? Feel free to reach out on LinkedIn and check out the source code here!
-
-    Last updated: December 18th, 2020
-
-    <div class='row p-4'>
-        <div class='card mb-4 ml-auto mr-auto' style='width: 90%;' data-aos='slide-up'>
-            <div class='card-body'>
-                <div id='chart1'></div>
+    <div class="container">
+        <br>
+        <div class="row>
+            <div class="welcome_header">
+                <h2>Waddup Nerds!</h2>
+                <h3>Where we look at the numbers instead of watching the games.</h3>
             </div>
         </div>
     </div>
 
+    <div class="row p-4">
+        <div class="card mb-4 ml-auto mr-auto" style="width: 90%;" data-aos="slide-up">
+            <div class="card-body">
+                <div id = "chart1"></div>
+                <p>
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni, dignissimos nesciunt. Explicabo, dolorem! Aspernatur ipsa nam ea minus reiciendis! Nesciunt exercitationem quaerat tenetur cumque laudantium, facilis sit fugit ea enim suscipit, officiis quia consectetur, minus accusantium. Veritatis odio quae, eos ad ut impedit ab corporis consequuntur consectetur veniam. Non voluptatibus fuga earum minus aspernatur ad reiciendis eos dolorem saepe nisi tenetur voluptatum cumque aut qui, neque dignissimos at eveniet dicta perferendis ipsum hic dolore. Voluptatum esse veritatis amet harum iure.
+                </p>
+                
+            </div>
+        </div>
+
+    </div>
 
 
-    <script src=“https://cdn.plot.ly/plotly-latest.min.js”></script>
+
+
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+
     <script>
-        let graphData = JSON.parse('{{ graph1JSON | tojson | safe }}')
-        Plotly.plot('chart1', graphData);
+        var graph1 = {{graph1JSON | safe}};
+        Plotly.plot("chart1", graph1, {})
 
     </script>
 
-    {%endblock content%}
+{%endblock content%}

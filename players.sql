@@ -21,19 +21,15 @@ CREATE TABLE IF NOT EXISTS public.players
 
 CREATE TABLE public.games
 (
-  game_id INT NOT NULL,
-  game_date DATE NOT NULL,
-  home_team_score INT NOT NULL,	
-  periods INT NOT NULL,	
-  postseason VARCHAR (10) NOT NULL,	
-  season INT NOT NULL,	
-  status VARCHAR (10) NOT NULL,		
+  game_id VARCHAR ( 50 ) NOT NULL PRIMARY KEY,
+  home_team_score INT NOT NULL,		
+  season INT NOT NULL,		
   visitor_team_score INT NOT NULL,	
-  home_team_id INT NOT NULL,
-  home_team_full_name VARCHAR ( 50 ) UNIQUE NOT NULL,	
-  visitor_team_id INT NOT NULL,	
-  visitor_team_full_name VARCHAR ( 50 ) UNIQUE NOT NULL,
-  player_id INT NOT NULL
+  home_team_id VARCHAR ( 50 ) NOT NULL,
+  home_team_full_name VARCHAR ( 50 ) NOT NULL,	
+  visitor_team_id VARCHAR ( 50 ) NOT NULL,	
+  visitor_team_full_name VARCHAR ( 50 ) NOT NULL,
+  player_id VARCHAR ( 50 ) NOT NULL
   );
   
   CREATE TABLE public.stats
@@ -82,3 +78,11 @@ ADD CONSTRAINT PK_teams PRIMARY KEY (games_id)
 
 ALTER TABLE stats
 ADD CONSTRAINT PK_teams PRIMARY KEY (id)
+
+Create Table public.seasons
+(
+	Season VARCHAR (30),	
+	Teams VARCHAR (30),	
+ 	Number_of_Wins INT,	
+ 	Number_of_Losses INT, 	
+ 	Win_Per DECIMAL(2,2) )
