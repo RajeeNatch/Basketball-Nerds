@@ -66,6 +66,19 @@ CREATE TABLE public.games
 	player_fullname VARCHAR (50) NOT NULL	
 	
   );
+  
+  CREATE TABLE IF NOT EXISTS public.size
+(
+   player_id INT NOT NULL,
+  first_name VARCHAR ( 50 ) UNIQUE ,
+  last_name VARCHAR ( 50 ),
+  height_feet float,
+  height_inches float,
+  weight_pounds float,
+  positions VARCHAR ( 50 ) UNIQUE NOT NULL,
+  team_full_name VARCHAR ( 50 ) UNIQUE NOT NULL,
+  PRIMARY KEY (player_id)
+)
 
 ALTER TABLE teams
 ADD CONSTRAINT PK_teams PRIMARY KEY (team_id)
