@@ -17,9 +17,20 @@ We used plotly and dash with in our flask file to configure the charts and table
 
 ### Home Tab:
 
+<img width="633" alt="Screen Shot 2022-01-15 at 6 32 52 PM" src="https://user-images.githubusercontent.com/77027814/149641092-39549396-8221-49c8-b100-9666eee79407.png">
+
+
 ### Players Tab:
+<img width="577" alt="Screen Shot 2022-01-15 at 6 34 05 PM" src="https://user-images.githubusercontent.com/77027814/149641111-fc1cff3d-f32e-402a-9ed9-5587aa1f2448.png">
+
+<img width="589" alt="Screen Shot 2022-01-15 at 6 34 19 PM" src="https://user-images.githubusercontent.com/77027814/149641120-47566cd6-e7f4-4718-8128-424ddaa2bda4.png">
+
+
+
 
 ### Schedule Tab: 
+
+
 
 ## Running the script
 

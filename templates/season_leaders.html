@@ -1,0 +1,36 @@
+{%extends "base.html"%}
+{%block content%}
+
+<div class="row p-4">
+    <div class="card mb-4 ml-auto mr-auto" style="width: 90%;" data-aos="slide-up">
+        <div class="card-body">
+            <div id = "chart5"></div>
+            <div id = "chart6"></div>
+            <div id = "chart7"></div>
+            <div id = "chart8"></div>
+            <div id = "chart9"></div>
+            <div id = "chart10"></div>
+
+            
+        </div>
+    </div>
+
+</div>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+
+<script>
+    var graph5 = {{graph5JSON | safe}};
+    Plotly.plot("chart5", graph5, {})
+    var graph6 = {{graph6JSON | safe}};
+    Plotly.plot("chart6", graph6, {})
+    var graph7 = {{graph7JSON | safe}};
+    Plotly.plot("chart7", graph7, {})
+    var graph8 = {{graph8JSON | safe}};
+    Plotly.plot("chart8", graph8, {})
+    var graph9 = {{graph9JSON | safe}};
+    Plotly.plot("chart9", graph9, {})
+    var graph10 = {{graph10JSON | safe}};
+    Plotly.plot("chart10", graph10, {})
+</script>
+{%endblock content%}
