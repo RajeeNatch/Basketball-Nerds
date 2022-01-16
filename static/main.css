@@ -1,3 +1,13 @@
 .welcome_header{
     text-align: center;
 }
+<img src="https://i0.wp.com/90ten.net/wp-content/uploads/2015/07/wood-court-background.png?ssl=1" id="bg" alt="">
+#bg {
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+      
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+  }

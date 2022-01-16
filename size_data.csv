@@ -1,0 +1,3801 @@
+,id,first_name,height_feet,height_inches,last_name,position,weight_pounds,team.full_name
+0,14,Ike,,,Anigbogu,C,,Indiana Pacers
+1,25,Ron,,,Baker,G,,New York Knicks
+2,47,Jabari,,,Bird,G,,Boston Celtics
+3,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+4,71,Lorenzo,,,Brown,G,,Toronto Raptors
+5,90,Omri,,,Casspi,F,,Memphis Grizzlies
+6,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+7,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+8,149,Keenan,,,Evans,G,,Detroit Pistons
+9,179,Marcin,,,Gortat,C,,LA Clippers
+10,1593,Andrew,,,Bogut,F,,Golden State Warriors
+11,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+12,392,Malachi,,,Richardson,G,,Utah Jazz
+13,281,Zach,,,Lofton,G,,Detroit Pistons
+14,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+15,382,Billy,,,Preston,F,,Cleveland Cavaliers
+16,384,Zhou,,,Qi,F-C,,Houston Rockets
+17,388,Zach,,,Randolph,F,,Sacramento Kings
+18,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+19,437,Milos,,,Teodosic,G,,LA Clippers
+20,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+21,494,Michael,,,Smith,,,Boston Celtics
+22,495,John,,,Morton,,,Cleveland Cavaliers
+23,496,Howard,,,Wright,,,Atlanta Hawks
+24,497,Michael,,,Ansley,,,Orlando Magic
+25,498,John,,,Salley,,,Detroit Pistons
+26,499,Dan,,,Schayes,,,Milwaukee Bucks
+27,500,Mark,,,Eaton,,,Utah Jazz
+28,501,Kevin,,,Johnson,,,Phoenix Suns
+29,502,Danny,,,Ainge,,,Portland Trail Blazers
+30,503,Kenny,,,Smith,,,Houston Rockets
+31,504,Randy,,,Breuer,,,Minnesota Timberwolves
+32,505,Herb,,,Williams,,,Dallas Mavericks
+33,506,Joe,,,Wolf,,,Denver Nuggets
+34,507,Steve,,,Johnson,,,Golden State Warriors
+35,508,Glen,,,Rice,,,Miami Heat
+36,509,Greg,,,Foster,,,Washington Wizards
+37,510,Larry,,,Nance,,,Cleveland Cavaliers
+38,511,Duane,,,Ferrell,,,Atlanta Hawks
+39,512,Nick,,,Anderson,,,Orlando Magic
+40,513,Joe,,,Dumars,,,Detroit Pistons
+41,514,Jay,,,Humphries,,,Milwaukee Bucks
+42,515,Darrell,,,Griffith,,,Utah Jazz
+43,516,Dan,,,Majerle,,,Phoenix Suns
+44,517,Tom,,,Chambers,,,Phoenix Suns
+45,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+46,519,Adrian,,,Caldwell,,,Houston Rockets
+47,520,Vernon,,,Maxwell,,,Houston Rockets
+48,521,Doug,,,West,,,Minnesota Timberwolves
+49,522,Tony,,,Campbell,,,Minnesota Timberwolves
+50,523,Roy,,,Tarpley,,,Dallas Mavericks
+51,524,Anthony,,,Cook,,,Denver Nuggets
+52,525,Todd,,,Lichti,,,Denver Nuggets
+53,526,Tom,,,Tolbert,,,Golden State Warriors
+54,527,Billy,,,Thompson,,,Miami Heat
+55,528,Byron,,,Irvin,,,Washington Wizards
+56,529,Mark,,,Price,,,Cleveland Cavaliers
+57,530,Dominique,,,Wilkins,,,Atlanta Hawks
+58,531,Dennis,,,Scott,,,Orlando Magic
+59,532,Terry,,,Catledge,,,Orlando Magic
+60,533,Bill,,,Laimbeer,,,Detroit Pistons
+61,534,William,,,Bedford,,,Detroit Pistons
+62,535,Ricky,,,Pierce,,,Milwaukee Bucks
+63,536,Blue,,,Edwards,,,Utah Jazz
+64,537,Walter,,,Palmer,,,Utah Jazz
+65,538,Mark,,,West,,,Phoenix Suns
+66,539,Clifford,,,Robinson,,,Portland Trail Blazers
+67,540,Hakeem,,,Olajuwon,,,Houston Rockets
+68,541,Richard,,,Coffey,,,Minnesota Timberwolves
+69,542,James,,,Donaldson,,,Dallas Mavericks
+70,543,Jerome,,,Lane,,,Denver Nuggets
+71,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+72,545,Grant,,,Long,,,Miami Heat
+73,546,Willie,,,Burton,,,Miami Heat
+74,547,Mark,,,Alarie,,,Washington Wizards
+75,548,Winston,,,Bennett,,,Cleveland Cavaliers
+76,549,Doc,,,Rivers,,,Atlanta Hawks
+77,550,Tim,,,McCormick,,,Atlanta Hawks
+78,551,Scott,,,Skiles,,,Orlando Magic
+79,552,Dennis,,,Rodman,,,Detroit Pistons
+80,553,Greg,,,Anderson,,,Milwaukee Bucks
+81,554,Jeff,,,Malone,,,Utah Jazz
+82,555,Cedric,,,Ceballos,,,Phoenix Suns
+83,556,Tim,,,Perry,,,Phoenix Suns
+84,557,Buck,,,Williams,,,Portland Trail Blazers
+85,558,Dave,,,Jamerson,,,Houston Rockets
+86,559,Scott,,,Brooks,,,Minnesota Timberwolves
+87,560,Rolando,,,Blackman,,,Dallas Mavericks
+88,561,Avery,,,Johnson,,,Denver Nuggets
+89,562,Rod,,,Higgins,,,Golden State Warriors
+90,563,Jon,,,Sundvold,,,Miami Heat
+91,564,A.J.,,,English,,,Washington Wizards
+92,565,John,,,Battle,,,Atlanta Hawks
+93,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+94,566,Sam,,,Vincent,,,Orlando Magic
+95,567,Isiah,,,Thomas,,,Detroit Pistons
+96,568,Brad,,,Lohaus,,,Milwaukee Bucks
+97,569,Mike,,,Brown,,,Utah Jazz
+98,570,Kenny,,,Battle,,,Phoenix Suns
+99,571,Danny,,,Young,,,Portland Trail Blazers
+100,14,Ike,,,Anigbogu,C,,Indiana Pacers
+101,25,Ron,,,Baker,G,,New York Knicks
+102,47,Jabari,,,Bird,G,,Boston Celtics
+103,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+104,71,Lorenzo,,,Brown,G,,Toronto Raptors
+105,90,Omri,,,Casspi,F,,Memphis Grizzlies
+106,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+107,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+108,149,Keenan,,,Evans,G,,Detroit Pistons
+109,179,Marcin,,,Gortat,C,,LA Clippers
+110,1593,Andrew,,,Bogut,F,,Golden State Warriors
+111,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+112,392,Malachi,,,Richardson,G,,Utah Jazz
+113,281,Zach,,,Lofton,G,,Detroit Pistons
+114,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+115,382,Billy,,,Preston,F,,Cleveland Cavaliers
+116,384,Zhou,,,Qi,F-C,,Houston Rockets
+117,388,Zach,,,Randolph,F,,Sacramento Kings
+118,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+119,437,Milos,,,Teodosic,G,,LA Clippers
+120,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+121,494,Michael,,,Smith,,,Boston Celtics
+122,495,John,,,Morton,,,Cleveland Cavaliers
+123,496,Howard,,,Wright,,,Atlanta Hawks
+124,497,Michael,,,Ansley,,,Orlando Magic
+125,498,John,,,Salley,,,Detroit Pistons
+126,499,Dan,,,Schayes,,,Milwaukee Bucks
+127,500,Mark,,,Eaton,,,Utah Jazz
+128,501,Kevin,,,Johnson,,,Phoenix Suns
+129,502,Danny,,,Ainge,,,Portland Trail Blazers
+130,503,Kenny,,,Smith,,,Houston Rockets
+131,504,Randy,,,Breuer,,,Minnesota Timberwolves
+132,505,Herb,,,Williams,,,Dallas Mavericks
+133,506,Joe,,,Wolf,,,Denver Nuggets
+134,507,Steve,,,Johnson,,,Golden State Warriors
+135,508,Glen,,,Rice,,,Miami Heat
+136,509,Greg,,,Foster,,,Washington Wizards
+137,510,Larry,,,Nance,,,Cleveland Cavaliers
+138,511,Duane,,,Ferrell,,,Atlanta Hawks
+139,512,Nick,,,Anderson,,,Orlando Magic
+140,513,Joe,,,Dumars,,,Detroit Pistons
+141,514,Jay,,,Humphries,,,Milwaukee Bucks
+142,515,Darrell,,,Griffith,,,Utah Jazz
+143,516,Dan,,,Majerle,,,Phoenix Suns
+144,517,Tom,,,Chambers,,,Phoenix Suns
+145,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+146,519,Adrian,,,Caldwell,,,Houston Rockets
+147,520,Vernon,,,Maxwell,,,Houston Rockets
+148,521,Doug,,,West,,,Minnesota Timberwolves
+149,522,Tony,,,Campbell,,,Minnesota Timberwolves
+150,523,Roy,,,Tarpley,,,Dallas Mavericks
+151,524,Anthony,,,Cook,,,Denver Nuggets
+152,525,Todd,,,Lichti,,,Denver Nuggets
+153,526,Tom,,,Tolbert,,,Golden State Warriors
+154,527,Billy,,,Thompson,,,Miami Heat
+155,528,Byron,,,Irvin,,,Washington Wizards
+156,529,Mark,,,Price,,,Cleveland Cavaliers
+157,530,Dominique,,,Wilkins,,,Atlanta Hawks
+158,531,Dennis,,,Scott,,,Orlando Magic
+159,532,Terry,,,Catledge,,,Orlando Magic
+160,533,Bill,,,Laimbeer,,,Detroit Pistons
+161,534,William,,,Bedford,,,Detroit Pistons
+162,535,Ricky,,,Pierce,,,Milwaukee Bucks
+163,536,Blue,,,Edwards,,,Utah Jazz
+164,537,Walter,,,Palmer,,,Utah Jazz
+165,538,Mark,,,West,,,Phoenix Suns
+166,539,Clifford,,,Robinson,,,Portland Trail Blazers
+167,540,Hakeem,,,Olajuwon,,,Houston Rockets
+168,541,Richard,,,Coffey,,,Minnesota Timberwolves
+169,542,James,,,Donaldson,,,Dallas Mavericks
+170,543,Jerome,,,Lane,,,Denver Nuggets
+171,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+172,545,Grant,,,Long,,,Miami Heat
+173,546,Willie,,,Burton,,,Miami Heat
+174,547,Mark,,,Alarie,,,Washington Wizards
+175,548,Winston,,,Bennett,,,Cleveland Cavaliers
+176,549,Doc,,,Rivers,,,Atlanta Hawks
+177,550,Tim,,,McCormick,,,Atlanta Hawks
+178,551,Scott,,,Skiles,,,Orlando Magic
+179,552,Dennis,,,Rodman,,,Detroit Pistons
+180,553,Greg,,,Anderson,,,Milwaukee Bucks
+181,554,Jeff,,,Malone,,,Utah Jazz
+182,555,Cedric,,,Ceballos,,,Phoenix Suns
+183,556,Tim,,,Perry,,,Phoenix Suns
+184,557,Buck,,,Williams,,,Portland Trail Blazers
+185,558,Dave,,,Jamerson,,,Houston Rockets
+186,559,Scott,,,Brooks,,,Minnesota Timberwolves
+187,560,Rolando,,,Blackman,,,Dallas Mavericks
+188,561,Avery,,,Johnson,,,Denver Nuggets
+189,562,Rod,,,Higgins,,,Golden State Warriors
+190,563,Jon,,,Sundvold,,,Miami Heat
+191,564,A.J.,,,English,,,Washington Wizards
+192,565,John,,,Battle,,,Atlanta Hawks
+193,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+194,566,Sam,,,Vincent,,,Orlando Magic
+195,567,Isiah,,,Thomas,,,Detroit Pistons
+196,568,Brad,,,Lohaus,,,Milwaukee Bucks
+197,569,Mike,,,Brown,,,Utah Jazz
+198,570,Kenny,,,Battle,,,Phoenix Suns
+199,571,Danny,,,Young,,,Portland Trail Blazers
+200,14,Ike,,,Anigbogu,C,,Indiana Pacers
+201,25,Ron,,,Baker,G,,New York Knicks
+202,47,Jabari,,,Bird,G,,Boston Celtics
+203,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+204,71,Lorenzo,,,Brown,G,,Toronto Raptors
+205,90,Omri,,,Casspi,F,,Memphis Grizzlies
+206,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+207,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+208,149,Keenan,,,Evans,G,,Detroit Pistons
+209,179,Marcin,,,Gortat,C,,LA Clippers
+210,1593,Andrew,,,Bogut,F,,Golden State Warriors
+211,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+212,392,Malachi,,,Richardson,G,,Utah Jazz
+213,281,Zach,,,Lofton,G,,Detroit Pistons
+214,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+215,382,Billy,,,Preston,F,,Cleveland Cavaliers
+216,384,Zhou,,,Qi,F-C,,Houston Rockets
+217,388,Zach,,,Randolph,F,,Sacramento Kings
+218,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+219,437,Milos,,,Teodosic,G,,LA Clippers
+220,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+221,494,Michael,,,Smith,,,Boston Celtics
+222,495,John,,,Morton,,,Cleveland Cavaliers
+223,496,Howard,,,Wright,,,Atlanta Hawks
+224,497,Michael,,,Ansley,,,Orlando Magic
+225,498,John,,,Salley,,,Detroit Pistons
+226,499,Dan,,,Schayes,,,Milwaukee Bucks
+227,500,Mark,,,Eaton,,,Utah Jazz
+228,501,Kevin,,,Johnson,,,Phoenix Suns
+229,502,Danny,,,Ainge,,,Portland Trail Blazers
+230,503,Kenny,,,Smith,,,Houston Rockets
+231,504,Randy,,,Breuer,,,Minnesota Timberwolves
+232,505,Herb,,,Williams,,,Dallas Mavericks
+233,506,Joe,,,Wolf,,,Denver Nuggets
+234,507,Steve,,,Johnson,,,Golden State Warriors
+235,508,Glen,,,Rice,,,Miami Heat
+236,509,Greg,,,Foster,,,Washington Wizards
+237,510,Larry,,,Nance,,,Cleveland Cavaliers
+238,511,Duane,,,Ferrell,,,Atlanta Hawks
+239,512,Nick,,,Anderson,,,Orlando Magic
+240,513,Joe,,,Dumars,,,Detroit Pistons
+241,514,Jay,,,Humphries,,,Milwaukee Bucks
+242,515,Darrell,,,Griffith,,,Utah Jazz
+243,516,Dan,,,Majerle,,,Phoenix Suns
+244,517,Tom,,,Chambers,,,Phoenix Suns
+245,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+246,519,Adrian,,,Caldwell,,,Houston Rockets
+247,520,Vernon,,,Maxwell,,,Houston Rockets
+248,521,Doug,,,West,,,Minnesota Timberwolves
+249,522,Tony,,,Campbell,,,Minnesota Timberwolves
+250,523,Roy,,,Tarpley,,,Dallas Mavericks
+251,524,Anthony,,,Cook,,,Denver Nuggets
+252,525,Todd,,,Lichti,,,Denver Nuggets
+253,526,Tom,,,Tolbert,,,Golden State Warriors
+254,527,Billy,,,Thompson,,,Miami Heat
+255,528,Byron,,,Irvin,,,Washington Wizards
+256,529,Mark,,,Price,,,Cleveland Cavaliers
+257,530,Dominique,,,Wilkins,,,Atlanta Hawks
+258,531,Dennis,,,Scott,,,Orlando Magic
+259,532,Terry,,,Catledge,,,Orlando Magic
+260,533,Bill,,,Laimbeer,,,Detroit Pistons
+261,534,William,,,Bedford,,,Detroit Pistons
+262,535,Ricky,,,Pierce,,,Milwaukee Bucks
+263,536,Blue,,,Edwards,,,Utah Jazz
+264,537,Walter,,,Palmer,,,Utah Jazz
+265,538,Mark,,,West,,,Phoenix Suns
+266,539,Clifford,,,Robinson,,,Portland Trail Blazers
+267,540,Hakeem,,,Olajuwon,,,Houston Rockets
+268,541,Richard,,,Coffey,,,Minnesota Timberwolves
+269,542,James,,,Donaldson,,,Dallas Mavericks
+270,543,Jerome,,,Lane,,,Denver Nuggets
+271,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+272,545,Grant,,,Long,,,Miami Heat
+273,546,Willie,,,Burton,,,Miami Heat
+274,547,Mark,,,Alarie,,,Washington Wizards
+275,548,Winston,,,Bennett,,,Cleveland Cavaliers
+276,549,Doc,,,Rivers,,,Atlanta Hawks
+277,550,Tim,,,McCormick,,,Atlanta Hawks
+278,551,Scott,,,Skiles,,,Orlando Magic
+279,552,Dennis,,,Rodman,,,Detroit Pistons
+280,553,Greg,,,Anderson,,,Milwaukee Bucks
+281,554,Jeff,,,Malone,,,Utah Jazz
+282,555,Cedric,,,Ceballos,,,Phoenix Suns
+283,556,Tim,,,Perry,,,Phoenix Suns
+284,557,Buck,,,Williams,,,Portland Trail Blazers
+285,558,Dave,,,Jamerson,,,Houston Rockets
+286,559,Scott,,,Brooks,,,Minnesota Timberwolves
+287,560,Rolando,,,Blackman,,,Dallas Mavericks
+288,561,Avery,,,Johnson,,,Denver Nuggets
+289,562,Rod,,,Higgins,,,Golden State Warriors
+290,563,Jon,,,Sundvold,,,Miami Heat
+291,564,A.J.,,,English,,,Washington Wizards
+292,565,John,,,Battle,,,Atlanta Hawks
+293,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+294,566,Sam,,,Vincent,,,Orlando Magic
+295,567,Isiah,,,Thomas,,,Detroit Pistons
+296,568,Brad,,,Lohaus,,,Milwaukee Bucks
+297,569,Mike,,,Brown,,,Utah Jazz
+298,570,Kenny,,,Battle,,,Phoenix Suns
+299,571,Danny,,,Young,,,Portland Trail Blazers
+300,14,Ike,,,Anigbogu,C,,Indiana Pacers
+301,25,Ron,,,Baker,G,,New York Knicks
+302,47,Jabari,,,Bird,G,,Boston Celtics
+303,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+304,71,Lorenzo,,,Brown,G,,Toronto Raptors
+305,90,Omri,,,Casspi,F,,Memphis Grizzlies
+306,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+307,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+308,149,Keenan,,,Evans,G,,Detroit Pistons
+309,179,Marcin,,,Gortat,C,,LA Clippers
+310,1593,Andrew,,,Bogut,F,,Golden State Warriors
+311,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+312,392,Malachi,,,Richardson,G,,Utah Jazz
+313,281,Zach,,,Lofton,G,,Detroit Pistons
+314,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+315,382,Billy,,,Preston,F,,Cleveland Cavaliers
+316,384,Zhou,,,Qi,F-C,,Houston Rockets
+317,388,Zach,,,Randolph,F,,Sacramento Kings
+318,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+319,437,Milos,,,Teodosic,G,,LA Clippers
+320,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+321,494,Michael,,,Smith,,,Boston Celtics
+322,495,John,,,Morton,,,Cleveland Cavaliers
+323,496,Howard,,,Wright,,,Atlanta Hawks
+324,497,Michael,,,Ansley,,,Orlando Magic
+325,498,John,,,Salley,,,Detroit Pistons
+326,499,Dan,,,Schayes,,,Milwaukee Bucks
+327,500,Mark,,,Eaton,,,Utah Jazz
+328,501,Kevin,,,Johnson,,,Phoenix Suns
+329,502,Danny,,,Ainge,,,Portland Trail Blazers
+330,503,Kenny,,,Smith,,,Houston Rockets
+331,504,Randy,,,Breuer,,,Minnesota Timberwolves
+332,505,Herb,,,Williams,,,Dallas Mavericks
+333,506,Joe,,,Wolf,,,Denver Nuggets
+334,507,Steve,,,Johnson,,,Golden State Warriors
+335,508,Glen,,,Rice,,,Miami Heat
+336,509,Greg,,,Foster,,,Washington Wizards
+337,510,Larry,,,Nance,,,Cleveland Cavaliers
+338,511,Duane,,,Ferrell,,,Atlanta Hawks
+339,512,Nick,,,Anderson,,,Orlando Magic
+340,513,Joe,,,Dumars,,,Detroit Pistons
+341,514,Jay,,,Humphries,,,Milwaukee Bucks
+342,515,Darrell,,,Griffith,,,Utah Jazz
+343,516,Dan,,,Majerle,,,Phoenix Suns
+344,517,Tom,,,Chambers,,,Phoenix Suns
+345,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+346,519,Adrian,,,Caldwell,,,Houston Rockets
+347,520,Vernon,,,Maxwell,,,Houston Rockets
+348,521,Doug,,,West,,,Minnesota Timberwolves
+349,522,Tony,,,Campbell,,,Minnesota Timberwolves
+350,523,Roy,,,Tarpley,,,Dallas Mavericks
+351,524,Anthony,,,Cook,,,Denver Nuggets
+352,525,Todd,,,Lichti,,,Denver Nuggets
+353,526,Tom,,,Tolbert,,,Golden State Warriors
+354,527,Billy,,,Thompson,,,Miami Heat
+355,528,Byron,,,Irvin,,,Washington Wizards
+356,529,Mark,,,Price,,,Cleveland Cavaliers
+357,530,Dominique,,,Wilkins,,,Atlanta Hawks
+358,531,Dennis,,,Scott,,,Orlando Magic
+359,532,Terry,,,Catledge,,,Orlando Magic
+360,533,Bill,,,Laimbeer,,,Detroit Pistons
+361,534,William,,,Bedford,,,Detroit Pistons
+362,535,Ricky,,,Pierce,,,Milwaukee Bucks
+363,536,Blue,,,Edwards,,,Utah Jazz
+364,537,Walter,,,Palmer,,,Utah Jazz
+365,538,Mark,,,West,,,Phoenix Suns
+366,539,Clifford,,,Robinson,,,Portland Trail Blazers
+367,540,Hakeem,,,Olajuwon,,,Houston Rockets
+368,541,Richard,,,Coffey,,,Minnesota Timberwolves
+369,542,James,,,Donaldson,,,Dallas Mavericks
+370,543,Jerome,,,Lane,,,Denver Nuggets
+371,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+372,545,Grant,,,Long,,,Miami Heat
+373,546,Willie,,,Burton,,,Miami Heat
+374,547,Mark,,,Alarie,,,Washington Wizards
+375,548,Winston,,,Bennett,,,Cleveland Cavaliers
+376,549,Doc,,,Rivers,,,Atlanta Hawks
+377,550,Tim,,,McCormick,,,Atlanta Hawks
+378,551,Scott,,,Skiles,,,Orlando Magic
+379,552,Dennis,,,Rodman,,,Detroit Pistons
+380,553,Greg,,,Anderson,,,Milwaukee Bucks
+381,554,Jeff,,,Malone,,,Utah Jazz
+382,555,Cedric,,,Ceballos,,,Phoenix Suns
+383,556,Tim,,,Perry,,,Phoenix Suns
+384,557,Buck,,,Williams,,,Portland Trail Blazers
+385,558,Dave,,,Jamerson,,,Houston Rockets
+386,559,Scott,,,Brooks,,,Minnesota Timberwolves
+387,560,Rolando,,,Blackman,,,Dallas Mavericks
+388,561,Avery,,,Johnson,,,Denver Nuggets
+389,562,Rod,,,Higgins,,,Golden State Warriors
+390,563,Jon,,,Sundvold,,,Miami Heat
+391,564,A.J.,,,English,,,Washington Wizards
+392,565,John,,,Battle,,,Atlanta Hawks
+393,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+394,566,Sam,,,Vincent,,,Orlando Magic
+395,567,Isiah,,,Thomas,,,Detroit Pistons
+396,568,Brad,,,Lohaus,,,Milwaukee Bucks
+397,569,Mike,,,Brown,,,Utah Jazz
+398,570,Kenny,,,Battle,,,Phoenix Suns
+399,571,Danny,,,Young,,,Portland Trail Blazers
+400,14,Ike,,,Anigbogu,C,,Indiana Pacers
+401,25,Ron,,,Baker,G,,New York Knicks
+402,47,Jabari,,,Bird,G,,Boston Celtics
+403,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+404,71,Lorenzo,,,Brown,G,,Toronto Raptors
+405,90,Omri,,,Casspi,F,,Memphis Grizzlies
+406,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+407,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+408,149,Keenan,,,Evans,G,,Detroit Pistons
+409,179,Marcin,,,Gortat,C,,LA Clippers
+410,1593,Andrew,,,Bogut,F,,Golden State Warriors
+411,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+412,392,Malachi,,,Richardson,G,,Utah Jazz
+413,281,Zach,,,Lofton,G,,Detroit Pistons
+414,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+415,382,Billy,,,Preston,F,,Cleveland Cavaliers
+416,384,Zhou,,,Qi,F-C,,Houston Rockets
+417,388,Zach,,,Randolph,F,,Sacramento Kings
+418,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+419,437,Milos,,,Teodosic,G,,LA Clippers
+420,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+421,494,Michael,,,Smith,,,Boston Celtics
+422,495,John,,,Morton,,,Cleveland Cavaliers
+423,496,Howard,,,Wright,,,Atlanta Hawks
+424,497,Michael,,,Ansley,,,Orlando Magic
+425,498,John,,,Salley,,,Detroit Pistons
+426,499,Dan,,,Schayes,,,Milwaukee Bucks
+427,500,Mark,,,Eaton,,,Utah Jazz
+428,501,Kevin,,,Johnson,,,Phoenix Suns
+429,502,Danny,,,Ainge,,,Portland Trail Blazers
+430,503,Kenny,,,Smith,,,Houston Rockets
+431,504,Randy,,,Breuer,,,Minnesota Timberwolves
+432,505,Herb,,,Williams,,,Dallas Mavericks
+433,506,Joe,,,Wolf,,,Denver Nuggets
+434,507,Steve,,,Johnson,,,Golden State Warriors
+435,508,Glen,,,Rice,,,Miami Heat
+436,509,Greg,,,Foster,,,Washington Wizards
+437,510,Larry,,,Nance,,,Cleveland Cavaliers
+438,511,Duane,,,Ferrell,,,Atlanta Hawks
+439,512,Nick,,,Anderson,,,Orlando Magic
+440,513,Joe,,,Dumars,,,Detroit Pistons
+441,514,Jay,,,Humphries,,,Milwaukee Bucks
+442,515,Darrell,,,Griffith,,,Utah Jazz
+443,516,Dan,,,Majerle,,,Phoenix Suns
+444,517,Tom,,,Chambers,,,Phoenix Suns
+445,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+446,519,Adrian,,,Caldwell,,,Houston Rockets
+447,520,Vernon,,,Maxwell,,,Houston Rockets
+448,521,Doug,,,West,,,Minnesota Timberwolves
+449,522,Tony,,,Campbell,,,Minnesota Timberwolves
+450,523,Roy,,,Tarpley,,,Dallas Mavericks
+451,524,Anthony,,,Cook,,,Denver Nuggets
+452,525,Todd,,,Lichti,,,Denver Nuggets
+453,526,Tom,,,Tolbert,,,Golden State Warriors
+454,527,Billy,,,Thompson,,,Miami Heat
+455,528,Byron,,,Irvin,,,Washington Wizards
+456,529,Mark,,,Price,,,Cleveland Cavaliers
+457,530,Dominique,,,Wilkins,,,Atlanta Hawks
+458,531,Dennis,,,Scott,,,Orlando Magic
+459,532,Terry,,,Catledge,,,Orlando Magic
+460,533,Bill,,,Laimbeer,,,Detroit Pistons
+461,534,William,,,Bedford,,,Detroit Pistons
+462,535,Ricky,,,Pierce,,,Milwaukee Bucks
+463,536,Blue,,,Edwards,,,Utah Jazz
+464,537,Walter,,,Palmer,,,Utah Jazz
+465,538,Mark,,,West,,,Phoenix Suns
+466,539,Clifford,,,Robinson,,,Portland Trail Blazers
+467,540,Hakeem,,,Olajuwon,,,Houston Rockets
+468,541,Richard,,,Coffey,,,Minnesota Timberwolves
+469,542,James,,,Donaldson,,,Dallas Mavericks
+470,543,Jerome,,,Lane,,,Denver Nuggets
+471,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+472,545,Grant,,,Long,,,Miami Heat
+473,546,Willie,,,Burton,,,Miami Heat
+474,547,Mark,,,Alarie,,,Washington Wizards
+475,548,Winston,,,Bennett,,,Cleveland Cavaliers
+476,549,Doc,,,Rivers,,,Atlanta Hawks
+477,550,Tim,,,McCormick,,,Atlanta Hawks
+478,551,Scott,,,Skiles,,,Orlando Magic
+479,552,Dennis,,,Rodman,,,Detroit Pistons
+480,553,Greg,,,Anderson,,,Milwaukee Bucks
+481,554,Jeff,,,Malone,,,Utah Jazz
+482,555,Cedric,,,Ceballos,,,Phoenix Suns
+483,556,Tim,,,Perry,,,Phoenix Suns
+484,557,Buck,,,Williams,,,Portland Trail Blazers
+485,558,Dave,,,Jamerson,,,Houston Rockets
+486,559,Scott,,,Brooks,,,Minnesota Timberwolves
+487,560,Rolando,,,Blackman,,,Dallas Mavericks
+488,561,Avery,,,Johnson,,,Denver Nuggets
+489,562,Rod,,,Higgins,,,Golden State Warriors
+490,563,Jon,,,Sundvold,,,Miami Heat
+491,564,A.J.,,,English,,,Washington Wizards
+492,565,John,,,Battle,,,Atlanta Hawks
+493,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+494,566,Sam,,,Vincent,,,Orlando Magic
+495,567,Isiah,,,Thomas,,,Detroit Pistons
+496,568,Brad,,,Lohaus,,,Milwaukee Bucks
+497,569,Mike,,,Brown,,,Utah Jazz
+498,570,Kenny,,,Battle,,,Phoenix Suns
+499,571,Danny,,,Young,,,Portland Trail Blazers
+500,14,Ike,,,Anigbogu,C,,Indiana Pacers
+501,25,Ron,,,Baker,G,,New York Knicks
+502,47,Jabari,,,Bird,G,,Boston Celtics
+503,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+504,71,Lorenzo,,,Brown,G,,Toronto Raptors
+505,90,Omri,,,Casspi,F,,Memphis Grizzlies
+506,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+507,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+508,149,Keenan,,,Evans,G,,Detroit Pistons
+509,179,Marcin,,,Gortat,C,,LA Clippers
+510,1593,Andrew,,,Bogut,F,,Golden State Warriors
+511,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+512,392,Malachi,,,Richardson,G,,Utah Jazz
+513,281,Zach,,,Lofton,G,,Detroit Pistons
+514,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+515,382,Billy,,,Preston,F,,Cleveland Cavaliers
+516,384,Zhou,,,Qi,F-C,,Houston Rockets
+517,388,Zach,,,Randolph,F,,Sacramento Kings
+518,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+519,437,Milos,,,Teodosic,G,,LA Clippers
+520,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+521,494,Michael,,,Smith,,,Boston Celtics
+522,495,John,,,Morton,,,Cleveland Cavaliers
+523,496,Howard,,,Wright,,,Atlanta Hawks
+524,497,Michael,,,Ansley,,,Orlando Magic
+525,498,John,,,Salley,,,Detroit Pistons
+526,499,Dan,,,Schayes,,,Milwaukee Bucks
+527,500,Mark,,,Eaton,,,Utah Jazz
+528,501,Kevin,,,Johnson,,,Phoenix Suns
+529,502,Danny,,,Ainge,,,Portland Trail Blazers
+530,503,Kenny,,,Smith,,,Houston Rockets
+531,504,Randy,,,Breuer,,,Minnesota Timberwolves
+532,505,Herb,,,Williams,,,Dallas Mavericks
+533,506,Joe,,,Wolf,,,Denver Nuggets
+534,507,Steve,,,Johnson,,,Golden State Warriors
+535,508,Glen,,,Rice,,,Miami Heat
+536,509,Greg,,,Foster,,,Washington Wizards
+537,510,Larry,,,Nance,,,Cleveland Cavaliers
+538,511,Duane,,,Ferrell,,,Atlanta Hawks
+539,512,Nick,,,Anderson,,,Orlando Magic
+540,513,Joe,,,Dumars,,,Detroit Pistons
+541,514,Jay,,,Humphries,,,Milwaukee Bucks
+542,515,Darrell,,,Griffith,,,Utah Jazz
+543,516,Dan,,,Majerle,,,Phoenix Suns
+544,517,Tom,,,Chambers,,,Phoenix Suns
+545,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+546,519,Adrian,,,Caldwell,,,Houston Rockets
+547,520,Vernon,,,Maxwell,,,Houston Rockets
+548,521,Doug,,,West,,,Minnesota Timberwolves
+549,522,Tony,,,Campbell,,,Minnesota Timberwolves
+550,523,Roy,,,Tarpley,,,Dallas Mavericks
+551,524,Anthony,,,Cook,,,Denver Nuggets
+552,525,Todd,,,Lichti,,,Denver Nuggets
+553,526,Tom,,,Tolbert,,,Golden State Warriors
+554,527,Billy,,,Thompson,,,Miami Heat
+555,528,Byron,,,Irvin,,,Washington Wizards
+556,529,Mark,,,Price,,,Cleveland Cavaliers
+557,530,Dominique,,,Wilkins,,,Atlanta Hawks
+558,531,Dennis,,,Scott,,,Orlando Magic
+559,532,Terry,,,Catledge,,,Orlando Magic
+560,533,Bill,,,Laimbeer,,,Detroit Pistons
+561,534,William,,,Bedford,,,Detroit Pistons
+562,535,Ricky,,,Pierce,,,Milwaukee Bucks
+563,536,Blue,,,Edwards,,,Utah Jazz
+564,537,Walter,,,Palmer,,,Utah Jazz
+565,538,Mark,,,West,,,Phoenix Suns
+566,539,Clifford,,,Robinson,,,Portland Trail Blazers
+567,540,Hakeem,,,Olajuwon,,,Houston Rockets
+568,541,Richard,,,Coffey,,,Minnesota Timberwolves
+569,542,James,,,Donaldson,,,Dallas Mavericks
+570,543,Jerome,,,Lane,,,Denver Nuggets
+571,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+572,545,Grant,,,Long,,,Miami Heat
+573,546,Willie,,,Burton,,,Miami Heat
+574,547,Mark,,,Alarie,,,Washington Wizards
+575,548,Winston,,,Bennett,,,Cleveland Cavaliers
+576,549,Doc,,,Rivers,,,Atlanta Hawks
+577,550,Tim,,,McCormick,,,Atlanta Hawks
+578,551,Scott,,,Skiles,,,Orlando Magic
+579,552,Dennis,,,Rodman,,,Detroit Pistons
+580,553,Greg,,,Anderson,,,Milwaukee Bucks
+581,554,Jeff,,,Malone,,,Utah Jazz
+582,555,Cedric,,,Ceballos,,,Phoenix Suns
+583,556,Tim,,,Perry,,,Phoenix Suns
+584,557,Buck,,,Williams,,,Portland Trail Blazers
+585,558,Dave,,,Jamerson,,,Houston Rockets
+586,559,Scott,,,Brooks,,,Minnesota Timberwolves
+587,560,Rolando,,,Blackman,,,Dallas Mavericks
+588,561,Avery,,,Johnson,,,Denver Nuggets
+589,562,Rod,,,Higgins,,,Golden State Warriors
+590,563,Jon,,,Sundvold,,,Miami Heat
+591,564,A.J.,,,English,,,Washington Wizards
+592,565,John,,,Battle,,,Atlanta Hawks
+593,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+594,566,Sam,,,Vincent,,,Orlando Magic
+595,567,Isiah,,,Thomas,,,Detroit Pistons
+596,568,Brad,,,Lohaus,,,Milwaukee Bucks
+597,569,Mike,,,Brown,,,Utah Jazz
+598,570,Kenny,,,Battle,,,Phoenix Suns
+599,571,Danny,,,Young,,,Portland Trail Blazers
+600,14,Ike,,,Anigbogu,C,,Indiana Pacers
+601,25,Ron,,,Baker,G,,New York Knicks
+602,47,Jabari,,,Bird,G,,Boston Celtics
+603,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+604,71,Lorenzo,,,Brown,G,,Toronto Raptors
+605,90,Omri,,,Casspi,F,,Memphis Grizzlies
+606,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+607,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+608,149,Keenan,,,Evans,G,,Detroit Pistons
+609,179,Marcin,,,Gortat,C,,LA Clippers
+610,1593,Andrew,,,Bogut,F,,Golden State Warriors
+611,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+612,392,Malachi,,,Richardson,G,,Utah Jazz
+613,281,Zach,,,Lofton,G,,Detroit Pistons
+614,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+615,382,Billy,,,Preston,F,,Cleveland Cavaliers
+616,384,Zhou,,,Qi,F-C,,Houston Rockets
+617,388,Zach,,,Randolph,F,,Sacramento Kings
+618,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+619,437,Milos,,,Teodosic,G,,LA Clippers
+620,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+621,494,Michael,,,Smith,,,Boston Celtics
+622,495,John,,,Morton,,,Cleveland Cavaliers
+623,496,Howard,,,Wright,,,Atlanta Hawks
+624,497,Michael,,,Ansley,,,Orlando Magic
+625,498,John,,,Salley,,,Detroit Pistons
+626,499,Dan,,,Schayes,,,Milwaukee Bucks
+627,500,Mark,,,Eaton,,,Utah Jazz
+628,501,Kevin,,,Johnson,,,Phoenix Suns
+629,502,Danny,,,Ainge,,,Portland Trail Blazers
+630,503,Kenny,,,Smith,,,Houston Rockets
+631,504,Randy,,,Breuer,,,Minnesota Timberwolves
+632,505,Herb,,,Williams,,,Dallas Mavericks
+633,506,Joe,,,Wolf,,,Denver Nuggets
+634,507,Steve,,,Johnson,,,Golden State Warriors
+635,508,Glen,,,Rice,,,Miami Heat
+636,509,Greg,,,Foster,,,Washington Wizards
+637,510,Larry,,,Nance,,,Cleveland Cavaliers
+638,511,Duane,,,Ferrell,,,Atlanta Hawks
+639,512,Nick,,,Anderson,,,Orlando Magic
+640,513,Joe,,,Dumars,,,Detroit Pistons
+641,514,Jay,,,Humphries,,,Milwaukee Bucks
+642,515,Darrell,,,Griffith,,,Utah Jazz
+643,516,Dan,,,Majerle,,,Phoenix Suns
+644,517,Tom,,,Chambers,,,Phoenix Suns
+645,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+646,519,Adrian,,,Caldwell,,,Houston Rockets
+647,520,Vernon,,,Maxwell,,,Houston Rockets
+648,521,Doug,,,West,,,Minnesota Timberwolves
+649,522,Tony,,,Campbell,,,Minnesota Timberwolves
+650,523,Roy,,,Tarpley,,,Dallas Mavericks
+651,524,Anthony,,,Cook,,,Denver Nuggets
+652,525,Todd,,,Lichti,,,Denver Nuggets
+653,526,Tom,,,Tolbert,,,Golden State Warriors
+654,527,Billy,,,Thompson,,,Miami Heat
+655,528,Byron,,,Irvin,,,Washington Wizards
+656,529,Mark,,,Price,,,Cleveland Cavaliers
+657,530,Dominique,,,Wilkins,,,Atlanta Hawks
+658,531,Dennis,,,Scott,,,Orlando Magic
+659,532,Terry,,,Catledge,,,Orlando Magic
+660,533,Bill,,,Laimbeer,,,Detroit Pistons
+661,534,William,,,Bedford,,,Detroit Pistons
+662,535,Ricky,,,Pierce,,,Milwaukee Bucks
+663,536,Blue,,,Edwards,,,Utah Jazz
+664,537,Walter,,,Palmer,,,Utah Jazz
+665,538,Mark,,,West,,,Phoenix Suns
+666,539,Clifford,,,Robinson,,,Portland Trail Blazers
+667,540,Hakeem,,,Olajuwon,,,Houston Rockets
+668,541,Richard,,,Coffey,,,Minnesota Timberwolves
+669,542,James,,,Donaldson,,,Dallas Mavericks
+670,543,Jerome,,,Lane,,,Denver Nuggets
+671,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+672,545,Grant,,,Long,,,Miami Heat
+673,546,Willie,,,Burton,,,Miami Heat
+674,547,Mark,,,Alarie,,,Washington Wizards
+675,548,Winston,,,Bennett,,,Cleveland Cavaliers
+676,549,Doc,,,Rivers,,,Atlanta Hawks
+677,550,Tim,,,McCormick,,,Atlanta Hawks
+678,551,Scott,,,Skiles,,,Orlando Magic
+679,552,Dennis,,,Rodman,,,Detroit Pistons
+680,553,Greg,,,Anderson,,,Milwaukee Bucks
+681,554,Jeff,,,Malone,,,Utah Jazz
+682,555,Cedric,,,Ceballos,,,Phoenix Suns
+683,556,Tim,,,Perry,,,Phoenix Suns
+684,557,Buck,,,Williams,,,Portland Trail Blazers
+685,558,Dave,,,Jamerson,,,Houston Rockets
+686,559,Scott,,,Brooks,,,Minnesota Timberwolves
+687,560,Rolando,,,Blackman,,,Dallas Mavericks
+688,561,Avery,,,Johnson,,,Denver Nuggets
+689,562,Rod,,,Higgins,,,Golden State Warriors
+690,563,Jon,,,Sundvold,,,Miami Heat
+691,564,A.J.,,,English,,,Washington Wizards
+692,565,John,,,Battle,,,Atlanta Hawks
+693,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+694,566,Sam,,,Vincent,,,Orlando Magic
+695,567,Isiah,,,Thomas,,,Detroit Pistons
+696,568,Brad,,,Lohaus,,,Milwaukee Bucks
+697,569,Mike,,,Brown,,,Utah Jazz
+698,570,Kenny,,,Battle,,,Phoenix Suns
+699,571,Danny,,,Young,,,Portland Trail Blazers
+700,14,Ike,,,Anigbogu,C,,Indiana Pacers
+701,25,Ron,,,Baker,G,,New York Knicks
+702,47,Jabari,,,Bird,G,,Boston Celtics
+703,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+704,71,Lorenzo,,,Brown,G,,Toronto Raptors
+705,90,Omri,,,Casspi,F,,Memphis Grizzlies
+706,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+707,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+708,149,Keenan,,,Evans,G,,Detroit Pistons
+709,179,Marcin,,,Gortat,C,,LA Clippers
+710,1593,Andrew,,,Bogut,F,,Golden State Warriors
+711,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+712,392,Malachi,,,Richardson,G,,Utah Jazz
+713,281,Zach,,,Lofton,G,,Detroit Pistons
+714,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+715,382,Billy,,,Preston,F,,Cleveland Cavaliers
+716,384,Zhou,,,Qi,F-C,,Houston Rockets
+717,388,Zach,,,Randolph,F,,Sacramento Kings
+718,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+719,437,Milos,,,Teodosic,G,,LA Clippers
+720,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+721,494,Michael,,,Smith,,,Boston Celtics
+722,495,John,,,Morton,,,Cleveland Cavaliers
+723,496,Howard,,,Wright,,,Atlanta Hawks
+724,497,Michael,,,Ansley,,,Orlando Magic
+725,498,John,,,Salley,,,Detroit Pistons
+726,499,Dan,,,Schayes,,,Milwaukee Bucks
+727,500,Mark,,,Eaton,,,Utah Jazz
+728,501,Kevin,,,Johnson,,,Phoenix Suns
+729,502,Danny,,,Ainge,,,Portland Trail Blazers
+730,503,Kenny,,,Smith,,,Houston Rockets
+731,504,Randy,,,Breuer,,,Minnesota Timberwolves
+732,505,Herb,,,Williams,,,Dallas Mavericks
+733,506,Joe,,,Wolf,,,Denver Nuggets
+734,507,Steve,,,Johnson,,,Golden State Warriors
+735,508,Glen,,,Rice,,,Miami Heat
+736,509,Greg,,,Foster,,,Washington Wizards
+737,510,Larry,,,Nance,,,Cleveland Cavaliers
+738,511,Duane,,,Ferrell,,,Atlanta Hawks
+739,512,Nick,,,Anderson,,,Orlando Magic
+740,513,Joe,,,Dumars,,,Detroit Pistons
+741,514,Jay,,,Humphries,,,Milwaukee Bucks
+742,515,Darrell,,,Griffith,,,Utah Jazz
+743,516,Dan,,,Majerle,,,Phoenix Suns
+744,517,Tom,,,Chambers,,,Phoenix Suns
+745,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+746,519,Adrian,,,Caldwell,,,Houston Rockets
+747,520,Vernon,,,Maxwell,,,Houston Rockets
+748,521,Doug,,,West,,,Minnesota Timberwolves
+749,522,Tony,,,Campbell,,,Minnesota Timberwolves
+750,523,Roy,,,Tarpley,,,Dallas Mavericks
+751,524,Anthony,,,Cook,,,Denver Nuggets
+752,525,Todd,,,Lichti,,,Denver Nuggets
+753,526,Tom,,,Tolbert,,,Golden State Warriors
+754,527,Billy,,,Thompson,,,Miami Heat
+755,528,Byron,,,Irvin,,,Washington Wizards
+756,529,Mark,,,Price,,,Cleveland Cavaliers
+757,530,Dominique,,,Wilkins,,,Atlanta Hawks
+758,531,Dennis,,,Scott,,,Orlando Magic
+759,532,Terry,,,Catledge,,,Orlando Magic
+760,533,Bill,,,Laimbeer,,,Detroit Pistons
+761,534,William,,,Bedford,,,Detroit Pistons
+762,535,Ricky,,,Pierce,,,Milwaukee Bucks
+763,536,Blue,,,Edwards,,,Utah Jazz
+764,537,Walter,,,Palmer,,,Utah Jazz
+765,538,Mark,,,West,,,Phoenix Suns
+766,539,Clifford,,,Robinson,,,Portland Trail Blazers
+767,540,Hakeem,,,Olajuwon,,,Houston Rockets
+768,541,Richard,,,Coffey,,,Minnesota Timberwolves
+769,542,James,,,Donaldson,,,Dallas Mavericks
+770,543,Jerome,,,Lane,,,Denver Nuggets
+771,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+772,545,Grant,,,Long,,,Miami Heat
+773,546,Willie,,,Burton,,,Miami Heat
+774,547,Mark,,,Alarie,,,Washington Wizards
+775,548,Winston,,,Bennett,,,Cleveland Cavaliers
+776,549,Doc,,,Rivers,,,Atlanta Hawks
+777,550,Tim,,,McCormick,,,Atlanta Hawks
+778,551,Scott,,,Skiles,,,Orlando Magic
+779,552,Dennis,,,Rodman,,,Detroit Pistons
+780,553,Greg,,,Anderson,,,Milwaukee Bucks
+781,554,Jeff,,,Malone,,,Utah Jazz
+782,555,Cedric,,,Ceballos,,,Phoenix Suns
+783,556,Tim,,,Perry,,,Phoenix Suns
+784,557,Buck,,,Williams,,,Portland Trail Blazers
+785,558,Dave,,,Jamerson,,,Houston Rockets
+786,559,Scott,,,Brooks,,,Minnesota Timberwolves
+787,560,Rolando,,,Blackman,,,Dallas Mavericks
+788,561,Avery,,,Johnson,,,Denver Nuggets
+789,562,Rod,,,Higgins,,,Golden State Warriors
+790,563,Jon,,,Sundvold,,,Miami Heat
+791,564,A.J.,,,English,,,Washington Wizards
+792,565,John,,,Battle,,,Atlanta Hawks
+793,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+794,566,Sam,,,Vincent,,,Orlando Magic
+795,567,Isiah,,,Thomas,,,Detroit Pistons
+796,568,Brad,,,Lohaus,,,Milwaukee Bucks
+797,569,Mike,,,Brown,,,Utah Jazz
+798,570,Kenny,,,Battle,,,Phoenix Suns
+799,571,Danny,,,Young,,,Portland Trail Blazers
+800,14,Ike,,,Anigbogu,C,,Indiana Pacers
+801,25,Ron,,,Baker,G,,New York Knicks
+802,47,Jabari,,,Bird,G,,Boston Celtics
+803,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+804,71,Lorenzo,,,Brown,G,,Toronto Raptors
+805,90,Omri,,,Casspi,F,,Memphis Grizzlies
+806,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+807,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+808,149,Keenan,,,Evans,G,,Detroit Pistons
+809,179,Marcin,,,Gortat,C,,LA Clippers
+810,1593,Andrew,,,Bogut,F,,Golden State Warriors
+811,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+812,392,Malachi,,,Richardson,G,,Utah Jazz
+813,281,Zach,,,Lofton,G,,Detroit Pistons
+814,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+815,382,Billy,,,Preston,F,,Cleveland Cavaliers
+816,384,Zhou,,,Qi,F-C,,Houston Rockets
+817,388,Zach,,,Randolph,F,,Sacramento Kings
+818,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+819,437,Milos,,,Teodosic,G,,LA Clippers
+820,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+821,494,Michael,,,Smith,,,Boston Celtics
+822,495,John,,,Morton,,,Cleveland Cavaliers
+823,496,Howard,,,Wright,,,Atlanta Hawks
+824,497,Michael,,,Ansley,,,Orlando Magic
+825,498,John,,,Salley,,,Detroit Pistons
+826,499,Dan,,,Schayes,,,Milwaukee Bucks
+827,500,Mark,,,Eaton,,,Utah Jazz
+828,501,Kevin,,,Johnson,,,Phoenix Suns
+829,502,Danny,,,Ainge,,,Portland Trail Blazers
+830,503,Kenny,,,Smith,,,Houston Rockets
+831,504,Randy,,,Breuer,,,Minnesota Timberwolves
+832,505,Herb,,,Williams,,,Dallas Mavericks
+833,506,Joe,,,Wolf,,,Denver Nuggets
+834,507,Steve,,,Johnson,,,Golden State Warriors
+835,508,Glen,,,Rice,,,Miami Heat
+836,509,Greg,,,Foster,,,Washington Wizards
+837,510,Larry,,,Nance,,,Cleveland Cavaliers
+838,511,Duane,,,Ferrell,,,Atlanta Hawks
+839,512,Nick,,,Anderson,,,Orlando Magic
+840,513,Joe,,,Dumars,,,Detroit Pistons
+841,514,Jay,,,Humphries,,,Milwaukee Bucks
+842,515,Darrell,,,Griffith,,,Utah Jazz
+843,516,Dan,,,Majerle,,,Phoenix Suns
+844,517,Tom,,,Chambers,,,Phoenix Suns
+845,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+846,519,Adrian,,,Caldwell,,,Houston Rockets
+847,520,Vernon,,,Maxwell,,,Houston Rockets
+848,521,Doug,,,West,,,Minnesota Timberwolves
+849,522,Tony,,,Campbell,,,Minnesota Timberwolves
+850,523,Roy,,,Tarpley,,,Dallas Mavericks
+851,524,Anthony,,,Cook,,,Denver Nuggets
+852,525,Todd,,,Lichti,,,Denver Nuggets
+853,526,Tom,,,Tolbert,,,Golden State Warriors
+854,527,Billy,,,Thompson,,,Miami Heat
+855,528,Byron,,,Irvin,,,Washington Wizards
+856,529,Mark,,,Price,,,Cleveland Cavaliers
+857,530,Dominique,,,Wilkins,,,Atlanta Hawks
+858,531,Dennis,,,Scott,,,Orlando Magic
+859,532,Terry,,,Catledge,,,Orlando Magic
+860,533,Bill,,,Laimbeer,,,Detroit Pistons
+861,534,William,,,Bedford,,,Detroit Pistons
+862,535,Ricky,,,Pierce,,,Milwaukee Bucks
+863,536,Blue,,,Edwards,,,Utah Jazz
+864,537,Walter,,,Palmer,,,Utah Jazz
+865,538,Mark,,,West,,,Phoenix Suns
+866,539,Clifford,,,Robinson,,,Portland Trail Blazers
+867,540,Hakeem,,,Olajuwon,,,Houston Rockets
+868,541,Richard,,,Coffey,,,Minnesota Timberwolves
+869,542,James,,,Donaldson,,,Dallas Mavericks
+870,543,Jerome,,,Lane,,,Denver Nuggets
+871,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+872,545,Grant,,,Long,,,Miami Heat
+873,546,Willie,,,Burton,,,Miami Heat
+874,547,Mark,,,Alarie,,,Washington Wizards
+875,548,Winston,,,Bennett,,,Cleveland Cavaliers
+876,549,Doc,,,Rivers,,,Atlanta Hawks
+877,550,Tim,,,McCormick,,,Atlanta Hawks
+878,551,Scott,,,Skiles,,,Orlando Magic
+879,552,Dennis,,,Rodman,,,Detroit Pistons
+880,553,Greg,,,Anderson,,,Milwaukee Bucks
+881,554,Jeff,,,Malone,,,Utah Jazz
+882,555,Cedric,,,Ceballos,,,Phoenix Suns
+883,556,Tim,,,Perry,,,Phoenix Suns
+884,557,Buck,,,Williams,,,Portland Trail Blazers
+885,558,Dave,,,Jamerson,,,Houston Rockets
+886,559,Scott,,,Brooks,,,Minnesota Timberwolves
+887,560,Rolando,,,Blackman,,,Dallas Mavericks
+888,561,Avery,,,Johnson,,,Denver Nuggets
+889,562,Rod,,,Higgins,,,Golden State Warriors
+890,563,Jon,,,Sundvold,,,Miami Heat
+891,564,A.J.,,,English,,,Washington Wizards
+892,565,John,,,Battle,,,Atlanta Hawks
+893,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+894,566,Sam,,,Vincent,,,Orlando Magic
+895,567,Isiah,,,Thomas,,,Detroit Pistons
+896,568,Brad,,,Lohaus,,,Milwaukee Bucks
+897,569,Mike,,,Brown,,,Utah Jazz
+898,570,Kenny,,,Battle,,,Phoenix Suns
+899,571,Danny,,,Young,,,Portland Trail Blazers
+900,14,Ike,,,Anigbogu,C,,Indiana Pacers
+901,25,Ron,,,Baker,G,,New York Knicks
+902,47,Jabari,,,Bird,G,,Boston Celtics
+903,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+904,71,Lorenzo,,,Brown,G,,Toronto Raptors
+905,90,Omri,,,Casspi,F,,Memphis Grizzlies
+906,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+907,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+908,149,Keenan,,,Evans,G,,Detroit Pistons
+909,179,Marcin,,,Gortat,C,,LA Clippers
+910,1593,Andrew,,,Bogut,F,,Golden State Warriors
+911,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+912,392,Malachi,,,Richardson,G,,Utah Jazz
+913,281,Zach,,,Lofton,G,,Detroit Pistons
+914,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+915,382,Billy,,,Preston,F,,Cleveland Cavaliers
+916,384,Zhou,,,Qi,F-C,,Houston Rockets
+917,388,Zach,,,Randolph,F,,Sacramento Kings
+918,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+919,437,Milos,,,Teodosic,G,,LA Clippers
+920,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+921,494,Michael,,,Smith,,,Boston Celtics
+922,495,John,,,Morton,,,Cleveland Cavaliers
+923,496,Howard,,,Wright,,,Atlanta Hawks
+924,497,Michael,,,Ansley,,,Orlando Magic
+925,498,John,,,Salley,,,Detroit Pistons
+926,499,Dan,,,Schayes,,,Milwaukee Bucks
+927,500,Mark,,,Eaton,,,Utah Jazz
+928,501,Kevin,,,Johnson,,,Phoenix Suns
+929,502,Danny,,,Ainge,,,Portland Trail Blazers
+930,503,Kenny,,,Smith,,,Houston Rockets
+931,504,Randy,,,Breuer,,,Minnesota Timberwolves
+932,505,Herb,,,Williams,,,Dallas Mavericks
+933,506,Joe,,,Wolf,,,Denver Nuggets
+934,507,Steve,,,Johnson,,,Golden State Warriors
+935,508,Glen,,,Rice,,,Miami Heat
+936,509,Greg,,,Foster,,,Washington Wizards
+937,510,Larry,,,Nance,,,Cleveland Cavaliers
+938,511,Duane,,,Ferrell,,,Atlanta Hawks
+939,512,Nick,,,Anderson,,,Orlando Magic
+940,513,Joe,,,Dumars,,,Detroit Pistons
+941,514,Jay,,,Humphries,,,Milwaukee Bucks
+942,515,Darrell,,,Griffith,,,Utah Jazz
+943,516,Dan,,,Majerle,,,Phoenix Suns
+944,517,Tom,,,Chambers,,,Phoenix Suns
+945,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+946,519,Adrian,,,Caldwell,,,Houston Rockets
+947,520,Vernon,,,Maxwell,,,Houston Rockets
+948,521,Doug,,,West,,,Minnesota Timberwolves
+949,522,Tony,,,Campbell,,,Minnesota Timberwolves
+950,523,Roy,,,Tarpley,,,Dallas Mavericks
+951,524,Anthony,,,Cook,,,Denver Nuggets
+952,525,Todd,,,Lichti,,,Denver Nuggets
+953,526,Tom,,,Tolbert,,,Golden State Warriors
+954,527,Billy,,,Thompson,,,Miami Heat
+955,528,Byron,,,Irvin,,,Washington Wizards
+956,529,Mark,,,Price,,,Cleveland Cavaliers
+957,530,Dominique,,,Wilkins,,,Atlanta Hawks
+958,531,Dennis,,,Scott,,,Orlando Magic
+959,532,Terry,,,Catledge,,,Orlando Magic
+960,533,Bill,,,Laimbeer,,,Detroit Pistons
+961,534,William,,,Bedford,,,Detroit Pistons
+962,535,Ricky,,,Pierce,,,Milwaukee Bucks
+963,536,Blue,,,Edwards,,,Utah Jazz
+964,537,Walter,,,Palmer,,,Utah Jazz
+965,538,Mark,,,West,,,Phoenix Suns
+966,539,Clifford,,,Robinson,,,Portland Trail Blazers
+967,540,Hakeem,,,Olajuwon,,,Houston Rockets
+968,541,Richard,,,Coffey,,,Minnesota Timberwolves
+969,542,James,,,Donaldson,,,Dallas Mavericks
+970,543,Jerome,,,Lane,,,Denver Nuggets
+971,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+972,545,Grant,,,Long,,,Miami Heat
+973,546,Willie,,,Burton,,,Miami Heat
+974,547,Mark,,,Alarie,,,Washington Wizards
+975,548,Winston,,,Bennett,,,Cleveland Cavaliers
+976,549,Doc,,,Rivers,,,Atlanta Hawks
+977,550,Tim,,,McCormick,,,Atlanta Hawks
+978,551,Scott,,,Skiles,,,Orlando Magic
+979,552,Dennis,,,Rodman,,,Detroit Pistons
+980,553,Greg,,,Anderson,,,Milwaukee Bucks
+981,554,Jeff,,,Malone,,,Utah Jazz
+982,555,Cedric,,,Ceballos,,,Phoenix Suns
+983,556,Tim,,,Perry,,,Phoenix Suns
+984,557,Buck,,,Williams,,,Portland Trail Blazers
+985,558,Dave,,,Jamerson,,,Houston Rockets
+986,559,Scott,,,Brooks,,,Minnesota Timberwolves
+987,560,Rolando,,,Blackman,,,Dallas Mavericks
+988,561,Avery,,,Johnson,,,Denver Nuggets
+989,562,Rod,,,Higgins,,,Golden State Warriors
+990,563,Jon,,,Sundvold,,,Miami Heat
+991,564,A.J.,,,English,,,Washington Wizards
+992,565,John,,,Battle,,,Atlanta Hawks
+993,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+994,566,Sam,,,Vincent,,,Orlando Magic
+995,567,Isiah,,,Thomas,,,Detroit Pistons
+996,568,Brad,,,Lohaus,,,Milwaukee Bucks
+997,569,Mike,,,Brown,,,Utah Jazz
+998,570,Kenny,,,Battle,,,Phoenix Suns
+999,571,Danny,,,Young,,,Portland Trail Blazers
+1000,14,Ike,,,Anigbogu,C,,Indiana Pacers
+1001,25,Ron,,,Baker,G,,New York Knicks
+1002,47,Jabari,,,Bird,G,,Boston Celtics
+1003,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+1004,71,Lorenzo,,,Brown,G,,Toronto Raptors
+1005,90,Omri,,,Casspi,F,,Memphis Grizzlies
+1006,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+1007,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+1008,149,Keenan,,,Evans,G,,Detroit Pistons
+1009,179,Marcin,,,Gortat,C,,LA Clippers
+1010,1593,Andrew,,,Bogut,F,,Golden State Warriors
+1011,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+1012,392,Malachi,,,Richardson,G,,Utah Jazz
+1013,281,Zach,,,Lofton,G,,Detroit Pistons
+1014,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+1015,382,Billy,,,Preston,F,,Cleveland Cavaliers
+1016,384,Zhou,,,Qi,F-C,,Houston Rockets
+1017,388,Zach,,,Randolph,F,,Sacramento Kings
+1018,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+1019,437,Milos,,,Teodosic,G,,LA Clippers
+1020,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+1021,494,Michael,,,Smith,,,Boston Celtics
+1022,495,John,,,Morton,,,Cleveland Cavaliers
+1023,496,Howard,,,Wright,,,Atlanta Hawks
+1024,497,Michael,,,Ansley,,,Orlando Magic
+1025,498,John,,,Salley,,,Detroit Pistons
+1026,499,Dan,,,Schayes,,,Milwaukee Bucks
+1027,500,Mark,,,Eaton,,,Utah Jazz
+1028,501,Kevin,,,Johnson,,,Phoenix Suns
+1029,502,Danny,,,Ainge,,,Portland Trail Blazers
+1030,503,Kenny,,,Smith,,,Houston Rockets
+1031,504,Randy,,,Breuer,,,Minnesota Timberwolves
+1032,505,Herb,,,Williams,,,Dallas Mavericks
+1033,506,Joe,,,Wolf,,,Denver Nuggets
+1034,507,Steve,,,Johnson,,,Golden State Warriors
+1035,508,Glen,,,Rice,,,Miami Heat
+1036,509,Greg,,,Foster,,,Washington Wizards
+1037,510,Larry,,,Nance,,,Cleveland Cavaliers
+1038,511,Duane,,,Ferrell,,,Atlanta Hawks
+1039,512,Nick,,,Anderson,,,Orlando Magic
+1040,513,Joe,,,Dumars,,,Detroit Pistons
+1041,514,Jay,,,Humphries,,,Milwaukee Bucks
+1042,515,Darrell,,,Griffith,,,Utah Jazz
+1043,516,Dan,,,Majerle,,,Phoenix Suns
+1044,517,Tom,,,Chambers,,,Phoenix Suns
+1045,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+1046,519,Adrian,,,Caldwell,,,Houston Rockets
+1047,520,Vernon,,,Maxwell,,,Houston Rockets
+1048,521,Doug,,,West,,,Minnesota Timberwolves
+1049,522,Tony,,,Campbell,,,Minnesota Timberwolves
+1050,523,Roy,,,Tarpley,,,Dallas Mavericks
+1051,524,Anthony,,,Cook,,,Denver Nuggets
+1052,525,Todd,,,Lichti,,,Denver Nuggets
+1053,526,Tom,,,Tolbert,,,Golden State Warriors
+1054,527,Billy,,,Thompson,,,Miami Heat
+1055,528,Byron,,,Irvin,,,Washington Wizards
+1056,529,Mark,,,Price,,,Cleveland Cavaliers
+1057,530,Dominique,,,Wilkins,,,Atlanta Hawks
+1058,531,Dennis,,,Scott,,,Orlando Magic
+1059,532,Terry,,,Catledge,,,Orlando Magic
+1060,533,Bill,,,Laimbeer,,,Detroit Pistons
+1061,534,William,,,Bedford,,,Detroit Pistons
+1062,535,Ricky,,,Pierce,,,Milwaukee Bucks
+1063,536,Blue,,,Edwards,,,Utah Jazz
+1064,537,Walter,,,Palmer,,,Utah Jazz
+1065,538,Mark,,,West,,,Phoenix Suns
+1066,539,Clifford,,,Robinson,,,Portland Trail Blazers
+1067,540,Hakeem,,,Olajuwon,,,Houston Rockets
+1068,541,Richard,,,Coffey,,,Minnesota Timberwolves
+1069,542,James,,,Donaldson,,,Dallas Mavericks
+1070,543,Jerome,,,Lane,,,Denver Nuggets
+1071,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+1072,545,Grant,,,Long,,,Miami Heat
+1073,546,Willie,,,Burton,,,Miami Heat
+1074,547,Mark,,,Alarie,,,Washington Wizards
+1075,548,Winston,,,Bennett,,,Cleveland Cavaliers
+1076,549,Doc,,,Rivers,,,Atlanta Hawks
+1077,550,Tim,,,McCormick,,,Atlanta Hawks
+1078,551,Scott,,,Skiles,,,Orlando Magic
+1079,552,Dennis,,,Rodman,,,Detroit Pistons
+1080,553,Greg,,,Anderson,,,Milwaukee Bucks
+1081,554,Jeff,,,Malone,,,Utah Jazz
+1082,555,Cedric,,,Ceballos,,,Phoenix Suns
+1083,556,Tim,,,Perry,,,Phoenix Suns
+1084,557,Buck,,,Williams,,,Portland Trail Blazers
+1085,558,Dave,,,Jamerson,,,Houston Rockets
+1086,559,Scott,,,Brooks,,,Minnesota Timberwolves
+1087,560,Rolando,,,Blackman,,,Dallas Mavericks
+1088,561,Avery,,,Johnson,,,Denver Nuggets
+1089,562,Rod,,,Higgins,,,Golden State Warriors
+1090,563,Jon,,,Sundvold,,,Miami Heat
+1091,564,A.J.,,,English,,,Washington Wizards
+1092,565,John,,,Battle,,,Atlanta Hawks
+1093,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+1094,566,Sam,,,Vincent,,,Orlando Magic
+1095,567,Isiah,,,Thomas,,,Detroit Pistons
+1096,568,Brad,,,Lohaus,,,Milwaukee Bucks
+1097,569,Mike,,,Brown,,,Utah Jazz
+1098,570,Kenny,,,Battle,,,Phoenix Suns
+1099,571,Danny,,,Young,,,Portland Trail Blazers
+1100,14,Ike,,,Anigbogu,C,,Indiana Pacers
+1101,25,Ron,,,Baker,G,,New York Knicks
+1102,47,Jabari,,,Bird,G,,Boston Celtics
+1103,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+1104,71,Lorenzo,,,Brown,G,,Toronto Raptors
+1105,90,Omri,,,Casspi,F,,Memphis Grizzlies
+1106,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+1107,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+1108,149,Keenan,,,Evans,G,,Detroit Pistons
+1109,179,Marcin,,,Gortat,C,,LA Clippers
+1110,1593,Andrew,,,Bogut,F,,Golden State Warriors
+1111,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+1112,392,Malachi,,,Richardson,G,,Utah Jazz
+1113,281,Zach,,,Lofton,G,,Detroit Pistons
+1114,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+1115,382,Billy,,,Preston,F,,Cleveland Cavaliers
+1116,384,Zhou,,,Qi,F-C,,Houston Rockets
+1117,388,Zach,,,Randolph,F,,Sacramento Kings
+1118,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+1119,437,Milos,,,Teodosic,G,,LA Clippers
+1120,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+1121,494,Michael,,,Smith,,,Boston Celtics
+1122,495,John,,,Morton,,,Cleveland Cavaliers
+1123,496,Howard,,,Wright,,,Atlanta Hawks
+1124,497,Michael,,,Ansley,,,Orlando Magic
+1125,498,John,,,Salley,,,Detroit Pistons
+1126,499,Dan,,,Schayes,,,Milwaukee Bucks
+1127,500,Mark,,,Eaton,,,Utah Jazz
+1128,501,Kevin,,,Johnson,,,Phoenix Suns
+1129,502,Danny,,,Ainge,,,Portland Trail Blazers
+1130,503,Kenny,,,Smith,,,Houston Rockets
+1131,504,Randy,,,Breuer,,,Minnesota Timberwolves
+1132,505,Herb,,,Williams,,,Dallas Mavericks
+1133,506,Joe,,,Wolf,,,Denver Nuggets
+1134,507,Steve,,,Johnson,,,Golden State Warriors
+1135,508,Glen,,,Rice,,,Miami Heat
+1136,509,Greg,,,Foster,,,Washington Wizards
+1137,510,Larry,,,Nance,,,Cleveland Cavaliers
+1138,511,Duane,,,Ferrell,,,Atlanta Hawks
+1139,512,Nick,,,Anderson,,,Orlando Magic
+1140,513,Joe,,,Dumars,,,Detroit Pistons
+1141,514,Jay,,,Humphries,,,Milwaukee Bucks
+1142,515,Darrell,,,Griffith,,,Utah Jazz
+1143,516,Dan,,,Majerle,,,Phoenix Suns
+1144,517,Tom,,,Chambers,,,Phoenix Suns
+1145,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+1146,519,Adrian,,,Caldwell,,,Houston Rockets
+1147,520,Vernon,,,Maxwell,,,Houston Rockets
+1148,521,Doug,,,West,,,Minnesota Timberwolves
+1149,522,Tony,,,Campbell,,,Minnesota Timberwolves
+1150,523,Roy,,,Tarpley,,,Dallas Mavericks
+1151,524,Anthony,,,Cook,,,Denver Nuggets
+1152,525,Todd,,,Lichti,,,Denver Nuggets
+1153,526,Tom,,,Tolbert,,,Golden State Warriors
+1154,527,Billy,,,Thompson,,,Miami Heat
+1155,528,Byron,,,Irvin,,,Washington Wizards
+1156,529,Mark,,,Price,,,Cleveland Cavaliers
+1157,530,Dominique,,,Wilkins,,,Atlanta Hawks
+1158,531,Dennis,,,Scott,,,Orlando Magic
+1159,532,Terry,,,Catledge,,,Orlando Magic
+1160,533,Bill,,,Laimbeer,,,Detroit Pistons
+1161,534,William,,,Bedford,,,Detroit Pistons
+1162,535,Ricky,,,Pierce,,,Milwaukee Bucks
+1163,536,Blue,,,Edwards,,,Utah Jazz
+1164,537,Walter,,,Palmer,,,Utah Jazz
+1165,538,Mark,,,West,,,Phoenix Suns
+1166,539,Clifford,,,Robinson,,,Portland Trail Blazers
+1167,540,Hakeem,,,Olajuwon,,,Houston Rockets
+1168,541,Richard,,,Coffey,,,Minnesota Timberwolves
+1169,542,James,,,Donaldson,,,Dallas Mavericks
+1170,543,Jerome,,,Lane,,,Denver Nuggets
+1171,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+1172,545,Grant,,,Long,,,Miami Heat
+1173,546,Willie,,,Burton,,,Miami Heat
+1174,547,Mark,,,Alarie,,,Washington Wizards
+1175,548,Winston,,,Bennett,,,Cleveland Cavaliers
+1176,549,Doc,,,Rivers,,,Atlanta Hawks
+1177,550,Tim,,,McCormick,,,Atlanta Hawks
+1178,551,Scott,,,Skiles,,,Orlando Magic
+1179,552,Dennis,,,Rodman,,,Detroit Pistons
+1180,553,Greg,,,Anderson,,,Milwaukee Bucks
+1181,554,Jeff,,,Malone,,,Utah Jazz
+1182,555,Cedric,,,Ceballos,,,Phoenix Suns
+1183,556,Tim,,,Perry,,,Phoenix Suns
+1184,557,Buck,,,Williams,,,Portland Trail Blazers
+1185,558,Dave,,,Jamerson,,,Houston Rockets
+1186,559,Scott,,,Brooks,,,Minnesota Timberwolves
+1187,560,Rolando,,,Blackman,,,Dallas Mavericks
+1188,561,Avery,,,Johnson,,,Denver Nuggets
+1189,562,Rod,,,Higgins,,,Golden State Warriors
+1190,563,Jon,,,Sundvold,,,Miami Heat
+1191,564,A.J.,,,English,,,Washington Wizards
+1192,565,John,,,Battle,,,Atlanta Hawks
+1193,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+1194,566,Sam,,,Vincent,,,Orlando Magic
+1195,567,Isiah,,,Thomas,,,Detroit Pistons
+1196,568,Brad,,,Lohaus,,,Milwaukee Bucks
+1197,569,Mike,,,Brown,,,Utah Jazz
+1198,570,Kenny,,,Battle,,,Phoenix Suns
+1199,571,Danny,,,Young,,,Portland Trail Blazers
+1200,14,Ike,,,Anigbogu,C,,Indiana Pacers
+1201,25,Ron,,,Baker,G,,New York Knicks
+1202,47,Jabari,,,Bird,G,,Boston Celtics
+1203,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+1204,71,Lorenzo,,,Brown,G,,Toronto Raptors
+1205,90,Omri,,,Casspi,F,,Memphis Grizzlies
+1206,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+1207,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+1208,149,Keenan,,,Evans,G,,Detroit Pistons
+1209,179,Marcin,,,Gortat,C,,LA Clippers
+1210,1593,Andrew,,,Bogut,F,,Golden State Warriors
+1211,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+1212,392,Malachi,,,Richardson,G,,Utah Jazz
+1213,281,Zach,,,Lofton,G,,Detroit Pistons
+1214,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+1215,382,Billy,,,Preston,F,,Cleveland Cavaliers
+1216,384,Zhou,,,Qi,F-C,,Houston Rockets
+1217,388,Zach,,,Randolph,F,,Sacramento Kings
+1218,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+1219,437,Milos,,,Teodosic,G,,LA Clippers
+1220,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+1221,494,Michael,,,Smith,,,Boston Celtics
+1222,495,John,,,Morton,,,Cleveland Cavaliers
+1223,496,Howard,,,Wright,,,Atlanta Hawks
+1224,497,Michael,,,Ansley,,,Orlando Magic
+1225,498,John,,,Salley,,,Detroit Pistons
+1226,499,Dan,,,Schayes,,,Milwaukee Bucks
+1227,500,Mark,,,Eaton,,,Utah Jazz
+1228,501,Kevin,,,Johnson,,,Phoenix Suns
+1229,502,Danny,,,Ainge,,,Portland Trail Blazers
+1230,503,Kenny,,,Smith,,,Houston Rockets
+1231,504,Randy,,,Breuer,,,Minnesota Timberwolves
+1232,505,Herb,,,Williams,,,Dallas Mavericks
+1233,506,Joe,,,Wolf,,,Denver Nuggets
+1234,507,Steve,,,Johnson,,,Golden State Warriors
+1235,508,Glen,,,Rice,,,Miami Heat
+1236,509,Greg,,,Foster,,,Washington Wizards
+1237,510,Larry,,,Nance,,,Cleveland Cavaliers
+1238,511,Duane,,,Ferrell,,,Atlanta Hawks
+1239,512,Nick,,,Anderson,,,Orlando Magic
+1240,513,Joe,,,Dumars,,,Detroit Pistons
+1241,514,Jay,,,Humphries,,,Milwaukee Bucks
+1242,515,Darrell,,,Griffith,,,Utah Jazz
+1243,516,Dan,,,Majerle,,,Phoenix Suns
+1244,517,Tom,,,Chambers,,,Phoenix Suns
+1245,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+1246,519,Adrian,,,Caldwell,,,Houston Rockets
+1247,520,Vernon,,,Maxwell,,,Houston Rockets
+1248,521,Doug,,,West,,,Minnesota Timberwolves
+1249,522,Tony,,,Campbell,,,Minnesota Timberwolves
+1250,523,Roy,,,Tarpley,,,Dallas Mavericks
+1251,524,Anthony,,,Cook,,,Denver Nuggets
+1252,525,Todd,,,Lichti,,,Denver Nuggets
+1253,526,Tom,,,Tolbert,,,Golden State Warriors
+1254,527,Billy,,,Thompson,,,Miami Heat
+1255,528,Byron,,,Irvin,,,Washington Wizards
+1256,529,Mark,,,Price,,,Cleveland Cavaliers
+1257,530,Dominique,,,Wilkins,,,Atlanta Hawks
+1258,531,Dennis,,,Scott,,,Orlando Magic
+1259,532,Terry,,,Catledge,,,Orlando Magic
+1260,533,Bill,,,Laimbeer,,,Detroit Pistons
+1261,534,William,,,Bedford,,,Detroit Pistons
+1262,535,Ricky,,,Pierce,,,Milwaukee Bucks
+1263,536,Blue,,,Edwards,,,Utah Jazz
+1264,537,Walter,,,Palmer,,,Utah Jazz
+1265,538,Mark,,,West,,,Phoenix Suns
+1266,539,Clifford,,,Robinson,,,Portland Trail Blazers
+1267,540,Hakeem,,,Olajuwon,,,Houston Rockets
+1268,541,Richard,,,Coffey,,,Minnesota Timberwolves
+1269,542,James,,,Donaldson,,,Dallas Mavericks
+1270,543,Jerome,,,Lane,,,Denver Nuggets
+1271,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+1272,545,Grant,,,Long,,,Miami Heat
+1273,546,Willie,,,Burton,,,Miami Heat
+1274,547,Mark,,,Alarie,,,Washington Wizards
+1275,548,Winston,,,Bennett,,,Cleveland Cavaliers
+1276,549,Doc,,,Rivers,,,Atlanta Hawks
+1277,550,Tim,,,McCormick,,,Atlanta Hawks
+1278,551,Scott,,,Skiles,,,Orlando Magic
+1279,552,Dennis,,,Rodman,,,Detroit Pistons
+1280,553,Greg,,,Anderson,,,Milwaukee Bucks
+1281,554,Jeff,,,Malone,,,Utah Jazz
+1282,555,Cedric,,,Ceballos,,,Phoenix Suns
+1283,556,Tim,,,Perry,,,Phoenix Suns
+1284,557,Buck,,,Williams,,,Portland Trail Blazers
+1285,558,Dave,,,Jamerson,,,Houston Rockets
+1286,559,Scott,,,Brooks,,,Minnesota Timberwolves
+1287,560,Rolando,,,Blackman,,,Dallas Mavericks
+1288,561,Avery,,,Johnson,,,Denver Nuggets
+1289,562,Rod,,,Higgins,,,Golden State Warriors
+1290,563,Jon,,,Sundvold,,,Miami Heat
+1291,564,A.J.,,,English,,,Washington Wizards
+1292,565,John,,,Battle,,,Atlanta Hawks
+1293,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+1294,566,Sam,,,Vincent,,,Orlando Magic
+1295,567,Isiah,,,Thomas,,,Detroit Pistons
+1296,568,Brad,,,Lohaus,,,Milwaukee Bucks
+1297,569,Mike,,,Brown,,,Utah Jazz
+1298,570,Kenny,,,Battle,,,Phoenix Suns
+1299,571,Danny,,,Young,,,Portland Trail Blazers
+1300,14,Ike,,,Anigbogu,C,,Indiana Pacers
+1301,25,Ron,,,Baker,G,,New York Knicks
+1302,47,Jabari,,,Bird,G,,Boston Celtics
+1303,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+1304,71,Lorenzo,,,Brown,G,,Toronto Raptors
+1305,90,Omri,,,Casspi,F,,Memphis Grizzlies
+1306,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+1307,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+1308,149,Keenan,,,Evans,G,,Detroit Pistons
+1309,179,Marcin,,,Gortat,C,,LA Clippers
+1310,1593,Andrew,,,Bogut,F,,Golden State Warriors
+1311,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+1312,392,Malachi,,,Richardson,G,,Utah Jazz
+1313,281,Zach,,,Lofton,G,,Detroit Pistons
+1314,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+1315,382,Billy,,,Preston,F,,Cleveland Cavaliers
+1316,384,Zhou,,,Qi,F-C,,Houston Rockets
+1317,388,Zach,,,Randolph,F,,Sacramento Kings
+1318,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+1319,437,Milos,,,Teodosic,G,,LA Clippers
+1320,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+1321,494,Michael,,,Smith,,,Boston Celtics
+1322,495,John,,,Morton,,,Cleveland Cavaliers
+1323,496,Howard,,,Wright,,,Atlanta Hawks
+1324,497,Michael,,,Ansley,,,Orlando Magic
+1325,498,John,,,Salley,,,Detroit Pistons
+1326,499,Dan,,,Schayes,,,Milwaukee Bucks
+1327,500,Mark,,,Eaton,,,Utah Jazz
+1328,501,Kevin,,,Johnson,,,Phoenix Suns
+1329,502,Danny,,,Ainge,,,Portland Trail Blazers
+1330,503,Kenny,,,Smith,,,Houston Rockets
+1331,504,Randy,,,Breuer,,,Minnesota Timberwolves
+1332,505,Herb,,,Williams,,,Dallas Mavericks
+1333,506,Joe,,,Wolf,,,Denver Nuggets
+1334,507,Steve,,,Johnson,,,Golden State Warriors
+1335,508,Glen,,,Rice,,,Miami Heat
+1336,509,Greg,,,Foster,,,Washington Wizards
+1337,510,Larry,,,Nance,,,Cleveland Cavaliers
+1338,511,Duane,,,Ferrell,,,Atlanta Hawks
+1339,512,Nick,,,Anderson,,,Orlando Magic
+1340,513,Joe,,,Dumars,,,Detroit Pistons
+1341,514,Jay,,,Humphries,,,Milwaukee Bucks
+1342,515,Darrell,,,Griffith,,,Utah Jazz
+1343,516,Dan,,,Majerle,,,Phoenix Suns
+1344,517,Tom,,,Chambers,,,Phoenix Suns
+1345,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+1346,519,Adrian,,,Caldwell,,,Houston Rockets
+1347,520,Vernon,,,Maxwell,,,Houston Rockets
+1348,521,Doug,,,West,,,Minnesota Timberwolves
+1349,522,Tony,,,Campbell,,,Minnesota Timberwolves
+1350,523,Roy,,,Tarpley,,,Dallas Mavericks
+1351,524,Anthony,,,Cook,,,Denver Nuggets
+1352,525,Todd,,,Lichti,,,Denver Nuggets
+1353,526,Tom,,,Tolbert,,,Golden State Warriors
+1354,527,Billy,,,Thompson,,,Miami Heat
+1355,528,Byron,,,Irvin,,,Washington Wizards
+1356,529,Mark,,,Price,,,Cleveland Cavaliers
+1357,530,Dominique,,,Wilkins,,,Atlanta Hawks
+1358,531,Dennis,,,Scott,,,Orlando Magic
+1359,532,Terry,,,Catledge,,,Orlando Magic
+1360,533,Bill,,,Laimbeer,,,Detroit Pistons
+1361,534,William,,,Bedford,,,Detroit Pistons
+1362,535,Ricky,,,Pierce,,,Milwaukee Bucks
+1363,536,Blue,,,Edwards,,,Utah Jazz
+1364,537,Walter,,,Palmer,,,Utah Jazz
+1365,538,Mark,,,West,,,Phoenix Suns
+1366,539,Clifford,,,Robinson,,,Portland Trail Blazers
+1367,540,Hakeem,,,Olajuwon,,,Houston Rockets
+1368,541,Richard,,,Coffey,,,Minnesota Timberwolves
+1369,542,James,,,Donaldson,,,Dallas Mavericks
+1370,543,Jerome,,,Lane,,,Denver Nuggets
+1371,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+1372,545,Grant,,,Long,,,Miami Heat
+1373,546,Willie,,,Burton,,,Miami Heat
+1374,547,Mark,,,Alarie,,,Washington Wizards
+1375,548,Winston,,,Bennett,,,Cleveland Cavaliers
+1376,549,Doc,,,Rivers,,,Atlanta Hawks
+1377,550,Tim,,,McCormick,,,Atlanta Hawks
+1378,551,Scott,,,Skiles,,,Orlando Magic
+1379,552,Dennis,,,Rodman,,,Detroit Pistons
+1380,553,Greg,,,Anderson,,,Milwaukee Bucks
+1381,554,Jeff,,,Malone,,,Utah Jazz
+1382,555,Cedric,,,Ceballos,,,Phoenix Suns
+1383,556,Tim,,,Perry,,,Phoenix Suns
+1384,557,Buck,,,Williams,,,Portland Trail Blazers
+1385,558,Dave,,,Jamerson,,,Houston Rockets
+1386,559,Scott,,,Brooks,,,Minnesota Timberwolves
+1387,560,Rolando,,,Blackman,,,Dallas Mavericks
+1388,561,Avery,,,Johnson,,,Denver Nuggets
+1389,562,Rod,,,Higgins,,,Golden State Warriors
+1390,563,Jon,,,Sundvold,,,Miami Heat
+1391,564,A.J.,,,English,,,Washington Wizards
+1392,565,John,,,Battle,,,Atlanta Hawks
+1393,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+1394,566,Sam,,,Vincent,,,Orlando Magic
+1395,567,Isiah,,,Thomas,,,Detroit Pistons
+1396,568,Brad,,,Lohaus,,,Milwaukee Bucks
+1397,569,Mike,,,Brown,,,Utah Jazz
+1398,570,Kenny,,,Battle,,,Phoenix Suns
+1399,571,Danny,,,Young,,,Portland Trail Blazers
+1400,14,Ike,,,Anigbogu,C,,Indiana Pacers
+1401,25,Ron,,,Baker,G,,New York Knicks
+1402,47,Jabari,,,Bird,G,,Boston Celtics
+1403,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+1404,71,Lorenzo,,,Brown,G,,Toronto Raptors
+1405,90,Omri,,,Casspi,F,,Memphis Grizzlies
+1406,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+1407,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+1408,149,Keenan,,,Evans,G,,Detroit Pistons
+1409,179,Marcin,,,Gortat,C,,LA Clippers
+1410,1593,Andrew,,,Bogut,F,,Golden State Warriors
+1411,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+1412,392,Malachi,,,Richardson,G,,Utah Jazz
+1413,281,Zach,,,Lofton,G,,Detroit Pistons
+1414,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+1415,382,Billy,,,Preston,F,,Cleveland Cavaliers
+1416,384,Zhou,,,Qi,F-C,,Houston Rockets
+1417,388,Zach,,,Randolph,F,,Sacramento Kings
+1418,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+1419,437,Milos,,,Teodosic,G,,LA Clippers
+1420,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+1421,494,Michael,,,Smith,,,Boston Celtics
+1422,495,John,,,Morton,,,Cleveland Cavaliers
+1423,496,Howard,,,Wright,,,Atlanta Hawks
+1424,497,Michael,,,Ansley,,,Orlando Magic
+1425,498,John,,,Salley,,,Detroit Pistons
+1426,499,Dan,,,Schayes,,,Milwaukee Bucks
+1427,500,Mark,,,Eaton,,,Utah Jazz
+1428,501,Kevin,,,Johnson,,,Phoenix Suns
+1429,502,Danny,,,Ainge,,,Portland Trail Blazers
+1430,503,Kenny,,,Smith,,,Houston Rockets
+1431,504,Randy,,,Breuer,,,Minnesota Timberwolves
+1432,505,Herb,,,Williams,,,Dallas Mavericks
+1433,506,Joe,,,Wolf,,,Denver Nuggets
+1434,507,Steve,,,Johnson,,,Golden State Warriors
+1435,508,Glen,,,Rice,,,Miami Heat
+1436,509,Greg,,,Foster,,,Washington Wizards
+1437,510,Larry,,,Nance,,,Cleveland Cavaliers
+1438,511,Duane,,,Ferrell,,,Atlanta Hawks
+1439,512,Nick,,,Anderson,,,Orlando Magic
+1440,513,Joe,,,Dumars,,,Detroit Pistons
+1441,514,Jay,,,Humphries,,,Milwaukee Bucks
+1442,515,Darrell,,,Griffith,,,Utah Jazz
+1443,516,Dan,,,Majerle,,,Phoenix Suns
+1444,517,Tom,,,Chambers,,,Phoenix Suns
+1445,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+1446,519,Adrian,,,Caldwell,,,Houston Rockets
+1447,520,Vernon,,,Maxwell,,,Houston Rockets
+1448,521,Doug,,,West,,,Minnesota Timberwolves
+1449,522,Tony,,,Campbell,,,Minnesota Timberwolves
+1450,523,Roy,,,Tarpley,,,Dallas Mavericks
+1451,524,Anthony,,,Cook,,,Denver Nuggets
+1452,525,Todd,,,Lichti,,,Denver Nuggets
+1453,526,Tom,,,Tolbert,,,Golden State Warriors
+1454,527,Billy,,,Thompson,,,Miami Heat
+1455,528,Byron,,,Irvin,,,Washington Wizards
+1456,529,Mark,,,Price,,,Cleveland Cavaliers
+1457,530,Dominique,,,Wilkins,,,Atlanta Hawks
+1458,531,Dennis,,,Scott,,,Orlando Magic
+1459,532,Terry,,,Catledge,,,Orlando Magic
+1460,533,Bill,,,Laimbeer,,,Detroit Pistons
+1461,534,William,,,Bedford,,,Detroit Pistons
+1462,535,Ricky,,,Pierce,,,Milwaukee Bucks
+1463,536,Blue,,,Edwards,,,Utah Jazz
+1464,537,Walter,,,Palmer,,,Utah Jazz
+1465,538,Mark,,,West,,,Phoenix Suns
+1466,539,Clifford,,,Robinson,,,Portland Trail Blazers
+1467,540,Hakeem,,,Olajuwon,,,Houston Rockets
+1468,541,Richard,,,Coffey,,,Minnesota Timberwolves
+1469,542,James,,,Donaldson,,,Dallas Mavericks
+1470,543,Jerome,,,Lane,,,Denver Nuggets
+1471,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+1472,545,Grant,,,Long,,,Miami Heat
+1473,546,Willie,,,Burton,,,Miami Heat
+1474,547,Mark,,,Alarie,,,Washington Wizards
+1475,548,Winston,,,Bennett,,,Cleveland Cavaliers
+1476,549,Doc,,,Rivers,,,Atlanta Hawks
+1477,550,Tim,,,McCormick,,,Atlanta Hawks
+1478,551,Scott,,,Skiles,,,Orlando Magic
+1479,552,Dennis,,,Rodman,,,Detroit Pistons
+1480,553,Greg,,,Anderson,,,Milwaukee Bucks
+1481,554,Jeff,,,Malone,,,Utah Jazz
+1482,555,Cedric,,,Ceballos,,,Phoenix Suns
+1483,556,Tim,,,Perry,,,Phoenix Suns
+1484,557,Buck,,,Williams,,,Portland Trail Blazers
+1485,558,Dave,,,Jamerson,,,Houston Rockets
+1486,559,Scott,,,Brooks,,,Minnesota Timberwolves
+1487,560,Rolando,,,Blackman,,,Dallas Mavericks
+1488,561,Avery,,,Johnson,,,Denver Nuggets
+1489,562,Rod,,,Higgins,,,Golden State Warriors
+1490,563,Jon,,,Sundvold,,,Miami Heat
+1491,564,A.J.,,,English,,,Washington Wizards
+1492,565,John,,,Battle,,,Atlanta Hawks
+1493,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+1494,566,Sam,,,Vincent,,,Orlando Magic
+1495,567,Isiah,,,Thomas,,,Detroit Pistons
+1496,568,Brad,,,Lohaus,,,Milwaukee Bucks
+1497,569,Mike,,,Brown,,,Utah Jazz
+1498,570,Kenny,,,Battle,,,Phoenix Suns
+1499,571,Danny,,,Young,,,Portland Trail Blazers
+1500,14,Ike,,,Anigbogu,C,,Indiana Pacers
+1501,25,Ron,,,Baker,G,,New York Knicks
+1502,47,Jabari,,,Bird,G,,Boston Celtics
+1503,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+1504,71,Lorenzo,,,Brown,G,,Toronto Raptors
+1505,90,Omri,,,Casspi,F,,Memphis Grizzlies
+1506,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+1507,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+1508,149,Keenan,,,Evans,G,,Detroit Pistons
+1509,179,Marcin,,,Gortat,C,,LA Clippers
+1510,1593,Andrew,,,Bogut,F,,Golden State Warriors
+1511,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+1512,392,Malachi,,,Richardson,G,,Utah Jazz
+1513,281,Zach,,,Lofton,G,,Detroit Pistons
+1514,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+1515,382,Billy,,,Preston,F,,Cleveland Cavaliers
+1516,384,Zhou,,,Qi,F-C,,Houston Rockets
+1517,388,Zach,,,Randolph,F,,Sacramento Kings
+1518,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+1519,437,Milos,,,Teodosic,G,,LA Clippers
+1520,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+1521,494,Michael,,,Smith,,,Boston Celtics
+1522,495,John,,,Morton,,,Cleveland Cavaliers
+1523,496,Howard,,,Wright,,,Atlanta Hawks
+1524,497,Michael,,,Ansley,,,Orlando Magic
+1525,498,John,,,Salley,,,Detroit Pistons
+1526,499,Dan,,,Schayes,,,Milwaukee Bucks
+1527,500,Mark,,,Eaton,,,Utah Jazz
+1528,501,Kevin,,,Johnson,,,Phoenix Suns
+1529,502,Danny,,,Ainge,,,Portland Trail Blazers
+1530,503,Kenny,,,Smith,,,Houston Rockets
+1531,504,Randy,,,Breuer,,,Minnesota Timberwolves
+1532,505,Herb,,,Williams,,,Dallas Mavericks
+1533,506,Joe,,,Wolf,,,Denver Nuggets
+1534,507,Steve,,,Johnson,,,Golden State Warriors
+1535,508,Glen,,,Rice,,,Miami Heat
+1536,509,Greg,,,Foster,,,Washington Wizards
+1537,510,Larry,,,Nance,,,Cleveland Cavaliers
+1538,511,Duane,,,Ferrell,,,Atlanta Hawks
+1539,512,Nick,,,Anderson,,,Orlando Magic
+1540,513,Joe,,,Dumars,,,Detroit Pistons
+1541,514,Jay,,,Humphries,,,Milwaukee Bucks
+1542,515,Darrell,,,Griffith,,,Utah Jazz
+1543,516,Dan,,,Majerle,,,Phoenix Suns
+1544,517,Tom,,,Chambers,,,Phoenix Suns
+1545,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+1546,519,Adrian,,,Caldwell,,,Houston Rockets
+1547,520,Vernon,,,Maxwell,,,Houston Rockets
+1548,521,Doug,,,West,,,Minnesota Timberwolves
+1549,522,Tony,,,Campbell,,,Minnesota Timberwolves
+1550,523,Roy,,,Tarpley,,,Dallas Mavericks
+1551,524,Anthony,,,Cook,,,Denver Nuggets
+1552,525,Todd,,,Lichti,,,Denver Nuggets
+1553,526,Tom,,,Tolbert,,,Golden State Warriors
+1554,527,Billy,,,Thompson,,,Miami Heat
+1555,528,Byron,,,Irvin,,,Washington Wizards
+1556,529,Mark,,,Price,,,Cleveland Cavaliers
+1557,530,Dominique,,,Wilkins,,,Atlanta Hawks
+1558,531,Dennis,,,Scott,,,Orlando Magic
+1559,532,Terry,,,Catledge,,,Orlando Magic
+1560,533,Bill,,,Laimbeer,,,Detroit Pistons
+1561,534,William,,,Bedford,,,Detroit Pistons
+1562,535,Ricky,,,Pierce,,,Milwaukee Bucks
+1563,536,Blue,,,Edwards,,,Utah Jazz
+1564,537,Walter,,,Palmer,,,Utah Jazz
+1565,538,Mark,,,West,,,Phoenix Suns
+1566,539,Clifford,,,Robinson,,,Portland Trail Blazers
+1567,540,Hakeem,,,Olajuwon,,,Houston Rockets
+1568,541,Richard,,,Coffey,,,Minnesota Timberwolves
+1569,542,James,,,Donaldson,,,Dallas Mavericks
+1570,543,Jerome,,,Lane,,,Denver Nuggets
+1571,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+1572,545,Grant,,,Long,,,Miami Heat
+1573,546,Willie,,,Burton,,,Miami Heat
+1574,547,Mark,,,Alarie,,,Washington Wizards
+1575,548,Winston,,,Bennett,,,Cleveland Cavaliers
+1576,549,Doc,,,Rivers,,,Atlanta Hawks
+1577,550,Tim,,,McCormick,,,Atlanta Hawks
+1578,551,Scott,,,Skiles,,,Orlando Magic
+1579,552,Dennis,,,Rodman,,,Detroit Pistons
+1580,553,Greg,,,Anderson,,,Milwaukee Bucks
+1581,554,Jeff,,,Malone,,,Utah Jazz
+1582,555,Cedric,,,Ceballos,,,Phoenix Suns
+1583,556,Tim,,,Perry,,,Phoenix Suns
+1584,557,Buck,,,Williams,,,Portland Trail Blazers
+1585,558,Dave,,,Jamerson,,,Houston Rockets
+1586,559,Scott,,,Brooks,,,Minnesota Timberwolves
+1587,560,Rolando,,,Blackman,,,Dallas Mavericks
+1588,561,Avery,,,Johnson,,,Denver Nuggets
+1589,562,Rod,,,Higgins,,,Golden State Warriors
+1590,563,Jon,,,Sundvold,,,Miami Heat
+1591,564,A.J.,,,English,,,Washington Wizards
+1592,565,John,,,Battle,,,Atlanta Hawks
+1593,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+1594,566,Sam,,,Vincent,,,Orlando Magic
+1595,567,Isiah,,,Thomas,,,Detroit Pistons
+1596,568,Brad,,,Lohaus,,,Milwaukee Bucks
+1597,569,Mike,,,Brown,,,Utah Jazz
+1598,570,Kenny,,,Battle,,,Phoenix Suns
+1599,571,Danny,,,Young,,,Portland Trail Blazers
+1600,14,Ike,,,Anigbogu,C,,Indiana Pacers
+1601,25,Ron,,,Baker,G,,New York Knicks
+1602,47,Jabari,,,Bird,G,,Boston Celtics
+1603,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+1604,71,Lorenzo,,,Brown,G,,Toronto Raptors
+1605,90,Omri,,,Casspi,F,,Memphis Grizzlies
+1606,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+1607,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+1608,149,Keenan,,,Evans,G,,Detroit Pistons
+1609,179,Marcin,,,Gortat,C,,LA Clippers
+1610,1593,Andrew,,,Bogut,F,,Golden State Warriors
+1611,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+1612,392,Malachi,,,Richardson,G,,Utah Jazz
+1613,281,Zach,,,Lofton,G,,Detroit Pistons
+1614,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+1615,382,Billy,,,Preston,F,,Cleveland Cavaliers
+1616,384,Zhou,,,Qi,F-C,,Houston Rockets
+1617,388,Zach,,,Randolph,F,,Sacramento Kings
+1618,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+1619,437,Milos,,,Teodosic,G,,LA Clippers
+1620,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+1621,494,Michael,,,Smith,,,Boston Celtics
+1622,495,John,,,Morton,,,Cleveland Cavaliers
+1623,496,Howard,,,Wright,,,Atlanta Hawks
+1624,497,Michael,,,Ansley,,,Orlando Magic
+1625,498,John,,,Salley,,,Detroit Pistons
+1626,499,Dan,,,Schayes,,,Milwaukee Bucks
+1627,500,Mark,,,Eaton,,,Utah Jazz
+1628,501,Kevin,,,Johnson,,,Phoenix Suns
+1629,502,Danny,,,Ainge,,,Portland Trail Blazers
+1630,503,Kenny,,,Smith,,,Houston Rockets
+1631,504,Randy,,,Breuer,,,Minnesota Timberwolves
+1632,505,Herb,,,Williams,,,Dallas Mavericks
+1633,506,Joe,,,Wolf,,,Denver Nuggets
+1634,507,Steve,,,Johnson,,,Golden State Warriors
+1635,508,Glen,,,Rice,,,Miami Heat
+1636,509,Greg,,,Foster,,,Washington Wizards
+1637,510,Larry,,,Nance,,,Cleveland Cavaliers
+1638,511,Duane,,,Ferrell,,,Atlanta Hawks
+1639,512,Nick,,,Anderson,,,Orlando Magic
+1640,513,Joe,,,Dumars,,,Detroit Pistons
+1641,514,Jay,,,Humphries,,,Milwaukee Bucks
+1642,515,Darrell,,,Griffith,,,Utah Jazz
+1643,516,Dan,,,Majerle,,,Phoenix Suns
+1644,517,Tom,,,Chambers,,,Phoenix Suns
+1645,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+1646,519,Adrian,,,Caldwell,,,Houston Rockets
+1647,520,Vernon,,,Maxwell,,,Houston Rockets
+1648,521,Doug,,,West,,,Minnesota Timberwolves
+1649,522,Tony,,,Campbell,,,Minnesota Timberwolves
+1650,523,Roy,,,Tarpley,,,Dallas Mavericks
+1651,524,Anthony,,,Cook,,,Denver Nuggets
+1652,525,Todd,,,Lichti,,,Denver Nuggets
+1653,526,Tom,,,Tolbert,,,Golden State Warriors
+1654,527,Billy,,,Thompson,,,Miami Heat
+1655,528,Byron,,,Irvin,,,Washington Wizards
+1656,529,Mark,,,Price,,,Cleveland Cavaliers
+1657,530,Dominique,,,Wilkins,,,Atlanta Hawks
+1658,531,Dennis,,,Scott,,,Orlando Magic
+1659,532,Terry,,,Catledge,,,Orlando Magic
+1660,533,Bill,,,Laimbeer,,,Detroit Pistons
+1661,534,William,,,Bedford,,,Detroit Pistons
+1662,535,Ricky,,,Pierce,,,Milwaukee Bucks
+1663,536,Blue,,,Edwards,,,Utah Jazz
+1664,537,Walter,,,Palmer,,,Utah Jazz
+1665,538,Mark,,,West,,,Phoenix Suns
+1666,539,Clifford,,,Robinson,,,Portland Trail Blazers
+1667,540,Hakeem,,,Olajuwon,,,Houston Rockets
+1668,541,Richard,,,Coffey,,,Minnesota Timberwolves
+1669,542,James,,,Donaldson,,,Dallas Mavericks
+1670,543,Jerome,,,Lane,,,Denver Nuggets
+1671,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+1672,545,Grant,,,Long,,,Miami Heat
+1673,546,Willie,,,Burton,,,Miami Heat
+1674,547,Mark,,,Alarie,,,Washington Wizards
+1675,548,Winston,,,Bennett,,,Cleveland Cavaliers
+1676,549,Doc,,,Rivers,,,Atlanta Hawks
+1677,550,Tim,,,McCormick,,,Atlanta Hawks
+1678,551,Scott,,,Skiles,,,Orlando Magic
+1679,552,Dennis,,,Rodman,,,Detroit Pistons
+1680,553,Greg,,,Anderson,,,Milwaukee Bucks
+1681,554,Jeff,,,Malone,,,Utah Jazz
+1682,555,Cedric,,,Ceballos,,,Phoenix Suns
+1683,556,Tim,,,Perry,,,Phoenix Suns
+1684,557,Buck,,,Williams,,,Portland Trail Blazers
+1685,558,Dave,,,Jamerson,,,Houston Rockets
+1686,559,Scott,,,Brooks,,,Minnesota Timberwolves
+1687,560,Rolando,,,Blackman,,,Dallas Mavericks
+1688,561,Avery,,,Johnson,,,Denver Nuggets
+1689,562,Rod,,,Higgins,,,Golden State Warriors
+1690,563,Jon,,,Sundvold,,,Miami Heat
+1691,564,A.J.,,,English,,,Washington Wizards
+1692,565,John,,,Battle,,,Atlanta Hawks
+1693,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+1694,566,Sam,,,Vincent,,,Orlando Magic
+1695,567,Isiah,,,Thomas,,,Detroit Pistons
+1696,568,Brad,,,Lohaus,,,Milwaukee Bucks
+1697,569,Mike,,,Brown,,,Utah Jazz
+1698,570,Kenny,,,Battle,,,Phoenix Suns
+1699,571,Danny,,,Young,,,Portland Trail Blazers
+1700,14,Ike,,,Anigbogu,C,,Indiana Pacers
+1701,25,Ron,,,Baker,G,,New York Knicks
+1702,47,Jabari,,,Bird,G,,Boston Celtics
+1703,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+1704,71,Lorenzo,,,Brown,G,,Toronto Raptors
+1705,90,Omri,,,Casspi,F,,Memphis Grizzlies
+1706,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+1707,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+1708,149,Keenan,,,Evans,G,,Detroit Pistons
+1709,179,Marcin,,,Gortat,C,,LA Clippers
+1710,1593,Andrew,,,Bogut,F,,Golden State Warriors
+1711,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+1712,392,Malachi,,,Richardson,G,,Utah Jazz
+1713,281,Zach,,,Lofton,G,,Detroit Pistons
+1714,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+1715,382,Billy,,,Preston,F,,Cleveland Cavaliers
+1716,384,Zhou,,,Qi,F-C,,Houston Rockets
+1717,388,Zach,,,Randolph,F,,Sacramento Kings
+1718,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+1719,437,Milos,,,Teodosic,G,,LA Clippers
+1720,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+1721,494,Michael,,,Smith,,,Boston Celtics
+1722,495,John,,,Morton,,,Cleveland Cavaliers
+1723,496,Howard,,,Wright,,,Atlanta Hawks
+1724,497,Michael,,,Ansley,,,Orlando Magic
+1725,498,John,,,Salley,,,Detroit Pistons
+1726,499,Dan,,,Schayes,,,Milwaukee Bucks
+1727,500,Mark,,,Eaton,,,Utah Jazz
+1728,501,Kevin,,,Johnson,,,Phoenix Suns
+1729,502,Danny,,,Ainge,,,Portland Trail Blazers
+1730,503,Kenny,,,Smith,,,Houston Rockets
+1731,504,Randy,,,Breuer,,,Minnesota Timberwolves
+1732,505,Herb,,,Williams,,,Dallas Mavericks
+1733,506,Joe,,,Wolf,,,Denver Nuggets
+1734,507,Steve,,,Johnson,,,Golden State Warriors
+1735,508,Glen,,,Rice,,,Miami Heat
+1736,509,Greg,,,Foster,,,Washington Wizards
+1737,510,Larry,,,Nance,,,Cleveland Cavaliers
+1738,511,Duane,,,Ferrell,,,Atlanta Hawks
+1739,512,Nick,,,Anderson,,,Orlando Magic
+1740,513,Joe,,,Dumars,,,Detroit Pistons
+1741,514,Jay,,,Humphries,,,Milwaukee Bucks
+1742,515,Darrell,,,Griffith,,,Utah Jazz
+1743,516,Dan,,,Majerle,,,Phoenix Suns
+1744,517,Tom,,,Chambers,,,Phoenix Suns
+1745,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+1746,519,Adrian,,,Caldwell,,,Houston Rockets
+1747,520,Vernon,,,Maxwell,,,Houston Rockets
+1748,521,Doug,,,West,,,Minnesota Timberwolves
+1749,522,Tony,,,Campbell,,,Minnesota Timberwolves
+1750,523,Roy,,,Tarpley,,,Dallas Mavericks
+1751,524,Anthony,,,Cook,,,Denver Nuggets
+1752,525,Todd,,,Lichti,,,Denver Nuggets
+1753,526,Tom,,,Tolbert,,,Golden State Warriors
+1754,527,Billy,,,Thompson,,,Miami Heat
+1755,528,Byron,,,Irvin,,,Washington Wizards
+1756,529,Mark,,,Price,,,Cleveland Cavaliers
+1757,530,Dominique,,,Wilkins,,,Atlanta Hawks
+1758,531,Dennis,,,Scott,,,Orlando Magic
+1759,532,Terry,,,Catledge,,,Orlando Magic
+1760,533,Bill,,,Laimbeer,,,Detroit Pistons
+1761,534,William,,,Bedford,,,Detroit Pistons
+1762,535,Ricky,,,Pierce,,,Milwaukee Bucks
+1763,536,Blue,,,Edwards,,,Utah Jazz
+1764,537,Walter,,,Palmer,,,Utah Jazz
+1765,538,Mark,,,West,,,Phoenix Suns
+1766,539,Clifford,,,Robinson,,,Portland Trail Blazers
+1767,540,Hakeem,,,Olajuwon,,,Houston Rockets
+1768,541,Richard,,,Coffey,,,Minnesota Timberwolves
+1769,542,James,,,Donaldson,,,Dallas Mavericks
+1770,543,Jerome,,,Lane,,,Denver Nuggets
+1771,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+1772,545,Grant,,,Long,,,Miami Heat
+1773,546,Willie,,,Burton,,,Miami Heat
+1774,547,Mark,,,Alarie,,,Washington Wizards
+1775,548,Winston,,,Bennett,,,Cleveland Cavaliers
+1776,549,Doc,,,Rivers,,,Atlanta Hawks
+1777,550,Tim,,,McCormick,,,Atlanta Hawks
+1778,551,Scott,,,Skiles,,,Orlando Magic
+1779,552,Dennis,,,Rodman,,,Detroit Pistons
+1780,553,Greg,,,Anderson,,,Milwaukee Bucks
+1781,554,Jeff,,,Malone,,,Utah Jazz
+1782,555,Cedric,,,Ceballos,,,Phoenix Suns
+1783,556,Tim,,,Perry,,,Phoenix Suns
+1784,557,Buck,,,Williams,,,Portland Trail Blazers
+1785,558,Dave,,,Jamerson,,,Houston Rockets
+1786,559,Scott,,,Brooks,,,Minnesota Timberwolves
+1787,560,Rolando,,,Blackman,,,Dallas Mavericks
+1788,561,Avery,,,Johnson,,,Denver Nuggets
+1789,562,Rod,,,Higgins,,,Golden State Warriors
+1790,563,Jon,,,Sundvold,,,Miami Heat
+1791,564,A.J.,,,English,,,Washington Wizards
+1792,565,John,,,Battle,,,Atlanta Hawks
+1793,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+1794,566,Sam,,,Vincent,,,Orlando Magic
+1795,567,Isiah,,,Thomas,,,Detroit Pistons
+1796,568,Brad,,,Lohaus,,,Milwaukee Bucks
+1797,569,Mike,,,Brown,,,Utah Jazz
+1798,570,Kenny,,,Battle,,,Phoenix Suns
+1799,571,Danny,,,Young,,,Portland Trail Blazers
+1800,14,Ike,,,Anigbogu,C,,Indiana Pacers
+1801,25,Ron,,,Baker,G,,New York Knicks
+1802,47,Jabari,,,Bird,G,,Boston Celtics
+1803,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+1804,71,Lorenzo,,,Brown,G,,Toronto Raptors
+1805,90,Omri,,,Casspi,F,,Memphis Grizzlies
+1806,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+1807,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+1808,149,Keenan,,,Evans,G,,Detroit Pistons
+1809,179,Marcin,,,Gortat,C,,LA Clippers
+1810,1593,Andrew,,,Bogut,F,,Golden State Warriors
+1811,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+1812,392,Malachi,,,Richardson,G,,Utah Jazz
+1813,281,Zach,,,Lofton,G,,Detroit Pistons
+1814,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+1815,382,Billy,,,Preston,F,,Cleveland Cavaliers
+1816,384,Zhou,,,Qi,F-C,,Houston Rockets
+1817,388,Zach,,,Randolph,F,,Sacramento Kings
+1818,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+1819,437,Milos,,,Teodosic,G,,LA Clippers
+1820,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+1821,494,Michael,,,Smith,,,Boston Celtics
+1822,495,John,,,Morton,,,Cleveland Cavaliers
+1823,496,Howard,,,Wright,,,Atlanta Hawks
+1824,497,Michael,,,Ansley,,,Orlando Magic
+1825,498,John,,,Salley,,,Detroit Pistons
+1826,499,Dan,,,Schayes,,,Milwaukee Bucks
+1827,500,Mark,,,Eaton,,,Utah Jazz
+1828,501,Kevin,,,Johnson,,,Phoenix Suns
+1829,502,Danny,,,Ainge,,,Portland Trail Blazers
+1830,503,Kenny,,,Smith,,,Houston Rockets
+1831,504,Randy,,,Breuer,,,Minnesota Timberwolves
+1832,505,Herb,,,Williams,,,Dallas Mavericks
+1833,506,Joe,,,Wolf,,,Denver Nuggets
+1834,507,Steve,,,Johnson,,,Golden State Warriors
+1835,508,Glen,,,Rice,,,Miami Heat
+1836,509,Greg,,,Foster,,,Washington Wizards
+1837,510,Larry,,,Nance,,,Cleveland Cavaliers
+1838,511,Duane,,,Ferrell,,,Atlanta Hawks
+1839,512,Nick,,,Anderson,,,Orlando Magic
+1840,513,Joe,,,Dumars,,,Detroit Pistons
+1841,514,Jay,,,Humphries,,,Milwaukee Bucks
+1842,515,Darrell,,,Griffith,,,Utah Jazz
+1843,516,Dan,,,Majerle,,,Phoenix Suns
+1844,517,Tom,,,Chambers,,,Phoenix Suns
+1845,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+1846,519,Adrian,,,Caldwell,,,Houston Rockets
+1847,520,Vernon,,,Maxwell,,,Houston Rockets
+1848,521,Doug,,,West,,,Minnesota Timberwolves
+1849,522,Tony,,,Campbell,,,Minnesota Timberwolves
+1850,523,Roy,,,Tarpley,,,Dallas Mavericks
+1851,524,Anthony,,,Cook,,,Denver Nuggets
+1852,525,Todd,,,Lichti,,,Denver Nuggets
+1853,526,Tom,,,Tolbert,,,Golden State Warriors
+1854,527,Billy,,,Thompson,,,Miami Heat
+1855,528,Byron,,,Irvin,,,Washington Wizards
+1856,529,Mark,,,Price,,,Cleveland Cavaliers
+1857,530,Dominique,,,Wilkins,,,Atlanta Hawks
+1858,531,Dennis,,,Scott,,,Orlando Magic
+1859,532,Terry,,,Catledge,,,Orlando Magic
+1860,533,Bill,,,Laimbeer,,,Detroit Pistons
+1861,534,William,,,Bedford,,,Detroit Pistons
+1862,535,Ricky,,,Pierce,,,Milwaukee Bucks
+1863,536,Blue,,,Edwards,,,Utah Jazz
+1864,537,Walter,,,Palmer,,,Utah Jazz
+1865,538,Mark,,,West,,,Phoenix Suns
+1866,539,Clifford,,,Robinson,,,Portland Trail Blazers
+1867,540,Hakeem,,,Olajuwon,,,Houston Rockets
+1868,541,Richard,,,Coffey,,,Minnesota Timberwolves
+1869,542,James,,,Donaldson,,,Dallas Mavericks
+1870,543,Jerome,,,Lane,,,Denver Nuggets
+1871,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+1872,545,Grant,,,Long,,,Miami Heat
+1873,546,Willie,,,Burton,,,Miami Heat
+1874,547,Mark,,,Alarie,,,Washington Wizards
+1875,548,Winston,,,Bennett,,,Cleveland Cavaliers
+1876,549,Doc,,,Rivers,,,Atlanta Hawks
+1877,550,Tim,,,McCormick,,,Atlanta Hawks
+1878,551,Scott,,,Skiles,,,Orlando Magic
+1879,552,Dennis,,,Rodman,,,Detroit Pistons
+1880,553,Greg,,,Anderson,,,Milwaukee Bucks
+1881,554,Jeff,,,Malone,,,Utah Jazz
+1882,555,Cedric,,,Ceballos,,,Phoenix Suns
+1883,556,Tim,,,Perry,,,Phoenix Suns
+1884,557,Buck,,,Williams,,,Portland Trail Blazers
+1885,558,Dave,,,Jamerson,,,Houston Rockets
+1886,559,Scott,,,Brooks,,,Minnesota Timberwolves
+1887,560,Rolando,,,Blackman,,,Dallas Mavericks
+1888,561,Avery,,,Johnson,,,Denver Nuggets
+1889,562,Rod,,,Higgins,,,Golden State Warriors
+1890,563,Jon,,,Sundvold,,,Miami Heat
+1891,564,A.J.,,,English,,,Washington Wizards
+1892,565,John,,,Battle,,,Atlanta Hawks
+1893,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+1894,566,Sam,,,Vincent,,,Orlando Magic
+1895,567,Isiah,,,Thomas,,,Detroit Pistons
+1896,568,Brad,,,Lohaus,,,Milwaukee Bucks
+1897,569,Mike,,,Brown,,,Utah Jazz
+1898,570,Kenny,,,Battle,,,Phoenix Suns
+1899,571,Danny,,,Young,,,Portland Trail Blazers
+1900,14,Ike,,,Anigbogu,C,,Indiana Pacers
+1901,25,Ron,,,Baker,G,,New York Knicks
+1902,47,Jabari,,,Bird,G,,Boston Celtics
+1903,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+1904,71,Lorenzo,,,Brown,G,,Toronto Raptors
+1905,90,Omri,,,Casspi,F,,Memphis Grizzlies
+1906,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+1907,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+1908,149,Keenan,,,Evans,G,,Detroit Pistons
+1909,179,Marcin,,,Gortat,C,,LA Clippers
+1910,1593,Andrew,,,Bogut,F,,Golden State Warriors
+1911,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+1912,392,Malachi,,,Richardson,G,,Utah Jazz
+1913,281,Zach,,,Lofton,G,,Detroit Pistons
+1914,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+1915,382,Billy,,,Preston,F,,Cleveland Cavaliers
+1916,384,Zhou,,,Qi,F-C,,Houston Rockets
+1917,388,Zach,,,Randolph,F,,Sacramento Kings
+1918,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+1919,437,Milos,,,Teodosic,G,,LA Clippers
+1920,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+1921,494,Michael,,,Smith,,,Boston Celtics
+1922,495,John,,,Morton,,,Cleveland Cavaliers
+1923,496,Howard,,,Wright,,,Atlanta Hawks
+1924,497,Michael,,,Ansley,,,Orlando Magic
+1925,498,John,,,Salley,,,Detroit Pistons
+1926,499,Dan,,,Schayes,,,Milwaukee Bucks
+1927,500,Mark,,,Eaton,,,Utah Jazz
+1928,501,Kevin,,,Johnson,,,Phoenix Suns
+1929,502,Danny,,,Ainge,,,Portland Trail Blazers
+1930,503,Kenny,,,Smith,,,Houston Rockets
+1931,504,Randy,,,Breuer,,,Minnesota Timberwolves
+1932,505,Herb,,,Williams,,,Dallas Mavericks
+1933,506,Joe,,,Wolf,,,Denver Nuggets
+1934,507,Steve,,,Johnson,,,Golden State Warriors
+1935,508,Glen,,,Rice,,,Miami Heat
+1936,509,Greg,,,Foster,,,Washington Wizards
+1937,510,Larry,,,Nance,,,Cleveland Cavaliers
+1938,511,Duane,,,Ferrell,,,Atlanta Hawks
+1939,512,Nick,,,Anderson,,,Orlando Magic
+1940,513,Joe,,,Dumars,,,Detroit Pistons
+1941,514,Jay,,,Humphries,,,Milwaukee Bucks
+1942,515,Darrell,,,Griffith,,,Utah Jazz
+1943,516,Dan,,,Majerle,,,Phoenix Suns
+1944,517,Tom,,,Chambers,,,Phoenix Suns
+1945,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+1946,519,Adrian,,,Caldwell,,,Houston Rockets
+1947,520,Vernon,,,Maxwell,,,Houston Rockets
+1948,521,Doug,,,West,,,Minnesota Timberwolves
+1949,522,Tony,,,Campbell,,,Minnesota Timberwolves
+1950,523,Roy,,,Tarpley,,,Dallas Mavericks
+1951,524,Anthony,,,Cook,,,Denver Nuggets
+1952,525,Todd,,,Lichti,,,Denver Nuggets
+1953,526,Tom,,,Tolbert,,,Golden State Warriors
+1954,527,Billy,,,Thompson,,,Miami Heat
+1955,528,Byron,,,Irvin,,,Washington Wizards
+1956,529,Mark,,,Price,,,Cleveland Cavaliers
+1957,530,Dominique,,,Wilkins,,,Atlanta Hawks
+1958,531,Dennis,,,Scott,,,Orlando Magic
+1959,532,Terry,,,Catledge,,,Orlando Magic
+1960,533,Bill,,,Laimbeer,,,Detroit Pistons
+1961,534,William,,,Bedford,,,Detroit Pistons
+1962,535,Ricky,,,Pierce,,,Milwaukee Bucks
+1963,536,Blue,,,Edwards,,,Utah Jazz
+1964,537,Walter,,,Palmer,,,Utah Jazz
+1965,538,Mark,,,West,,,Phoenix Suns
+1966,539,Clifford,,,Robinson,,,Portland Trail Blazers
+1967,540,Hakeem,,,Olajuwon,,,Houston Rockets
+1968,541,Richard,,,Coffey,,,Minnesota Timberwolves
+1969,542,James,,,Donaldson,,,Dallas Mavericks
+1970,543,Jerome,,,Lane,,,Denver Nuggets
+1971,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+1972,545,Grant,,,Long,,,Miami Heat
+1973,546,Willie,,,Burton,,,Miami Heat
+1974,547,Mark,,,Alarie,,,Washington Wizards
+1975,548,Winston,,,Bennett,,,Cleveland Cavaliers
+1976,549,Doc,,,Rivers,,,Atlanta Hawks
+1977,550,Tim,,,McCormick,,,Atlanta Hawks
+1978,551,Scott,,,Skiles,,,Orlando Magic
+1979,552,Dennis,,,Rodman,,,Detroit Pistons
+1980,553,Greg,,,Anderson,,,Milwaukee Bucks
+1981,554,Jeff,,,Malone,,,Utah Jazz
+1982,555,Cedric,,,Ceballos,,,Phoenix Suns
+1983,556,Tim,,,Perry,,,Phoenix Suns
+1984,557,Buck,,,Williams,,,Portland Trail Blazers
+1985,558,Dave,,,Jamerson,,,Houston Rockets
+1986,559,Scott,,,Brooks,,,Minnesota Timberwolves
+1987,560,Rolando,,,Blackman,,,Dallas Mavericks
+1988,561,Avery,,,Johnson,,,Denver Nuggets
+1989,562,Rod,,,Higgins,,,Golden State Warriors
+1990,563,Jon,,,Sundvold,,,Miami Heat
+1991,564,A.J.,,,English,,,Washington Wizards
+1992,565,John,,,Battle,,,Atlanta Hawks
+1993,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+1994,566,Sam,,,Vincent,,,Orlando Magic
+1995,567,Isiah,,,Thomas,,,Detroit Pistons
+1996,568,Brad,,,Lohaus,,,Milwaukee Bucks
+1997,569,Mike,,,Brown,,,Utah Jazz
+1998,570,Kenny,,,Battle,,,Phoenix Suns
+1999,571,Danny,,,Young,,,Portland Trail Blazers
+2000,14,Ike,,,Anigbogu,C,,Indiana Pacers
+2001,25,Ron,,,Baker,G,,New York Knicks
+2002,47,Jabari,,,Bird,G,,Boston Celtics
+2003,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+2004,71,Lorenzo,,,Brown,G,,Toronto Raptors
+2005,90,Omri,,,Casspi,F,,Memphis Grizzlies
+2006,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+2007,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+2008,149,Keenan,,,Evans,G,,Detroit Pistons
+2009,179,Marcin,,,Gortat,C,,LA Clippers
+2010,1593,Andrew,,,Bogut,F,,Golden State Warriors
+2011,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+2012,392,Malachi,,,Richardson,G,,Utah Jazz
+2013,281,Zach,,,Lofton,G,,Detroit Pistons
+2014,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+2015,382,Billy,,,Preston,F,,Cleveland Cavaliers
+2016,384,Zhou,,,Qi,F-C,,Houston Rockets
+2017,388,Zach,,,Randolph,F,,Sacramento Kings
+2018,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+2019,437,Milos,,,Teodosic,G,,LA Clippers
+2020,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+2021,494,Michael,,,Smith,,,Boston Celtics
+2022,495,John,,,Morton,,,Cleveland Cavaliers
+2023,496,Howard,,,Wright,,,Atlanta Hawks
+2024,497,Michael,,,Ansley,,,Orlando Magic
+2025,498,John,,,Salley,,,Detroit Pistons
+2026,499,Dan,,,Schayes,,,Milwaukee Bucks
+2027,500,Mark,,,Eaton,,,Utah Jazz
+2028,501,Kevin,,,Johnson,,,Phoenix Suns
+2029,502,Danny,,,Ainge,,,Portland Trail Blazers
+2030,503,Kenny,,,Smith,,,Houston Rockets
+2031,504,Randy,,,Breuer,,,Minnesota Timberwolves
+2032,505,Herb,,,Williams,,,Dallas Mavericks
+2033,506,Joe,,,Wolf,,,Denver Nuggets
+2034,507,Steve,,,Johnson,,,Golden State Warriors
+2035,508,Glen,,,Rice,,,Miami Heat
+2036,509,Greg,,,Foster,,,Washington Wizards
+2037,510,Larry,,,Nance,,,Cleveland Cavaliers
+2038,511,Duane,,,Ferrell,,,Atlanta Hawks
+2039,512,Nick,,,Anderson,,,Orlando Magic
+2040,513,Joe,,,Dumars,,,Detroit Pistons
+2041,514,Jay,,,Humphries,,,Milwaukee Bucks
+2042,515,Darrell,,,Griffith,,,Utah Jazz
+2043,516,Dan,,,Majerle,,,Phoenix Suns
+2044,517,Tom,,,Chambers,,,Phoenix Suns
+2045,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+2046,519,Adrian,,,Caldwell,,,Houston Rockets
+2047,520,Vernon,,,Maxwell,,,Houston Rockets
+2048,521,Doug,,,West,,,Minnesota Timberwolves
+2049,522,Tony,,,Campbell,,,Minnesota Timberwolves
+2050,523,Roy,,,Tarpley,,,Dallas Mavericks
+2051,524,Anthony,,,Cook,,,Denver Nuggets
+2052,525,Todd,,,Lichti,,,Denver Nuggets
+2053,526,Tom,,,Tolbert,,,Golden State Warriors
+2054,527,Billy,,,Thompson,,,Miami Heat
+2055,528,Byron,,,Irvin,,,Washington Wizards
+2056,529,Mark,,,Price,,,Cleveland Cavaliers
+2057,530,Dominique,,,Wilkins,,,Atlanta Hawks
+2058,531,Dennis,,,Scott,,,Orlando Magic
+2059,532,Terry,,,Catledge,,,Orlando Magic
+2060,533,Bill,,,Laimbeer,,,Detroit Pistons
+2061,534,William,,,Bedford,,,Detroit Pistons
+2062,535,Ricky,,,Pierce,,,Milwaukee Bucks
+2063,536,Blue,,,Edwards,,,Utah Jazz
+2064,537,Walter,,,Palmer,,,Utah Jazz
+2065,538,Mark,,,West,,,Phoenix Suns
+2066,539,Clifford,,,Robinson,,,Portland Trail Blazers
+2067,540,Hakeem,,,Olajuwon,,,Houston Rockets
+2068,541,Richard,,,Coffey,,,Minnesota Timberwolves
+2069,542,James,,,Donaldson,,,Dallas Mavericks
+2070,543,Jerome,,,Lane,,,Denver Nuggets
+2071,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+2072,545,Grant,,,Long,,,Miami Heat
+2073,546,Willie,,,Burton,,,Miami Heat
+2074,547,Mark,,,Alarie,,,Washington Wizards
+2075,548,Winston,,,Bennett,,,Cleveland Cavaliers
+2076,549,Doc,,,Rivers,,,Atlanta Hawks
+2077,550,Tim,,,McCormick,,,Atlanta Hawks
+2078,551,Scott,,,Skiles,,,Orlando Magic
+2079,552,Dennis,,,Rodman,,,Detroit Pistons
+2080,553,Greg,,,Anderson,,,Milwaukee Bucks
+2081,554,Jeff,,,Malone,,,Utah Jazz
+2082,555,Cedric,,,Ceballos,,,Phoenix Suns
+2083,556,Tim,,,Perry,,,Phoenix Suns
+2084,557,Buck,,,Williams,,,Portland Trail Blazers
+2085,558,Dave,,,Jamerson,,,Houston Rockets
+2086,559,Scott,,,Brooks,,,Minnesota Timberwolves
+2087,560,Rolando,,,Blackman,,,Dallas Mavericks
+2088,561,Avery,,,Johnson,,,Denver Nuggets
+2089,562,Rod,,,Higgins,,,Golden State Warriors
+2090,563,Jon,,,Sundvold,,,Miami Heat
+2091,564,A.J.,,,English,,,Washington Wizards
+2092,565,John,,,Battle,,,Atlanta Hawks
+2093,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+2094,566,Sam,,,Vincent,,,Orlando Magic
+2095,567,Isiah,,,Thomas,,,Detroit Pistons
+2096,568,Brad,,,Lohaus,,,Milwaukee Bucks
+2097,569,Mike,,,Brown,,,Utah Jazz
+2098,570,Kenny,,,Battle,,,Phoenix Suns
+2099,571,Danny,,,Young,,,Portland Trail Blazers
+2100,14,Ike,,,Anigbogu,C,,Indiana Pacers
+2101,25,Ron,,,Baker,G,,New York Knicks
+2102,47,Jabari,,,Bird,G,,Boston Celtics
+2103,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+2104,71,Lorenzo,,,Brown,G,,Toronto Raptors
+2105,90,Omri,,,Casspi,F,,Memphis Grizzlies
+2106,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+2107,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+2108,149,Keenan,,,Evans,G,,Detroit Pistons
+2109,179,Marcin,,,Gortat,C,,LA Clippers
+2110,1593,Andrew,,,Bogut,F,,Golden State Warriors
+2111,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+2112,392,Malachi,,,Richardson,G,,Utah Jazz
+2113,281,Zach,,,Lofton,G,,Detroit Pistons
+2114,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+2115,382,Billy,,,Preston,F,,Cleveland Cavaliers
+2116,384,Zhou,,,Qi,F-C,,Houston Rockets
+2117,388,Zach,,,Randolph,F,,Sacramento Kings
+2118,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+2119,437,Milos,,,Teodosic,G,,LA Clippers
+2120,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+2121,494,Michael,,,Smith,,,Boston Celtics
+2122,495,John,,,Morton,,,Cleveland Cavaliers
+2123,496,Howard,,,Wright,,,Atlanta Hawks
+2124,497,Michael,,,Ansley,,,Orlando Magic
+2125,498,John,,,Salley,,,Detroit Pistons
+2126,499,Dan,,,Schayes,,,Milwaukee Bucks
+2127,500,Mark,,,Eaton,,,Utah Jazz
+2128,501,Kevin,,,Johnson,,,Phoenix Suns
+2129,502,Danny,,,Ainge,,,Portland Trail Blazers
+2130,503,Kenny,,,Smith,,,Houston Rockets
+2131,504,Randy,,,Breuer,,,Minnesota Timberwolves
+2132,505,Herb,,,Williams,,,Dallas Mavericks
+2133,506,Joe,,,Wolf,,,Denver Nuggets
+2134,507,Steve,,,Johnson,,,Golden State Warriors
+2135,508,Glen,,,Rice,,,Miami Heat
+2136,509,Greg,,,Foster,,,Washington Wizards
+2137,510,Larry,,,Nance,,,Cleveland Cavaliers
+2138,511,Duane,,,Ferrell,,,Atlanta Hawks
+2139,512,Nick,,,Anderson,,,Orlando Magic
+2140,513,Joe,,,Dumars,,,Detroit Pistons
+2141,514,Jay,,,Humphries,,,Milwaukee Bucks
+2142,515,Darrell,,,Griffith,,,Utah Jazz
+2143,516,Dan,,,Majerle,,,Phoenix Suns
+2144,517,Tom,,,Chambers,,,Phoenix Suns
+2145,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+2146,519,Adrian,,,Caldwell,,,Houston Rockets
+2147,520,Vernon,,,Maxwell,,,Houston Rockets
+2148,521,Doug,,,West,,,Minnesota Timberwolves
+2149,522,Tony,,,Campbell,,,Minnesota Timberwolves
+2150,523,Roy,,,Tarpley,,,Dallas Mavericks
+2151,524,Anthony,,,Cook,,,Denver Nuggets
+2152,525,Todd,,,Lichti,,,Denver Nuggets
+2153,526,Tom,,,Tolbert,,,Golden State Warriors
+2154,527,Billy,,,Thompson,,,Miami Heat
+2155,528,Byron,,,Irvin,,,Washington Wizards
+2156,529,Mark,,,Price,,,Cleveland Cavaliers
+2157,530,Dominique,,,Wilkins,,,Atlanta Hawks
+2158,531,Dennis,,,Scott,,,Orlando Magic
+2159,532,Terry,,,Catledge,,,Orlando Magic
+2160,533,Bill,,,Laimbeer,,,Detroit Pistons
+2161,534,William,,,Bedford,,,Detroit Pistons
+2162,535,Ricky,,,Pierce,,,Milwaukee Bucks
+2163,536,Blue,,,Edwards,,,Utah Jazz
+2164,537,Walter,,,Palmer,,,Utah Jazz
+2165,538,Mark,,,West,,,Phoenix Suns
+2166,539,Clifford,,,Robinson,,,Portland Trail Blazers
+2167,540,Hakeem,,,Olajuwon,,,Houston Rockets
+2168,541,Richard,,,Coffey,,,Minnesota Timberwolves
+2169,542,James,,,Donaldson,,,Dallas Mavericks
+2170,543,Jerome,,,Lane,,,Denver Nuggets
+2171,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+2172,545,Grant,,,Long,,,Miami Heat
+2173,546,Willie,,,Burton,,,Miami Heat
+2174,547,Mark,,,Alarie,,,Washington Wizards
+2175,548,Winston,,,Bennett,,,Cleveland Cavaliers
+2176,549,Doc,,,Rivers,,,Atlanta Hawks
+2177,550,Tim,,,McCormick,,,Atlanta Hawks
+2178,551,Scott,,,Skiles,,,Orlando Magic
+2179,552,Dennis,,,Rodman,,,Detroit Pistons
+2180,553,Greg,,,Anderson,,,Milwaukee Bucks
+2181,554,Jeff,,,Malone,,,Utah Jazz
+2182,555,Cedric,,,Ceballos,,,Phoenix Suns
+2183,556,Tim,,,Perry,,,Phoenix Suns
+2184,557,Buck,,,Williams,,,Portland Trail Blazers
+2185,558,Dave,,,Jamerson,,,Houston Rockets
+2186,559,Scott,,,Brooks,,,Minnesota Timberwolves
+2187,560,Rolando,,,Blackman,,,Dallas Mavericks
+2188,561,Avery,,,Johnson,,,Denver Nuggets
+2189,562,Rod,,,Higgins,,,Golden State Warriors
+2190,563,Jon,,,Sundvold,,,Miami Heat
+2191,564,A.J.,,,English,,,Washington Wizards
+2192,565,John,,,Battle,,,Atlanta Hawks
+2193,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+2194,566,Sam,,,Vincent,,,Orlando Magic
+2195,567,Isiah,,,Thomas,,,Detroit Pistons
+2196,568,Brad,,,Lohaus,,,Milwaukee Bucks
+2197,569,Mike,,,Brown,,,Utah Jazz
+2198,570,Kenny,,,Battle,,,Phoenix Suns
+2199,571,Danny,,,Young,,,Portland Trail Blazers
+2200,14,Ike,,,Anigbogu,C,,Indiana Pacers
+2201,25,Ron,,,Baker,G,,New York Knicks
+2202,47,Jabari,,,Bird,G,,Boston Celtics
+2203,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+2204,71,Lorenzo,,,Brown,G,,Toronto Raptors
+2205,90,Omri,,,Casspi,F,,Memphis Grizzlies
+2206,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+2207,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+2208,149,Keenan,,,Evans,G,,Detroit Pistons
+2209,179,Marcin,,,Gortat,C,,LA Clippers
+2210,1593,Andrew,,,Bogut,F,,Golden State Warriors
+2211,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+2212,392,Malachi,,,Richardson,G,,Utah Jazz
+2213,281,Zach,,,Lofton,G,,Detroit Pistons
+2214,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+2215,382,Billy,,,Preston,F,,Cleveland Cavaliers
+2216,384,Zhou,,,Qi,F-C,,Houston Rockets
+2217,388,Zach,,,Randolph,F,,Sacramento Kings
+2218,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+2219,437,Milos,,,Teodosic,G,,LA Clippers
+2220,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+2221,494,Michael,,,Smith,,,Boston Celtics
+2222,495,John,,,Morton,,,Cleveland Cavaliers
+2223,496,Howard,,,Wright,,,Atlanta Hawks
+2224,497,Michael,,,Ansley,,,Orlando Magic
+2225,498,John,,,Salley,,,Detroit Pistons
+2226,499,Dan,,,Schayes,,,Milwaukee Bucks
+2227,500,Mark,,,Eaton,,,Utah Jazz
+2228,501,Kevin,,,Johnson,,,Phoenix Suns
+2229,502,Danny,,,Ainge,,,Portland Trail Blazers
+2230,503,Kenny,,,Smith,,,Houston Rockets
+2231,504,Randy,,,Breuer,,,Minnesota Timberwolves
+2232,505,Herb,,,Williams,,,Dallas Mavericks
+2233,506,Joe,,,Wolf,,,Denver Nuggets
+2234,507,Steve,,,Johnson,,,Golden State Warriors
+2235,508,Glen,,,Rice,,,Miami Heat
+2236,509,Greg,,,Foster,,,Washington Wizards
+2237,510,Larry,,,Nance,,,Cleveland Cavaliers
+2238,511,Duane,,,Ferrell,,,Atlanta Hawks
+2239,512,Nick,,,Anderson,,,Orlando Magic
+2240,513,Joe,,,Dumars,,,Detroit Pistons
+2241,514,Jay,,,Humphries,,,Milwaukee Bucks
+2242,515,Darrell,,,Griffith,,,Utah Jazz
+2243,516,Dan,,,Majerle,,,Phoenix Suns
+2244,517,Tom,,,Chambers,,,Phoenix Suns
+2245,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+2246,519,Adrian,,,Caldwell,,,Houston Rockets
+2247,520,Vernon,,,Maxwell,,,Houston Rockets
+2248,521,Doug,,,West,,,Minnesota Timberwolves
+2249,522,Tony,,,Campbell,,,Minnesota Timberwolves
+2250,523,Roy,,,Tarpley,,,Dallas Mavericks
+2251,524,Anthony,,,Cook,,,Denver Nuggets
+2252,525,Todd,,,Lichti,,,Denver Nuggets
+2253,526,Tom,,,Tolbert,,,Golden State Warriors
+2254,527,Billy,,,Thompson,,,Miami Heat
+2255,528,Byron,,,Irvin,,,Washington Wizards
+2256,529,Mark,,,Price,,,Cleveland Cavaliers
+2257,530,Dominique,,,Wilkins,,,Atlanta Hawks
+2258,531,Dennis,,,Scott,,,Orlando Magic
+2259,532,Terry,,,Catledge,,,Orlando Magic
+2260,533,Bill,,,Laimbeer,,,Detroit Pistons
+2261,534,William,,,Bedford,,,Detroit Pistons
+2262,535,Ricky,,,Pierce,,,Milwaukee Bucks
+2263,536,Blue,,,Edwards,,,Utah Jazz
+2264,537,Walter,,,Palmer,,,Utah Jazz
+2265,538,Mark,,,West,,,Phoenix Suns
+2266,539,Clifford,,,Robinson,,,Portland Trail Blazers
+2267,540,Hakeem,,,Olajuwon,,,Houston Rockets
+2268,541,Richard,,,Coffey,,,Minnesota Timberwolves
+2269,542,James,,,Donaldson,,,Dallas Mavericks
+2270,543,Jerome,,,Lane,,,Denver Nuggets
+2271,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+2272,545,Grant,,,Long,,,Miami Heat
+2273,546,Willie,,,Burton,,,Miami Heat
+2274,547,Mark,,,Alarie,,,Washington Wizards
+2275,548,Winston,,,Bennett,,,Cleveland Cavaliers
+2276,549,Doc,,,Rivers,,,Atlanta Hawks
+2277,550,Tim,,,McCormick,,,Atlanta Hawks
+2278,551,Scott,,,Skiles,,,Orlando Magic
+2279,552,Dennis,,,Rodman,,,Detroit Pistons
+2280,553,Greg,,,Anderson,,,Milwaukee Bucks
+2281,554,Jeff,,,Malone,,,Utah Jazz
+2282,555,Cedric,,,Ceballos,,,Phoenix Suns
+2283,556,Tim,,,Perry,,,Phoenix Suns
+2284,557,Buck,,,Williams,,,Portland Trail Blazers
+2285,558,Dave,,,Jamerson,,,Houston Rockets
+2286,559,Scott,,,Brooks,,,Minnesota Timberwolves
+2287,560,Rolando,,,Blackman,,,Dallas Mavericks
+2288,561,Avery,,,Johnson,,,Denver Nuggets
+2289,562,Rod,,,Higgins,,,Golden State Warriors
+2290,563,Jon,,,Sundvold,,,Miami Heat
+2291,564,A.J.,,,English,,,Washington Wizards
+2292,565,John,,,Battle,,,Atlanta Hawks
+2293,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+2294,566,Sam,,,Vincent,,,Orlando Magic
+2295,567,Isiah,,,Thomas,,,Detroit Pistons
+2296,568,Brad,,,Lohaus,,,Milwaukee Bucks
+2297,569,Mike,,,Brown,,,Utah Jazz
+2298,570,Kenny,,,Battle,,,Phoenix Suns
+2299,571,Danny,,,Young,,,Portland Trail Blazers
+2300,14,Ike,,,Anigbogu,C,,Indiana Pacers
+2301,25,Ron,,,Baker,G,,New York Knicks
+2302,47,Jabari,,,Bird,G,,Boston Celtics
+2303,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+2304,71,Lorenzo,,,Brown,G,,Toronto Raptors
+2305,90,Omri,,,Casspi,F,,Memphis Grizzlies
+2306,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+2307,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+2308,149,Keenan,,,Evans,G,,Detroit Pistons
+2309,179,Marcin,,,Gortat,C,,LA Clippers
+2310,1593,Andrew,,,Bogut,F,,Golden State Warriors
+2311,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+2312,392,Malachi,,,Richardson,G,,Utah Jazz
+2313,281,Zach,,,Lofton,G,,Detroit Pistons
+2314,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+2315,382,Billy,,,Preston,F,,Cleveland Cavaliers
+2316,384,Zhou,,,Qi,F-C,,Houston Rockets
+2317,388,Zach,,,Randolph,F,,Sacramento Kings
+2318,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+2319,437,Milos,,,Teodosic,G,,LA Clippers
+2320,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+2321,494,Michael,,,Smith,,,Boston Celtics
+2322,495,John,,,Morton,,,Cleveland Cavaliers
+2323,496,Howard,,,Wright,,,Atlanta Hawks
+2324,497,Michael,,,Ansley,,,Orlando Magic
+2325,498,John,,,Salley,,,Detroit Pistons
+2326,499,Dan,,,Schayes,,,Milwaukee Bucks
+2327,500,Mark,,,Eaton,,,Utah Jazz
+2328,501,Kevin,,,Johnson,,,Phoenix Suns
+2329,502,Danny,,,Ainge,,,Portland Trail Blazers
+2330,503,Kenny,,,Smith,,,Houston Rockets
+2331,504,Randy,,,Breuer,,,Minnesota Timberwolves
+2332,505,Herb,,,Williams,,,Dallas Mavericks
+2333,506,Joe,,,Wolf,,,Denver Nuggets
+2334,507,Steve,,,Johnson,,,Golden State Warriors
+2335,508,Glen,,,Rice,,,Miami Heat
+2336,509,Greg,,,Foster,,,Washington Wizards
+2337,510,Larry,,,Nance,,,Cleveland Cavaliers
+2338,511,Duane,,,Ferrell,,,Atlanta Hawks
+2339,512,Nick,,,Anderson,,,Orlando Magic
+2340,513,Joe,,,Dumars,,,Detroit Pistons
+2341,514,Jay,,,Humphries,,,Milwaukee Bucks
+2342,515,Darrell,,,Griffith,,,Utah Jazz
+2343,516,Dan,,,Majerle,,,Phoenix Suns
+2344,517,Tom,,,Chambers,,,Phoenix Suns
+2345,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+2346,519,Adrian,,,Caldwell,,,Houston Rockets
+2347,520,Vernon,,,Maxwell,,,Houston Rockets
+2348,521,Doug,,,West,,,Minnesota Timberwolves
+2349,522,Tony,,,Campbell,,,Minnesota Timberwolves
+2350,523,Roy,,,Tarpley,,,Dallas Mavericks
+2351,524,Anthony,,,Cook,,,Denver Nuggets
+2352,525,Todd,,,Lichti,,,Denver Nuggets
+2353,526,Tom,,,Tolbert,,,Golden State Warriors
+2354,527,Billy,,,Thompson,,,Miami Heat
+2355,528,Byron,,,Irvin,,,Washington Wizards
+2356,529,Mark,,,Price,,,Cleveland Cavaliers
+2357,530,Dominique,,,Wilkins,,,Atlanta Hawks
+2358,531,Dennis,,,Scott,,,Orlando Magic
+2359,532,Terry,,,Catledge,,,Orlando Magic
+2360,533,Bill,,,Laimbeer,,,Detroit Pistons
+2361,534,William,,,Bedford,,,Detroit Pistons
+2362,535,Ricky,,,Pierce,,,Milwaukee Bucks
+2363,536,Blue,,,Edwards,,,Utah Jazz
+2364,537,Walter,,,Palmer,,,Utah Jazz
+2365,538,Mark,,,West,,,Phoenix Suns
+2366,539,Clifford,,,Robinson,,,Portland Trail Blazers
+2367,540,Hakeem,,,Olajuwon,,,Houston Rockets
+2368,541,Richard,,,Coffey,,,Minnesota Timberwolves
+2369,542,James,,,Donaldson,,,Dallas Mavericks
+2370,543,Jerome,,,Lane,,,Denver Nuggets
+2371,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+2372,545,Grant,,,Long,,,Miami Heat
+2373,546,Willie,,,Burton,,,Miami Heat
+2374,547,Mark,,,Alarie,,,Washington Wizards
+2375,548,Winston,,,Bennett,,,Cleveland Cavaliers
+2376,549,Doc,,,Rivers,,,Atlanta Hawks
+2377,550,Tim,,,McCormick,,,Atlanta Hawks
+2378,551,Scott,,,Skiles,,,Orlando Magic
+2379,552,Dennis,,,Rodman,,,Detroit Pistons
+2380,553,Greg,,,Anderson,,,Milwaukee Bucks
+2381,554,Jeff,,,Malone,,,Utah Jazz
+2382,555,Cedric,,,Ceballos,,,Phoenix Suns
+2383,556,Tim,,,Perry,,,Phoenix Suns
+2384,557,Buck,,,Williams,,,Portland Trail Blazers
+2385,558,Dave,,,Jamerson,,,Houston Rockets
+2386,559,Scott,,,Brooks,,,Minnesota Timberwolves
+2387,560,Rolando,,,Blackman,,,Dallas Mavericks
+2388,561,Avery,,,Johnson,,,Denver Nuggets
+2389,562,Rod,,,Higgins,,,Golden State Warriors
+2390,563,Jon,,,Sundvold,,,Miami Heat
+2391,564,A.J.,,,English,,,Washington Wizards
+2392,565,John,,,Battle,,,Atlanta Hawks
+2393,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+2394,566,Sam,,,Vincent,,,Orlando Magic
+2395,567,Isiah,,,Thomas,,,Detroit Pistons
+2396,568,Brad,,,Lohaus,,,Milwaukee Bucks
+2397,569,Mike,,,Brown,,,Utah Jazz
+2398,570,Kenny,,,Battle,,,Phoenix Suns
+2399,571,Danny,,,Young,,,Portland Trail Blazers
+2400,14,Ike,,,Anigbogu,C,,Indiana Pacers
+2401,25,Ron,,,Baker,G,,New York Knicks
+2402,47,Jabari,,,Bird,G,,Boston Celtics
+2403,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+2404,71,Lorenzo,,,Brown,G,,Toronto Raptors
+2405,90,Omri,,,Casspi,F,,Memphis Grizzlies
+2406,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+2407,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+2408,149,Keenan,,,Evans,G,,Detroit Pistons
+2409,179,Marcin,,,Gortat,C,,LA Clippers
+2410,1593,Andrew,,,Bogut,F,,Golden State Warriors
+2411,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+2412,392,Malachi,,,Richardson,G,,Utah Jazz
+2413,281,Zach,,,Lofton,G,,Detroit Pistons
+2414,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+2415,382,Billy,,,Preston,F,,Cleveland Cavaliers
+2416,384,Zhou,,,Qi,F-C,,Houston Rockets
+2417,388,Zach,,,Randolph,F,,Sacramento Kings
+2418,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+2419,437,Milos,,,Teodosic,G,,LA Clippers
+2420,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+2421,494,Michael,,,Smith,,,Boston Celtics
+2422,495,John,,,Morton,,,Cleveland Cavaliers
+2423,496,Howard,,,Wright,,,Atlanta Hawks
+2424,497,Michael,,,Ansley,,,Orlando Magic
+2425,498,John,,,Salley,,,Detroit Pistons
+2426,499,Dan,,,Schayes,,,Milwaukee Bucks
+2427,500,Mark,,,Eaton,,,Utah Jazz
+2428,501,Kevin,,,Johnson,,,Phoenix Suns
+2429,502,Danny,,,Ainge,,,Portland Trail Blazers
+2430,503,Kenny,,,Smith,,,Houston Rockets
+2431,504,Randy,,,Breuer,,,Minnesota Timberwolves
+2432,505,Herb,,,Williams,,,Dallas Mavericks
+2433,506,Joe,,,Wolf,,,Denver Nuggets
+2434,507,Steve,,,Johnson,,,Golden State Warriors
+2435,508,Glen,,,Rice,,,Miami Heat
+2436,509,Greg,,,Foster,,,Washington Wizards
+2437,510,Larry,,,Nance,,,Cleveland Cavaliers
+2438,511,Duane,,,Ferrell,,,Atlanta Hawks
+2439,512,Nick,,,Anderson,,,Orlando Magic
+2440,513,Joe,,,Dumars,,,Detroit Pistons
+2441,514,Jay,,,Humphries,,,Milwaukee Bucks
+2442,515,Darrell,,,Griffith,,,Utah Jazz
+2443,516,Dan,,,Majerle,,,Phoenix Suns
+2444,517,Tom,,,Chambers,,,Phoenix Suns
+2445,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+2446,519,Adrian,,,Caldwell,,,Houston Rockets
+2447,520,Vernon,,,Maxwell,,,Houston Rockets
+2448,521,Doug,,,West,,,Minnesota Timberwolves
+2449,522,Tony,,,Campbell,,,Minnesota Timberwolves
+2450,523,Roy,,,Tarpley,,,Dallas Mavericks
+2451,524,Anthony,,,Cook,,,Denver Nuggets
+2452,525,Todd,,,Lichti,,,Denver Nuggets
+2453,526,Tom,,,Tolbert,,,Golden State Warriors
+2454,527,Billy,,,Thompson,,,Miami Heat
+2455,528,Byron,,,Irvin,,,Washington Wizards
+2456,529,Mark,,,Price,,,Cleveland Cavaliers
+2457,530,Dominique,,,Wilkins,,,Atlanta Hawks
+2458,531,Dennis,,,Scott,,,Orlando Magic
+2459,532,Terry,,,Catledge,,,Orlando Magic
+2460,533,Bill,,,Laimbeer,,,Detroit Pistons
+2461,534,William,,,Bedford,,,Detroit Pistons
+2462,535,Ricky,,,Pierce,,,Milwaukee Bucks
+2463,536,Blue,,,Edwards,,,Utah Jazz
+2464,537,Walter,,,Palmer,,,Utah Jazz
+2465,538,Mark,,,West,,,Phoenix Suns
+2466,539,Clifford,,,Robinson,,,Portland Trail Blazers
+2467,540,Hakeem,,,Olajuwon,,,Houston Rockets
+2468,541,Richard,,,Coffey,,,Minnesota Timberwolves
+2469,542,James,,,Donaldson,,,Dallas Mavericks
+2470,543,Jerome,,,Lane,,,Denver Nuggets
+2471,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+2472,545,Grant,,,Long,,,Miami Heat
+2473,546,Willie,,,Burton,,,Miami Heat
+2474,547,Mark,,,Alarie,,,Washington Wizards
+2475,548,Winston,,,Bennett,,,Cleveland Cavaliers
+2476,549,Doc,,,Rivers,,,Atlanta Hawks
+2477,550,Tim,,,McCormick,,,Atlanta Hawks
+2478,551,Scott,,,Skiles,,,Orlando Magic
+2479,552,Dennis,,,Rodman,,,Detroit Pistons
+2480,553,Greg,,,Anderson,,,Milwaukee Bucks
+2481,554,Jeff,,,Malone,,,Utah Jazz
+2482,555,Cedric,,,Ceballos,,,Phoenix Suns
+2483,556,Tim,,,Perry,,,Phoenix Suns
+2484,557,Buck,,,Williams,,,Portland Trail Blazers
+2485,558,Dave,,,Jamerson,,,Houston Rockets
+2486,559,Scott,,,Brooks,,,Minnesota Timberwolves
+2487,560,Rolando,,,Blackman,,,Dallas Mavericks
+2488,561,Avery,,,Johnson,,,Denver Nuggets
+2489,562,Rod,,,Higgins,,,Golden State Warriors
+2490,563,Jon,,,Sundvold,,,Miami Heat
+2491,564,A.J.,,,English,,,Washington Wizards
+2492,565,John,,,Battle,,,Atlanta Hawks
+2493,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+2494,566,Sam,,,Vincent,,,Orlando Magic
+2495,567,Isiah,,,Thomas,,,Detroit Pistons
+2496,568,Brad,,,Lohaus,,,Milwaukee Bucks
+2497,569,Mike,,,Brown,,,Utah Jazz
+2498,570,Kenny,,,Battle,,,Phoenix Suns
+2499,571,Danny,,,Young,,,Portland Trail Blazers
+2500,14,Ike,,,Anigbogu,C,,Indiana Pacers
+2501,25,Ron,,,Baker,G,,New York Knicks
+2502,47,Jabari,,,Bird,G,,Boston Celtics
+2503,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+2504,71,Lorenzo,,,Brown,G,,Toronto Raptors
+2505,90,Omri,,,Casspi,F,,Memphis Grizzlies
+2506,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+2507,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+2508,149,Keenan,,,Evans,G,,Detroit Pistons
+2509,179,Marcin,,,Gortat,C,,LA Clippers
+2510,1593,Andrew,,,Bogut,F,,Golden State Warriors
+2511,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+2512,392,Malachi,,,Richardson,G,,Utah Jazz
+2513,281,Zach,,,Lofton,G,,Detroit Pistons
+2514,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+2515,382,Billy,,,Preston,F,,Cleveland Cavaliers
+2516,384,Zhou,,,Qi,F-C,,Houston Rockets
+2517,388,Zach,,,Randolph,F,,Sacramento Kings
+2518,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+2519,437,Milos,,,Teodosic,G,,LA Clippers
+2520,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+2521,494,Michael,,,Smith,,,Boston Celtics
+2522,495,John,,,Morton,,,Cleveland Cavaliers
+2523,496,Howard,,,Wright,,,Atlanta Hawks
+2524,497,Michael,,,Ansley,,,Orlando Magic
+2525,498,John,,,Salley,,,Detroit Pistons
+2526,499,Dan,,,Schayes,,,Milwaukee Bucks
+2527,500,Mark,,,Eaton,,,Utah Jazz
+2528,501,Kevin,,,Johnson,,,Phoenix Suns
+2529,502,Danny,,,Ainge,,,Portland Trail Blazers
+2530,503,Kenny,,,Smith,,,Houston Rockets
+2531,504,Randy,,,Breuer,,,Minnesota Timberwolves
+2532,505,Herb,,,Williams,,,Dallas Mavericks
+2533,506,Joe,,,Wolf,,,Denver Nuggets
+2534,507,Steve,,,Johnson,,,Golden State Warriors
+2535,508,Glen,,,Rice,,,Miami Heat
+2536,509,Greg,,,Foster,,,Washington Wizards
+2537,510,Larry,,,Nance,,,Cleveland Cavaliers
+2538,511,Duane,,,Ferrell,,,Atlanta Hawks
+2539,512,Nick,,,Anderson,,,Orlando Magic
+2540,513,Joe,,,Dumars,,,Detroit Pistons
+2541,514,Jay,,,Humphries,,,Milwaukee Bucks
+2542,515,Darrell,,,Griffith,,,Utah Jazz
+2543,516,Dan,,,Majerle,,,Phoenix Suns
+2544,517,Tom,,,Chambers,,,Phoenix Suns
+2545,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+2546,519,Adrian,,,Caldwell,,,Houston Rockets
+2547,520,Vernon,,,Maxwell,,,Houston Rockets
+2548,521,Doug,,,West,,,Minnesota Timberwolves
+2549,522,Tony,,,Campbell,,,Minnesota Timberwolves
+2550,523,Roy,,,Tarpley,,,Dallas Mavericks
+2551,524,Anthony,,,Cook,,,Denver Nuggets
+2552,525,Todd,,,Lichti,,,Denver Nuggets
+2553,526,Tom,,,Tolbert,,,Golden State Warriors
+2554,527,Billy,,,Thompson,,,Miami Heat
+2555,528,Byron,,,Irvin,,,Washington Wizards
+2556,529,Mark,,,Price,,,Cleveland Cavaliers
+2557,530,Dominique,,,Wilkins,,,Atlanta Hawks
+2558,531,Dennis,,,Scott,,,Orlando Magic
+2559,532,Terry,,,Catledge,,,Orlando Magic
+2560,533,Bill,,,Laimbeer,,,Detroit Pistons
+2561,534,William,,,Bedford,,,Detroit Pistons
+2562,535,Ricky,,,Pierce,,,Milwaukee Bucks
+2563,536,Blue,,,Edwards,,,Utah Jazz
+2564,537,Walter,,,Palmer,,,Utah Jazz
+2565,538,Mark,,,West,,,Phoenix Suns
+2566,539,Clifford,,,Robinson,,,Portland Trail Blazers
+2567,540,Hakeem,,,Olajuwon,,,Houston Rockets
+2568,541,Richard,,,Coffey,,,Minnesota Timberwolves
+2569,542,James,,,Donaldson,,,Dallas Mavericks
+2570,543,Jerome,,,Lane,,,Denver Nuggets
+2571,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+2572,545,Grant,,,Long,,,Miami Heat
+2573,546,Willie,,,Burton,,,Miami Heat
+2574,547,Mark,,,Alarie,,,Washington Wizards
+2575,548,Winston,,,Bennett,,,Cleveland Cavaliers
+2576,549,Doc,,,Rivers,,,Atlanta Hawks
+2577,550,Tim,,,McCormick,,,Atlanta Hawks
+2578,551,Scott,,,Skiles,,,Orlando Magic
+2579,552,Dennis,,,Rodman,,,Detroit Pistons
+2580,553,Greg,,,Anderson,,,Milwaukee Bucks
+2581,554,Jeff,,,Malone,,,Utah Jazz
+2582,555,Cedric,,,Ceballos,,,Phoenix Suns
+2583,556,Tim,,,Perry,,,Phoenix Suns
+2584,557,Buck,,,Williams,,,Portland Trail Blazers
+2585,558,Dave,,,Jamerson,,,Houston Rockets
+2586,559,Scott,,,Brooks,,,Minnesota Timberwolves
+2587,560,Rolando,,,Blackman,,,Dallas Mavericks
+2588,561,Avery,,,Johnson,,,Denver Nuggets
+2589,562,Rod,,,Higgins,,,Golden State Warriors
+2590,563,Jon,,,Sundvold,,,Miami Heat
+2591,564,A.J.,,,English,,,Washington Wizards
+2592,565,John,,,Battle,,,Atlanta Hawks
+2593,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+2594,566,Sam,,,Vincent,,,Orlando Magic
+2595,567,Isiah,,,Thomas,,,Detroit Pistons
+2596,568,Brad,,,Lohaus,,,Milwaukee Bucks
+2597,569,Mike,,,Brown,,,Utah Jazz
+2598,570,Kenny,,,Battle,,,Phoenix Suns
+2599,571,Danny,,,Young,,,Portland Trail Blazers
+2600,14,Ike,,,Anigbogu,C,,Indiana Pacers
+2601,25,Ron,,,Baker,G,,New York Knicks
+2602,47,Jabari,,,Bird,G,,Boston Celtics
+2603,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+2604,71,Lorenzo,,,Brown,G,,Toronto Raptors
+2605,90,Omri,,,Casspi,F,,Memphis Grizzlies
+2606,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+2607,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+2608,149,Keenan,,,Evans,G,,Detroit Pistons
+2609,179,Marcin,,,Gortat,C,,LA Clippers
+2610,1593,Andrew,,,Bogut,F,,Golden State Warriors
+2611,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+2612,392,Malachi,,,Richardson,G,,Utah Jazz
+2613,281,Zach,,,Lofton,G,,Detroit Pistons
+2614,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+2615,382,Billy,,,Preston,F,,Cleveland Cavaliers
+2616,384,Zhou,,,Qi,F-C,,Houston Rockets
+2617,388,Zach,,,Randolph,F,,Sacramento Kings
+2618,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+2619,437,Milos,,,Teodosic,G,,LA Clippers
+2620,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+2621,494,Michael,,,Smith,,,Boston Celtics
+2622,495,John,,,Morton,,,Cleveland Cavaliers
+2623,496,Howard,,,Wright,,,Atlanta Hawks
+2624,497,Michael,,,Ansley,,,Orlando Magic
+2625,498,John,,,Salley,,,Detroit Pistons
+2626,499,Dan,,,Schayes,,,Milwaukee Bucks
+2627,500,Mark,,,Eaton,,,Utah Jazz
+2628,501,Kevin,,,Johnson,,,Phoenix Suns
+2629,502,Danny,,,Ainge,,,Portland Trail Blazers
+2630,503,Kenny,,,Smith,,,Houston Rockets
+2631,504,Randy,,,Breuer,,,Minnesota Timberwolves
+2632,505,Herb,,,Williams,,,Dallas Mavericks
+2633,506,Joe,,,Wolf,,,Denver Nuggets
+2634,507,Steve,,,Johnson,,,Golden State Warriors
+2635,508,Glen,,,Rice,,,Miami Heat
+2636,509,Greg,,,Foster,,,Washington Wizards
+2637,510,Larry,,,Nance,,,Cleveland Cavaliers
+2638,511,Duane,,,Ferrell,,,Atlanta Hawks
+2639,512,Nick,,,Anderson,,,Orlando Magic
+2640,513,Joe,,,Dumars,,,Detroit Pistons
+2641,514,Jay,,,Humphries,,,Milwaukee Bucks
+2642,515,Darrell,,,Griffith,,,Utah Jazz
+2643,516,Dan,,,Majerle,,,Phoenix Suns
+2644,517,Tom,,,Chambers,,,Phoenix Suns
+2645,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+2646,519,Adrian,,,Caldwell,,,Houston Rockets
+2647,520,Vernon,,,Maxwell,,,Houston Rockets
+2648,521,Doug,,,West,,,Minnesota Timberwolves
+2649,522,Tony,,,Campbell,,,Minnesota Timberwolves
+2650,523,Roy,,,Tarpley,,,Dallas Mavericks
+2651,524,Anthony,,,Cook,,,Denver Nuggets
+2652,525,Todd,,,Lichti,,,Denver Nuggets
+2653,526,Tom,,,Tolbert,,,Golden State Warriors
+2654,527,Billy,,,Thompson,,,Miami Heat
+2655,528,Byron,,,Irvin,,,Washington Wizards
+2656,529,Mark,,,Price,,,Cleveland Cavaliers
+2657,530,Dominique,,,Wilkins,,,Atlanta Hawks
+2658,531,Dennis,,,Scott,,,Orlando Magic
+2659,532,Terry,,,Catledge,,,Orlando Magic
+2660,533,Bill,,,Laimbeer,,,Detroit Pistons
+2661,534,William,,,Bedford,,,Detroit Pistons
+2662,535,Ricky,,,Pierce,,,Milwaukee Bucks
+2663,536,Blue,,,Edwards,,,Utah Jazz
+2664,537,Walter,,,Palmer,,,Utah Jazz
+2665,538,Mark,,,West,,,Phoenix Suns
+2666,539,Clifford,,,Robinson,,,Portland Trail Blazers
+2667,540,Hakeem,,,Olajuwon,,,Houston Rockets
+2668,541,Richard,,,Coffey,,,Minnesota Timberwolves
+2669,542,James,,,Donaldson,,,Dallas Mavericks
+2670,543,Jerome,,,Lane,,,Denver Nuggets
+2671,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+2672,545,Grant,,,Long,,,Miami Heat
+2673,546,Willie,,,Burton,,,Miami Heat
+2674,547,Mark,,,Alarie,,,Washington Wizards
+2675,548,Winston,,,Bennett,,,Cleveland Cavaliers
+2676,549,Doc,,,Rivers,,,Atlanta Hawks
+2677,550,Tim,,,McCormick,,,Atlanta Hawks
+2678,551,Scott,,,Skiles,,,Orlando Magic
+2679,552,Dennis,,,Rodman,,,Detroit Pistons
+2680,553,Greg,,,Anderson,,,Milwaukee Bucks
+2681,554,Jeff,,,Malone,,,Utah Jazz
+2682,555,Cedric,,,Ceballos,,,Phoenix Suns
+2683,556,Tim,,,Perry,,,Phoenix Suns
+2684,557,Buck,,,Williams,,,Portland Trail Blazers
+2685,558,Dave,,,Jamerson,,,Houston Rockets
+2686,559,Scott,,,Brooks,,,Minnesota Timberwolves
+2687,560,Rolando,,,Blackman,,,Dallas Mavericks
+2688,561,Avery,,,Johnson,,,Denver Nuggets
+2689,562,Rod,,,Higgins,,,Golden State Warriors
+2690,563,Jon,,,Sundvold,,,Miami Heat
+2691,564,A.J.,,,English,,,Washington Wizards
+2692,565,John,,,Battle,,,Atlanta Hawks
+2693,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+2694,566,Sam,,,Vincent,,,Orlando Magic
+2695,567,Isiah,,,Thomas,,,Detroit Pistons
+2696,568,Brad,,,Lohaus,,,Milwaukee Bucks
+2697,569,Mike,,,Brown,,,Utah Jazz
+2698,570,Kenny,,,Battle,,,Phoenix Suns
+2699,571,Danny,,,Young,,,Portland Trail Blazers
+2700,14,Ike,,,Anigbogu,C,,Indiana Pacers
+2701,25,Ron,,,Baker,G,,New York Knicks
+2702,47,Jabari,,,Bird,G,,Boston Celtics
+2703,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+2704,71,Lorenzo,,,Brown,G,,Toronto Raptors
+2705,90,Omri,,,Casspi,F,,Memphis Grizzlies
+2706,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+2707,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+2708,149,Keenan,,,Evans,G,,Detroit Pistons
+2709,179,Marcin,,,Gortat,C,,LA Clippers
+2710,1593,Andrew,,,Bogut,F,,Golden State Warriors
+2711,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+2712,392,Malachi,,,Richardson,G,,Utah Jazz
+2713,281,Zach,,,Lofton,G,,Detroit Pistons
+2714,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+2715,382,Billy,,,Preston,F,,Cleveland Cavaliers
+2716,384,Zhou,,,Qi,F-C,,Houston Rockets
+2717,388,Zach,,,Randolph,F,,Sacramento Kings
+2718,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+2719,437,Milos,,,Teodosic,G,,LA Clippers
+2720,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+2721,494,Michael,,,Smith,,,Boston Celtics
+2722,495,John,,,Morton,,,Cleveland Cavaliers
+2723,496,Howard,,,Wright,,,Atlanta Hawks
+2724,497,Michael,,,Ansley,,,Orlando Magic
+2725,498,John,,,Salley,,,Detroit Pistons
+2726,499,Dan,,,Schayes,,,Milwaukee Bucks
+2727,500,Mark,,,Eaton,,,Utah Jazz
+2728,501,Kevin,,,Johnson,,,Phoenix Suns
+2729,502,Danny,,,Ainge,,,Portland Trail Blazers
+2730,503,Kenny,,,Smith,,,Houston Rockets
+2731,504,Randy,,,Breuer,,,Minnesota Timberwolves
+2732,505,Herb,,,Williams,,,Dallas Mavericks
+2733,506,Joe,,,Wolf,,,Denver Nuggets
+2734,507,Steve,,,Johnson,,,Golden State Warriors
+2735,508,Glen,,,Rice,,,Miami Heat
+2736,509,Greg,,,Foster,,,Washington Wizards
+2737,510,Larry,,,Nance,,,Cleveland Cavaliers
+2738,511,Duane,,,Ferrell,,,Atlanta Hawks
+2739,512,Nick,,,Anderson,,,Orlando Magic
+2740,513,Joe,,,Dumars,,,Detroit Pistons
+2741,514,Jay,,,Humphries,,,Milwaukee Bucks
+2742,515,Darrell,,,Griffith,,,Utah Jazz
+2743,516,Dan,,,Majerle,,,Phoenix Suns
+2744,517,Tom,,,Chambers,,,Phoenix Suns
+2745,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+2746,519,Adrian,,,Caldwell,,,Houston Rockets
+2747,520,Vernon,,,Maxwell,,,Houston Rockets
+2748,521,Doug,,,West,,,Minnesota Timberwolves
+2749,522,Tony,,,Campbell,,,Minnesota Timberwolves
+2750,523,Roy,,,Tarpley,,,Dallas Mavericks
+2751,524,Anthony,,,Cook,,,Denver Nuggets
+2752,525,Todd,,,Lichti,,,Denver Nuggets
+2753,526,Tom,,,Tolbert,,,Golden State Warriors
+2754,527,Billy,,,Thompson,,,Miami Heat
+2755,528,Byron,,,Irvin,,,Washington Wizards
+2756,529,Mark,,,Price,,,Cleveland Cavaliers
+2757,530,Dominique,,,Wilkins,,,Atlanta Hawks
+2758,531,Dennis,,,Scott,,,Orlando Magic
+2759,532,Terry,,,Catledge,,,Orlando Magic
+2760,533,Bill,,,Laimbeer,,,Detroit Pistons
+2761,534,William,,,Bedford,,,Detroit Pistons
+2762,535,Ricky,,,Pierce,,,Milwaukee Bucks
+2763,536,Blue,,,Edwards,,,Utah Jazz
+2764,537,Walter,,,Palmer,,,Utah Jazz
+2765,538,Mark,,,West,,,Phoenix Suns
+2766,539,Clifford,,,Robinson,,,Portland Trail Blazers
+2767,540,Hakeem,,,Olajuwon,,,Houston Rockets
+2768,541,Richard,,,Coffey,,,Minnesota Timberwolves
+2769,542,James,,,Donaldson,,,Dallas Mavericks
+2770,543,Jerome,,,Lane,,,Denver Nuggets
+2771,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+2772,545,Grant,,,Long,,,Miami Heat
+2773,546,Willie,,,Burton,,,Miami Heat
+2774,547,Mark,,,Alarie,,,Washington Wizards
+2775,548,Winston,,,Bennett,,,Cleveland Cavaliers
+2776,549,Doc,,,Rivers,,,Atlanta Hawks
+2777,550,Tim,,,McCormick,,,Atlanta Hawks
+2778,551,Scott,,,Skiles,,,Orlando Magic
+2779,552,Dennis,,,Rodman,,,Detroit Pistons
+2780,553,Greg,,,Anderson,,,Milwaukee Bucks
+2781,554,Jeff,,,Malone,,,Utah Jazz
+2782,555,Cedric,,,Ceballos,,,Phoenix Suns
+2783,556,Tim,,,Perry,,,Phoenix Suns
+2784,557,Buck,,,Williams,,,Portland Trail Blazers
+2785,558,Dave,,,Jamerson,,,Houston Rockets
+2786,559,Scott,,,Brooks,,,Minnesota Timberwolves
+2787,560,Rolando,,,Blackman,,,Dallas Mavericks
+2788,561,Avery,,,Johnson,,,Denver Nuggets
+2789,562,Rod,,,Higgins,,,Golden State Warriors
+2790,563,Jon,,,Sundvold,,,Miami Heat
+2791,564,A.J.,,,English,,,Washington Wizards
+2792,565,John,,,Battle,,,Atlanta Hawks
+2793,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+2794,566,Sam,,,Vincent,,,Orlando Magic
+2795,567,Isiah,,,Thomas,,,Detroit Pistons
+2796,568,Brad,,,Lohaus,,,Milwaukee Bucks
+2797,569,Mike,,,Brown,,,Utah Jazz
+2798,570,Kenny,,,Battle,,,Phoenix Suns
+2799,571,Danny,,,Young,,,Portland Trail Blazers
+2800,14,Ike,,,Anigbogu,C,,Indiana Pacers
+2801,25,Ron,,,Baker,G,,New York Knicks
+2802,47,Jabari,,,Bird,G,,Boston Celtics
+2803,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+2804,71,Lorenzo,,,Brown,G,,Toronto Raptors
+2805,90,Omri,,,Casspi,F,,Memphis Grizzlies
+2806,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+2807,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+2808,149,Keenan,,,Evans,G,,Detroit Pistons
+2809,179,Marcin,,,Gortat,C,,LA Clippers
+2810,1593,Andrew,,,Bogut,F,,Golden State Warriors
+2811,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+2812,392,Malachi,,,Richardson,G,,Utah Jazz
+2813,281,Zach,,,Lofton,G,,Detroit Pistons
+2814,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+2815,382,Billy,,,Preston,F,,Cleveland Cavaliers
+2816,384,Zhou,,,Qi,F-C,,Houston Rockets
+2817,388,Zach,,,Randolph,F,,Sacramento Kings
+2818,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+2819,437,Milos,,,Teodosic,G,,LA Clippers
+2820,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+2821,494,Michael,,,Smith,,,Boston Celtics
+2822,495,John,,,Morton,,,Cleveland Cavaliers
+2823,496,Howard,,,Wright,,,Atlanta Hawks
+2824,497,Michael,,,Ansley,,,Orlando Magic
+2825,498,John,,,Salley,,,Detroit Pistons
+2826,499,Dan,,,Schayes,,,Milwaukee Bucks
+2827,500,Mark,,,Eaton,,,Utah Jazz
+2828,501,Kevin,,,Johnson,,,Phoenix Suns
+2829,502,Danny,,,Ainge,,,Portland Trail Blazers
+2830,503,Kenny,,,Smith,,,Houston Rockets
+2831,504,Randy,,,Breuer,,,Minnesota Timberwolves
+2832,505,Herb,,,Williams,,,Dallas Mavericks
+2833,506,Joe,,,Wolf,,,Denver Nuggets
+2834,507,Steve,,,Johnson,,,Golden State Warriors
+2835,508,Glen,,,Rice,,,Miami Heat
+2836,509,Greg,,,Foster,,,Washington Wizards
+2837,510,Larry,,,Nance,,,Cleveland Cavaliers
+2838,511,Duane,,,Ferrell,,,Atlanta Hawks
+2839,512,Nick,,,Anderson,,,Orlando Magic
+2840,513,Joe,,,Dumars,,,Detroit Pistons
+2841,514,Jay,,,Humphries,,,Milwaukee Bucks
+2842,515,Darrell,,,Griffith,,,Utah Jazz
+2843,516,Dan,,,Majerle,,,Phoenix Suns
+2844,517,Tom,,,Chambers,,,Phoenix Suns
+2845,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+2846,519,Adrian,,,Caldwell,,,Houston Rockets
+2847,520,Vernon,,,Maxwell,,,Houston Rockets
+2848,521,Doug,,,West,,,Minnesota Timberwolves
+2849,522,Tony,,,Campbell,,,Minnesota Timberwolves
+2850,523,Roy,,,Tarpley,,,Dallas Mavericks
+2851,524,Anthony,,,Cook,,,Denver Nuggets
+2852,525,Todd,,,Lichti,,,Denver Nuggets
+2853,526,Tom,,,Tolbert,,,Golden State Warriors
+2854,527,Billy,,,Thompson,,,Miami Heat
+2855,528,Byron,,,Irvin,,,Washington Wizards
+2856,529,Mark,,,Price,,,Cleveland Cavaliers
+2857,530,Dominique,,,Wilkins,,,Atlanta Hawks
+2858,531,Dennis,,,Scott,,,Orlando Magic
+2859,532,Terry,,,Catledge,,,Orlando Magic
+2860,533,Bill,,,Laimbeer,,,Detroit Pistons
+2861,534,William,,,Bedford,,,Detroit Pistons
+2862,535,Ricky,,,Pierce,,,Milwaukee Bucks
+2863,536,Blue,,,Edwards,,,Utah Jazz
+2864,537,Walter,,,Palmer,,,Utah Jazz
+2865,538,Mark,,,West,,,Phoenix Suns
+2866,539,Clifford,,,Robinson,,,Portland Trail Blazers
+2867,540,Hakeem,,,Olajuwon,,,Houston Rockets
+2868,541,Richard,,,Coffey,,,Minnesota Timberwolves
+2869,542,James,,,Donaldson,,,Dallas Mavericks
+2870,543,Jerome,,,Lane,,,Denver Nuggets
+2871,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+2872,545,Grant,,,Long,,,Miami Heat
+2873,546,Willie,,,Burton,,,Miami Heat
+2874,547,Mark,,,Alarie,,,Washington Wizards
+2875,548,Winston,,,Bennett,,,Cleveland Cavaliers
+2876,549,Doc,,,Rivers,,,Atlanta Hawks
+2877,550,Tim,,,McCormick,,,Atlanta Hawks
+2878,551,Scott,,,Skiles,,,Orlando Magic
+2879,552,Dennis,,,Rodman,,,Detroit Pistons
+2880,553,Greg,,,Anderson,,,Milwaukee Bucks
+2881,554,Jeff,,,Malone,,,Utah Jazz
+2882,555,Cedric,,,Ceballos,,,Phoenix Suns
+2883,556,Tim,,,Perry,,,Phoenix Suns
+2884,557,Buck,,,Williams,,,Portland Trail Blazers
+2885,558,Dave,,,Jamerson,,,Houston Rockets
+2886,559,Scott,,,Brooks,,,Minnesota Timberwolves
+2887,560,Rolando,,,Blackman,,,Dallas Mavericks
+2888,561,Avery,,,Johnson,,,Denver Nuggets
+2889,562,Rod,,,Higgins,,,Golden State Warriors
+2890,563,Jon,,,Sundvold,,,Miami Heat
+2891,564,A.J.,,,English,,,Washington Wizards
+2892,565,John,,,Battle,,,Atlanta Hawks
+2893,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+2894,566,Sam,,,Vincent,,,Orlando Magic
+2895,567,Isiah,,,Thomas,,,Detroit Pistons
+2896,568,Brad,,,Lohaus,,,Milwaukee Bucks
+2897,569,Mike,,,Brown,,,Utah Jazz
+2898,570,Kenny,,,Battle,,,Phoenix Suns
+2899,571,Danny,,,Young,,,Portland Trail Blazers
+2900,14,Ike,,,Anigbogu,C,,Indiana Pacers
+2901,25,Ron,,,Baker,G,,New York Knicks
+2902,47,Jabari,,,Bird,G,,Boston Celtics
+2903,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+2904,71,Lorenzo,,,Brown,G,,Toronto Raptors
+2905,90,Omri,,,Casspi,F,,Memphis Grizzlies
+2906,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+2907,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+2908,149,Keenan,,,Evans,G,,Detroit Pistons
+2909,179,Marcin,,,Gortat,C,,LA Clippers
+2910,1593,Andrew,,,Bogut,F,,Golden State Warriors
+2911,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+2912,392,Malachi,,,Richardson,G,,Utah Jazz
+2913,281,Zach,,,Lofton,G,,Detroit Pistons
+2914,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+2915,382,Billy,,,Preston,F,,Cleveland Cavaliers
+2916,384,Zhou,,,Qi,F-C,,Houston Rockets
+2917,388,Zach,,,Randolph,F,,Sacramento Kings
+2918,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+2919,437,Milos,,,Teodosic,G,,LA Clippers
+2920,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+2921,494,Michael,,,Smith,,,Boston Celtics
+2922,495,John,,,Morton,,,Cleveland Cavaliers
+2923,496,Howard,,,Wright,,,Atlanta Hawks
+2924,497,Michael,,,Ansley,,,Orlando Magic
+2925,498,John,,,Salley,,,Detroit Pistons
+2926,499,Dan,,,Schayes,,,Milwaukee Bucks
+2927,500,Mark,,,Eaton,,,Utah Jazz
+2928,501,Kevin,,,Johnson,,,Phoenix Suns
+2929,502,Danny,,,Ainge,,,Portland Trail Blazers
+2930,503,Kenny,,,Smith,,,Houston Rockets
+2931,504,Randy,,,Breuer,,,Minnesota Timberwolves
+2932,505,Herb,,,Williams,,,Dallas Mavericks
+2933,506,Joe,,,Wolf,,,Denver Nuggets
+2934,507,Steve,,,Johnson,,,Golden State Warriors
+2935,508,Glen,,,Rice,,,Miami Heat
+2936,509,Greg,,,Foster,,,Washington Wizards
+2937,510,Larry,,,Nance,,,Cleveland Cavaliers
+2938,511,Duane,,,Ferrell,,,Atlanta Hawks
+2939,512,Nick,,,Anderson,,,Orlando Magic
+2940,513,Joe,,,Dumars,,,Detroit Pistons
+2941,514,Jay,,,Humphries,,,Milwaukee Bucks
+2942,515,Darrell,,,Griffith,,,Utah Jazz
+2943,516,Dan,,,Majerle,,,Phoenix Suns
+2944,517,Tom,,,Chambers,,,Phoenix Suns
+2945,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+2946,519,Adrian,,,Caldwell,,,Houston Rockets
+2947,520,Vernon,,,Maxwell,,,Houston Rockets
+2948,521,Doug,,,West,,,Minnesota Timberwolves
+2949,522,Tony,,,Campbell,,,Minnesota Timberwolves
+2950,523,Roy,,,Tarpley,,,Dallas Mavericks
+2951,524,Anthony,,,Cook,,,Denver Nuggets
+2952,525,Todd,,,Lichti,,,Denver Nuggets
+2953,526,Tom,,,Tolbert,,,Golden State Warriors
+2954,527,Billy,,,Thompson,,,Miami Heat
+2955,528,Byron,,,Irvin,,,Washington Wizards
+2956,529,Mark,,,Price,,,Cleveland Cavaliers
+2957,530,Dominique,,,Wilkins,,,Atlanta Hawks
+2958,531,Dennis,,,Scott,,,Orlando Magic
+2959,532,Terry,,,Catledge,,,Orlando Magic
+2960,533,Bill,,,Laimbeer,,,Detroit Pistons
+2961,534,William,,,Bedford,,,Detroit Pistons
+2962,535,Ricky,,,Pierce,,,Milwaukee Bucks
+2963,536,Blue,,,Edwards,,,Utah Jazz
+2964,537,Walter,,,Palmer,,,Utah Jazz
+2965,538,Mark,,,West,,,Phoenix Suns
+2966,539,Clifford,,,Robinson,,,Portland Trail Blazers
+2967,540,Hakeem,,,Olajuwon,,,Houston Rockets
+2968,541,Richard,,,Coffey,,,Minnesota Timberwolves
+2969,542,James,,,Donaldson,,,Dallas Mavericks
+2970,543,Jerome,,,Lane,,,Denver Nuggets
+2971,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+2972,545,Grant,,,Long,,,Miami Heat
+2973,546,Willie,,,Burton,,,Miami Heat
+2974,547,Mark,,,Alarie,,,Washington Wizards
+2975,548,Winston,,,Bennett,,,Cleveland Cavaliers
+2976,549,Doc,,,Rivers,,,Atlanta Hawks
+2977,550,Tim,,,McCormick,,,Atlanta Hawks
+2978,551,Scott,,,Skiles,,,Orlando Magic
+2979,552,Dennis,,,Rodman,,,Detroit Pistons
+2980,553,Greg,,,Anderson,,,Milwaukee Bucks
+2981,554,Jeff,,,Malone,,,Utah Jazz
+2982,555,Cedric,,,Ceballos,,,Phoenix Suns
+2983,556,Tim,,,Perry,,,Phoenix Suns
+2984,557,Buck,,,Williams,,,Portland Trail Blazers
+2985,558,Dave,,,Jamerson,,,Houston Rockets
+2986,559,Scott,,,Brooks,,,Minnesota Timberwolves
+2987,560,Rolando,,,Blackman,,,Dallas Mavericks
+2988,561,Avery,,,Johnson,,,Denver Nuggets
+2989,562,Rod,,,Higgins,,,Golden State Warriors
+2990,563,Jon,,,Sundvold,,,Miami Heat
+2991,564,A.J.,,,English,,,Washington Wizards
+2992,565,John,,,Battle,,,Atlanta Hawks
+2993,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+2994,566,Sam,,,Vincent,,,Orlando Magic
+2995,567,Isiah,,,Thomas,,,Detroit Pistons
+2996,568,Brad,,,Lohaus,,,Milwaukee Bucks
+2997,569,Mike,,,Brown,,,Utah Jazz
+2998,570,Kenny,,,Battle,,,Phoenix Suns
+2999,571,Danny,,,Young,,,Portland Trail Blazers
+3000,14,Ike,,,Anigbogu,C,,Indiana Pacers
+3001,25,Ron,,,Baker,G,,New York Knicks
+3002,47,Jabari,,,Bird,G,,Boston Celtics
+3003,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+3004,71,Lorenzo,,,Brown,G,,Toronto Raptors
+3005,90,Omri,,,Casspi,F,,Memphis Grizzlies
+3006,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+3007,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+3008,149,Keenan,,,Evans,G,,Detroit Pistons
+3009,179,Marcin,,,Gortat,C,,LA Clippers
+3010,1593,Andrew,,,Bogut,F,,Golden State Warriors
+3011,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+3012,392,Malachi,,,Richardson,G,,Utah Jazz
+3013,281,Zach,,,Lofton,G,,Detroit Pistons
+3014,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+3015,382,Billy,,,Preston,F,,Cleveland Cavaliers
+3016,384,Zhou,,,Qi,F-C,,Houston Rockets
+3017,388,Zach,,,Randolph,F,,Sacramento Kings
+3018,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+3019,437,Milos,,,Teodosic,G,,LA Clippers
+3020,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+3021,494,Michael,,,Smith,,,Boston Celtics
+3022,495,John,,,Morton,,,Cleveland Cavaliers
+3023,496,Howard,,,Wright,,,Atlanta Hawks
+3024,497,Michael,,,Ansley,,,Orlando Magic
+3025,498,John,,,Salley,,,Detroit Pistons
+3026,499,Dan,,,Schayes,,,Milwaukee Bucks
+3027,500,Mark,,,Eaton,,,Utah Jazz
+3028,501,Kevin,,,Johnson,,,Phoenix Suns
+3029,502,Danny,,,Ainge,,,Portland Trail Blazers
+3030,503,Kenny,,,Smith,,,Houston Rockets
+3031,504,Randy,,,Breuer,,,Minnesota Timberwolves
+3032,505,Herb,,,Williams,,,Dallas Mavericks
+3033,506,Joe,,,Wolf,,,Denver Nuggets
+3034,507,Steve,,,Johnson,,,Golden State Warriors
+3035,508,Glen,,,Rice,,,Miami Heat
+3036,509,Greg,,,Foster,,,Washington Wizards
+3037,510,Larry,,,Nance,,,Cleveland Cavaliers
+3038,511,Duane,,,Ferrell,,,Atlanta Hawks
+3039,512,Nick,,,Anderson,,,Orlando Magic
+3040,513,Joe,,,Dumars,,,Detroit Pistons
+3041,514,Jay,,,Humphries,,,Milwaukee Bucks
+3042,515,Darrell,,,Griffith,,,Utah Jazz
+3043,516,Dan,,,Majerle,,,Phoenix Suns
+3044,517,Tom,,,Chambers,,,Phoenix Suns
+3045,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+3046,519,Adrian,,,Caldwell,,,Houston Rockets
+3047,520,Vernon,,,Maxwell,,,Houston Rockets
+3048,521,Doug,,,West,,,Minnesota Timberwolves
+3049,522,Tony,,,Campbell,,,Minnesota Timberwolves
+3050,523,Roy,,,Tarpley,,,Dallas Mavericks
+3051,524,Anthony,,,Cook,,,Denver Nuggets
+3052,525,Todd,,,Lichti,,,Denver Nuggets
+3053,526,Tom,,,Tolbert,,,Golden State Warriors
+3054,527,Billy,,,Thompson,,,Miami Heat
+3055,528,Byron,,,Irvin,,,Washington Wizards
+3056,529,Mark,,,Price,,,Cleveland Cavaliers
+3057,530,Dominique,,,Wilkins,,,Atlanta Hawks
+3058,531,Dennis,,,Scott,,,Orlando Magic
+3059,532,Terry,,,Catledge,,,Orlando Magic
+3060,533,Bill,,,Laimbeer,,,Detroit Pistons
+3061,534,William,,,Bedford,,,Detroit Pistons
+3062,535,Ricky,,,Pierce,,,Milwaukee Bucks
+3063,536,Blue,,,Edwards,,,Utah Jazz
+3064,537,Walter,,,Palmer,,,Utah Jazz
+3065,538,Mark,,,West,,,Phoenix Suns
+3066,539,Clifford,,,Robinson,,,Portland Trail Blazers
+3067,540,Hakeem,,,Olajuwon,,,Houston Rockets
+3068,541,Richard,,,Coffey,,,Minnesota Timberwolves
+3069,542,James,,,Donaldson,,,Dallas Mavericks
+3070,543,Jerome,,,Lane,,,Denver Nuggets
+3071,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+3072,545,Grant,,,Long,,,Miami Heat
+3073,546,Willie,,,Burton,,,Miami Heat
+3074,547,Mark,,,Alarie,,,Washington Wizards
+3075,548,Winston,,,Bennett,,,Cleveland Cavaliers
+3076,549,Doc,,,Rivers,,,Atlanta Hawks
+3077,550,Tim,,,McCormick,,,Atlanta Hawks
+3078,551,Scott,,,Skiles,,,Orlando Magic
+3079,552,Dennis,,,Rodman,,,Detroit Pistons
+3080,553,Greg,,,Anderson,,,Milwaukee Bucks
+3081,554,Jeff,,,Malone,,,Utah Jazz
+3082,555,Cedric,,,Ceballos,,,Phoenix Suns
+3083,556,Tim,,,Perry,,,Phoenix Suns
+3084,557,Buck,,,Williams,,,Portland Trail Blazers
+3085,558,Dave,,,Jamerson,,,Houston Rockets
+3086,559,Scott,,,Brooks,,,Minnesota Timberwolves
+3087,560,Rolando,,,Blackman,,,Dallas Mavericks
+3088,561,Avery,,,Johnson,,,Denver Nuggets
+3089,562,Rod,,,Higgins,,,Golden State Warriors
+3090,563,Jon,,,Sundvold,,,Miami Heat
+3091,564,A.J.,,,English,,,Washington Wizards
+3092,565,John,,,Battle,,,Atlanta Hawks
+3093,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+3094,566,Sam,,,Vincent,,,Orlando Magic
+3095,567,Isiah,,,Thomas,,,Detroit Pistons
+3096,568,Brad,,,Lohaus,,,Milwaukee Bucks
+3097,569,Mike,,,Brown,,,Utah Jazz
+3098,570,Kenny,,,Battle,,,Phoenix Suns
+3099,571,Danny,,,Young,,,Portland Trail Blazers
+3100,14,Ike,,,Anigbogu,C,,Indiana Pacers
+3101,25,Ron,,,Baker,G,,New York Knicks
+3102,47,Jabari,,,Bird,G,,Boston Celtics
+3103,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+3104,71,Lorenzo,,,Brown,G,,Toronto Raptors
+3105,90,Omri,,,Casspi,F,,Memphis Grizzlies
+3106,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+3107,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+3108,149,Keenan,,,Evans,G,,Detroit Pistons
+3109,179,Marcin,,,Gortat,C,,LA Clippers
+3110,1593,Andrew,,,Bogut,F,,Golden State Warriors
+3111,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+3112,392,Malachi,,,Richardson,G,,Utah Jazz
+3113,281,Zach,,,Lofton,G,,Detroit Pistons
+3114,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+3115,382,Billy,,,Preston,F,,Cleveland Cavaliers
+3116,384,Zhou,,,Qi,F-C,,Houston Rockets
+3117,388,Zach,,,Randolph,F,,Sacramento Kings
+3118,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+3119,437,Milos,,,Teodosic,G,,LA Clippers
+3120,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+3121,494,Michael,,,Smith,,,Boston Celtics
+3122,495,John,,,Morton,,,Cleveland Cavaliers
+3123,496,Howard,,,Wright,,,Atlanta Hawks
+3124,497,Michael,,,Ansley,,,Orlando Magic
+3125,498,John,,,Salley,,,Detroit Pistons
+3126,499,Dan,,,Schayes,,,Milwaukee Bucks
+3127,500,Mark,,,Eaton,,,Utah Jazz
+3128,501,Kevin,,,Johnson,,,Phoenix Suns
+3129,502,Danny,,,Ainge,,,Portland Trail Blazers
+3130,503,Kenny,,,Smith,,,Houston Rockets
+3131,504,Randy,,,Breuer,,,Minnesota Timberwolves
+3132,505,Herb,,,Williams,,,Dallas Mavericks
+3133,506,Joe,,,Wolf,,,Denver Nuggets
+3134,507,Steve,,,Johnson,,,Golden State Warriors
+3135,508,Glen,,,Rice,,,Miami Heat
+3136,509,Greg,,,Foster,,,Washington Wizards
+3137,510,Larry,,,Nance,,,Cleveland Cavaliers
+3138,511,Duane,,,Ferrell,,,Atlanta Hawks
+3139,512,Nick,,,Anderson,,,Orlando Magic
+3140,513,Joe,,,Dumars,,,Detroit Pistons
+3141,514,Jay,,,Humphries,,,Milwaukee Bucks
+3142,515,Darrell,,,Griffith,,,Utah Jazz
+3143,516,Dan,,,Majerle,,,Phoenix Suns
+3144,517,Tom,,,Chambers,,,Phoenix Suns
+3145,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+3146,519,Adrian,,,Caldwell,,,Houston Rockets
+3147,520,Vernon,,,Maxwell,,,Houston Rockets
+3148,521,Doug,,,West,,,Minnesota Timberwolves
+3149,522,Tony,,,Campbell,,,Minnesota Timberwolves
+3150,523,Roy,,,Tarpley,,,Dallas Mavericks
+3151,524,Anthony,,,Cook,,,Denver Nuggets
+3152,525,Todd,,,Lichti,,,Denver Nuggets
+3153,526,Tom,,,Tolbert,,,Golden State Warriors
+3154,527,Billy,,,Thompson,,,Miami Heat
+3155,528,Byron,,,Irvin,,,Washington Wizards
+3156,529,Mark,,,Price,,,Cleveland Cavaliers
+3157,530,Dominique,,,Wilkins,,,Atlanta Hawks
+3158,531,Dennis,,,Scott,,,Orlando Magic
+3159,532,Terry,,,Catledge,,,Orlando Magic
+3160,533,Bill,,,Laimbeer,,,Detroit Pistons
+3161,534,William,,,Bedford,,,Detroit Pistons
+3162,535,Ricky,,,Pierce,,,Milwaukee Bucks
+3163,536,Blue,,,Edwards,,,Utah Jazz
+3164,537,Walter,,,Palmer,,,Utah Jazz
+3165,538,Mark,,,West,,,Phoenix Suns
+3166,539,Clifford,,,Robinson,,,Portland Trail Blazers
+3167,540,Hakeem,,,Olajuwon,,,Houston Rockets
+3168,541,Richard,,,Coffey,,,Minnesota Timberwolves
+3169,542,James,,,Donaldson,,,Dallas Mavericks
+3170,543,Jerome,,,Lane,,,Denver Nuggets
+3171,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+3172,545,Grant,,,Long,,,Miami Heat
+3173,546,Willie,,,Burton,,,Miami Heat
+3174,547,Mark,,,Alarie,,,Washington Wizards
+3175,548,Winston,,,Bennett,,,Cleveland Cavaliers
+3176,549,Doc,,,Rivers,,,Atlanta Hawks
+3177,550,Tim,,,McCormick,,,Atlanta Hawks
+3178,551,Scott,,,Skiles,,,Orlando Magic
+3179,552,Dennis,,,Rodman,,,Detroit Pistons
+3180,553,Greg,,,Anderson,,,Milwaukee Bucks
+3181,554,Jeff,,,Malone,,,Utah Jazz
+3182,555,Cedric,,,Ceballos,,,Phoenix Suns
+3183,556,Tim,,,Perry,,,Phoenix Suns
+3184,557,Buck,,,Williams,,,Portland Trail Blazers
+3185,558,Dave,,,Jamerson,,,Houston Rockets
+3186,559,Scott,,,Brooks,,,Minnesota Timberwolves
+3187,560,Rolando,,,Blackman,,,Dallas Mavericks
+3188,561,Avery,,,Johnson,,,Denver Nuggets
+3189,562,Rod,,,Higgins,,,Golden State Warriors
+3190,563,Jon,,,Sundvold,,,Miami Heat
+3191,564,A.J.,,,English,,,Washington Wizards
+3192,565,John,,,Battle,,,Atlanta Hawks
+3193,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+3194,566,Sam,,,Vincent,,,Orlando Magic
+3195,567,Isiah,,,Thomas,,,Detroit Pistons
+3196,568,Brad,,,Lohaus,,,Milwaukee Bucks
+3197,569,Mike,,,Brown,,,Utah Jazz
+3198,570,Kenny,,,Battle,,,Phoenix Suns
+3199,571,Danny,,,Young,,,Portland Trail Blazers
+3200,14,Ike,,,Anigbogu,C,,Indiana Pacers
+3201,25,Ron,,,Baker,G,,New York Knicks
+3202,47,Jabari,,,Bird,G,,Boston Celtics
+3203,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+3204,71,Lorenzo,,,Brown,G,,Toronto Raptors
+3205,90,Omri,,,Casspi,F,,Memphis Grizzlies
+3206,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+3207,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+3208,149,Keenan,,,Evans,G,,Detroit Pistons
+3209,179,Marcin,,,Gortat,C,,LA Clippers
+3210,1593,Andrew,,,Bogut,F,,Golden State Warriors
+3211,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+3212,392,Malachi,,,Richardson,G,,Utah Jazz
+3213,281,Zach,,,Lofton,G,,Detroit Pistons
+3214,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+3215,382,Billy,,,Preston,F,,Cleveland Cavaliers
+3216,384,Zhou,,,Qi,F-C,,Houston Rockets
+3217,388,Zach,,,Randolph,F,,Sacramento Kings
+3218,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+3219,437,Milos,,,Teodosic,G,,LA Clippers
+3220,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+3221,494,Michael,,,Smith,,,Boston Celtics
+3222,495,John,,,Morton,,,Cleveland Cavaliers
+3223,496,Howard,,,Wright,,,Atlanta Hawks
+3224,497,Michael,,,Ansley,,,Orlando Magic
+3225,498,John,,,Salley,,,Detroit Pistons
+3226,499,Dan,,,Schayes,,,Milwaukee Bucks
+3227,500,Mark,,,Eaton,,,Utah Jazz
+3228,501,Kevin,,,Johnson,,,Phoenix Suns
+3229,502,Danny,,,Ainge,,,Portland Trail Blazers
+3230,503,Kenny,,,Smith,,,Houston Rockets
+3231,504,Randy,,,Breuer,,,Minnesota Timberwolves
+3232,505,Herb,,,Williams,,,Dallas Mavericks
+3233,506,Joe,,,Wolf,,,Denver Nuggets
+3234,507,Steve,,,Johnson,,,Golden State Warriors
+3235,508,Glen,,,Rice,,,Miami Heat
+3236,509,Greg,,,Foster,,,Washington Wizards
+3237,510,Larry,,,Nance,,,Cleveland Cavaliers
+3238,511,Duane,,,Ferrell,,,Atlanta Hawks
+3239,512,Nick,,,Anderson,,,Orlando Magic
+3240,513,Joe,,,Dumars,,,Detroit Pistons
+3241,514,Jay,,,Humphries,,,Milwaukee Bucks
+3242,515,Darrell,,,Griffith,,,Utah Jazz
+3243,516,Dan,,,Majerle,,,Phoenix Suns
+3244,517,Tom,,,Chambers,,,Phoenix Suns
+3245,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+3246,519,Adrian,,,Caldwell,,,Houston Rockets
+3247,520,Vernon,,,Maxwell,,,Houston Rockets
+3248,521,Doug,,,West,,,Minnesota Timberwolves
+3249,522,Tony,,,Campbell,,,Minnesota Timberwolves
+3250,523,Roy,,,Tarpley,,,Dallas Mavericks
+3251,524,Anthony,,,Cook,,,Denver Nuggets
+3252,525,Todd,,,Lichti,,,Denver Nuggets
+3253,526,Tom,,,Tolbert,,,Golden State Warriors
+3254,527,Billy,,,Thompson,,,Miami Heat
+3255,528,Byron,,,Irvin,,,Washington Wizards
+3256,529,Mark,,,Price,,,Cleveland Cavaliers
+3257,530,Dominique,,,Wilkins,,,Atlanta Hawks
+3258,531,Dennis,,,Scott,,,Orlando Magic
+3259,532,Terry,,,Catledge,,,Orlando Magic
+3260,533,Bill,,,Laimbeer,,,Detroit Pistons
+3261,534,William,,,Bedford,,,Detroit Pistons
+3262,535,Ricky,,,Pierce,,,Milwaukee Bucks
+3263,536,Blue,,,Edwards,,,Utah Jazz
+3264,537,Walter,,,Palmer,,,Utah Jazz
+3265,538,Mark,,,West,,,Phoenix Suns
+3266,539,Clifford,,,Robinson,,,Portland Trail Blazers
+3267,540,Hakeem,,,Olajuwon,,,Houston Rockets
+3268,541,Richard,,,Coffey,,,Minnesota Timberwolves
+3269,542,James,,,Donaldson,,,Dallas Mavericks
+3270,543,Jerome,,,Lane,,,Denver Nuggets
+3271,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+3272,545,Grant,,,Long,,,Miami Heat
+3273,546,Willie,,,Burton,,,Miami Heat
+3274,547,Mark,,,Alarie,,,Washington Wizards
+3275,548,Winston,,,Bennett,,,Cleveland Cavaliers
+3276,549,Doc,,,Rivers,,,Atlanta Hawks
+3277,550,Tim,,,McCormick,,,Atlanta Hawks
+3278,551,Scott,,,Skiles,,,Orlando Magic
+3279,552,Dennis,,,Rodman,,,Detroit Pistons
+3280,553,Greg,,,Anderson,,,Milwaukee Bucks
+3281,554,Jeff,,,Malone,,,Utah Jazz
+3282,555,Cedric,,,Ceballos,,,Phoenix Suns
+3283,556,Tim,,,Perry,,,Phoenix Suns
+3284,557,Buck,,,Williams,,,Portland Trail Blazers
+3285,558,Dave,,,Jamerson,,,Houston Rockets
+3286,559,Scott,,,Brooks,,,Minnesota Timberwolves
+3287,560,Rolando,,,Blackman,,,Dallas Mavericks
+3288,561,Avery,,,Johnson,,,Denver Nuggets
+3289,562,Rod,,,Higgins,,,Golden State Warriors
+3290,563,Jon,,,Sundvold,,,Miami Heat
+3291,564,A.J.,,,English,,,Washington Wizards
+3292,565,John,,,Battle,,,Atlanta Hawks
+3293,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+3294,566,Sam,,,Vincent,,,Orlando Magic
+3295,567,Isiah,,,Thomas,,,Detroit Pistons
+3296,568,Brad,,,Lohaus,,,Milwaukee Bucks
+3297,569,Mike,,,Brown,,,Utah Jazz
+3298,570,Kenny,,,Battle,,,Phoenix Suns
+3299,571,Danny,,,Young,,,Portland Trail Blazers
+3300,14,Ike,,,Anigbogu,C,,Indiana Pacers
+3301,25,Ron,,,Baker,G,,New York Knicks
+3302,47,Jabari,,,Bird,G,,Boston Celtics
+3303,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+3304,71,Lorenzo,,,Brown,G,,Toronto Raptors
+3305,90,Omri,,,Casspi,F,,Memphis Grizzlies
+3306,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+3307,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+3308,149,Keenan,,,Evans,G,,Detroit Pistons
+3309,179,Marcin,,,Gortat,C,,LA Clippers
+3310,1593,Andrew,,,Bogut,F,,Golden State Warriors
+3311,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+3312,392,Malachi,,,Richardson,G,,Utah Jazz
+3313,281,Zach,,,Lofton,G,,Detroit Pistons
+3314,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+3315,382,Billy,,,Preston,F,,Cleveland Cavaliers
+3316,384,Zhou,,,Qi,F-C,,Houston Rockets
+3317,388,Zach,,,Randolph,F,,Sacramento Kings
+3318,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+3319,437,Milos,,,Teodosic,G,,LA Clippers
+3320,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+3321,494,Michael,,,Smith,,,Boston Celtics
+3322,495,John,,,Morton,,,Cleveland Cavaliers
+3323,496,Howard,,,Wright,,,Atlanta Hawks
+3324,497,Michael,,,Ansley,,,Orlando Magic
+3325,498,John,,,Salley,,,Detroit Pistons
+3326,499,Dan,,,Schayes,,,Milwaukee Bucks
+3327,500,Mark,,,Eaton,,,Utah Jazz
+3328,501,Kevin,,,Johnson,,,Phoenix Suns
+3329,502,Danny,,,Ainge,,,Portland Trail Blazers
+3330,503,Kenny,,,Smith,,,Houston Rockets
+3331,504,Randy,,,Breuer,,,Minnesota Timberwolves
+3332,505,Herb,,,Williams,,,Dallas Mavericks
+3333,506,Joe,,,Wolf,,,Denver Nuggets
+3334,507,Steve,,,Johnson,,,Golden State Warriors
+3335,508,Glen,,,Rice,,,Miami Heat
+3336,509,Greg,,,Foster,,,Washington Wizards
+3337,510,Larry,,,Nance,,,Cleveland Cavaliers
+3338,511,Duane,,,Ferrell,,,Atlanta Hawks
+3339,512,Nick,,,Anderson,,,Orlando Magic
+3340,513,Joe,,,Dumars,,,Detroit Pistons
+3341,514,Jay,,,Humphries,,,Milwaukee Bucks
+3342,515,Darrell,,,Griffith,,,Utah Jazz
+3343,516,Dan,,,Majerle,,,Phoenix Suns
+3344,517,Tom,,,Chambers,,,Phoenix Suns
+3345,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+3346,519,Adrian,,,Caldwell,,,Houston Rockets
+3347,520,Vernon,,,Maxwell,,,Houston Rockets
+3348,521,Doug,,,West,,,Minnesota Timberwolves
+3349,522,Tony,,,Campbell,,,Minnesota Timberwolves
+3350,523,Roy,,,Tarpley,,,Dallas Mavericks
+3351,524,Anthony,,,Cook,,,Denver Nuggets
+3352,525,Todd,,,Lichti,,,Denver Nuggets
+3353,526,Tom,,,Tolbert,,,Golden State Warriors
+3354,527,Billy,,,Thompson,,,Miami Heat
+3355,528,Byron,,,Irvin,,,Washington Wizards
+3356,529,Mark,,,Price,,,Cleveland Cavaliers
+3357,530,Dominique,,,Wilkins,,,Atlanta Hawks
+3358,531,Dennis,,,Scott,,,Orlando Magic
+3359,532,Terry,,,Catledge,,,Orlando Magic
+3360,533,Bill,,,Laimbeer,,,Detroit Pistons
+3361,534,William,,,Bedford,,,Detroit Pistons
+3362,535,Ricky,,,Pierce,,,Milwaukee Bucks
+3363,536,Blue,,,Edwards,,,Utah Jazz
+3364,537,Walter,,,Palmer,,,Utah Jazz
+3365,538,Mark,,,West,,,Phoenix Suns
+3366,539,Clifford,,,Robinson,,,Portland Trail Blazers
+3367,540,Hakeem,,,Olajuwon,,,Houston Rockets
+3368,541,Richard,,,Coffey,,,Minnesota Timberwolves
+3369,542,James,,,Donaldson,,,Dallas Mavericks
+3370,543,Jerome,,,Lane,,,Denver Nuggets
+3371,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+3372,545,Grant,,,Long,,,Miami Heat
+3373,546,Willie,,,Burton,,,Miami Heat
+3374,547,Mark,,,Alarie,,,Washington Wizards
+3375,548,Winston,,,Bennett,,,Cleveland Cavaliers
+3376,549,Doc,,,Rivers,,,Atlanta Hawks
+3377,550,Tim,,,McCormick,,,Atlanta Hawks
+3378,551,Scott,,,Skiles,,,Orlando Magic
+3379,552,Dennis,,,Rodman,,,Detroit Pistons
+3380,553,Greg,,,Anderson,,,Milwaukee Bucks
+3381,554,Jeff,,,Malone,,,Utah Jazz
+3382,555,Cedric,,,Ceballos,,,Phoenix Suns
+3383,556,Tim,,,Perry,,,Phoenix Suns
+3384,557,Buck,,,Williams,,,Portland Trail Blazers
+3385,558,Dave,,,Jamerson,,,Houston Rockets
+3386,559,Scott,,,Brooks,,,Minnesota Timberwolves
+3387,560,Rolando,,,Blackman,,,Dallas Mavericks
+3388,561,Avery,,,Johnson,,,Denver Nuggets
+3389,562,Rod,,,Higgins,,,Golden State Warriors
+3390,563,Jon,,,Sundvold,,,Miami Heat
+3391,564,A.J.,,,English,,,Washington Wizards
+3392,565,John,,,Battle,,,Atlanta Hawks
+3393,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+3394,566,Sam,,,Vincent,,,Orlando Magic
+3395,567,Isiah,,,Thomas,,,Detroit Pistons
+3396,568,Brad,,,Lohaus,,,Milwaukee Bucks
+3397,569,Mike,,,Brown,,,Utah Jazz
+3398,570,Kenny,,,Battle,,,Phoenix Suns
+3399,571,Danny,,,Young,,,Portland Trail Blazers
+3400,14,Ike,,,Anigbogu,C,,Indiana Pacers
+3401,25,Ron,,,Baker,G,,New York Knicks
+3402,47,Jabari,,,Bird,G,,Boston Celtics
+3403,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+3404,71,Lorenzo,,,Brown,G,,Toronto Raptors
+3405,90,Omri,,,Casspi,F,,Memphis Grizzlies
+3406,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+3407,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+3408,149,Keenan,,,Evans,G,,Detroit Pistons
+3409,179,Marcin,,,Gortat,C,,LA Clippers
+3410,1593,Andrew,,,Bogut,F,,Golden State Warriors
+3411,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+3412,392,Malachi,,,Richardson,G,,Utah Jazz
+3413,281,Zach,,,Lofton,G,,Detroit Pistons
+3414,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+3415,382,Billy,,,Preston,F,,Cleveland Cavaliers
+3416,384,Zhou,,,Qi,F-C,,Houston Rockets
+3417,388,Zach,,,Randolph,F,,Sacramento Kings
+3418,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+3419,437,Milos,,,Teodosic,G,,LA Clippers
+3420,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+3421,494,Michael,,,Smith,,,Boston Celtics
+3422,495,John,,,Morton,,,Cleveland Cavaliers
+3423,496,Howard,,,Wright,,,Atlanta Hawks
+3424,497,Michael,,,Ansley,,,Orlando Magic
+3425,498,John,,,Salley,,,Detroit Pistons
+3426,499,Dan,,,Schayes,,,Milwaukee Bucks
+3427,500,Mark,,,Eaton,,,Utah Jazz
+3428,501,Kevin,,,Johnson,,,Phoenix Suns
+3429,502,Danny,,,Ainge,,,Portland Trail Blazers
+3430,503,Kenny,,,Smith,,,Houston Rockets
+3431,504,Randy,,,Breuer,,,Minnesota Timberwolves
+3432,505,Herb,,,Williams,,,Dallas Mavericks
+3433,506,Joe,,,Wolf,,,Denver Nuggets
+3434,507,Steve,,,Johnson,,,Golden State Warriors
+3435,508,Glen,,,Rice,,,Miami Heat
+3436,509,Greg,,,Foster,,,Washington Wizards
+3437,510,Larry,,,Nance,,,Cleveland Cavaliers
+3438,511,Duane,,,Ferrell,,,Atlanta Hawks
+3439,512,Nick,,,Anderson,,,Orlando Magic
+3440,513,Joe,,,Dumars,,,Detroit Pistons
+3441,514,Jay,,,Humphries,,,Milwaukee Bucks
+3442,515,Darrell,,,Griffith,,,Utah Jazz
+3443,516,Dan,,,Majerle,,,Phoenix Suns
+3444,517,Tom,,,Chambers,,,Phoenix Suns
+3445,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+3446,519,Adrian,,,Caldwell,,,Houston Rockets
+3447,520,Vernon,,,Maxwell,,,Houston Rockets
+3448,521,Doug,,,West,,,Minnesota Timberwolves
+3449,522,Tony,,,Campbell,,,Minnesota Timberwolves
+3450,523,Roy,,,Tarpley,,,Dallas Mavericks
+3451,524,Anthony,,,Cook,,,Denver Nuggets
+3452,525,Todd,,,Lichti,,,Denver Nuggets
+3453,526,Tom,,,Tolbert,,,Golden State Warriors
+3454,527,Billy,,,Thompson,,,Miami Heat
+3455,528,Byron,,,Irvin,,,Washington Wizards
+3456,529,Mark,,,Price,,,Cleveland Cavaliers
+3457,530,Dominique,,,Wilkins,,,Atlanta Hawks
+3458,531,Dennis,,,Scott,,,Orlando Magic
+3459,532,Terry,,,Catledge,,,Orlando Magic
+3460,533,Bill,,,Laimbeer,,,Detroit Pistons
+3461,534,William,,,Bedford,,,Detroit Pistons
+3462,535,Ricky,,,Pierce,,,Milwaukee Bucks
+3463,536,Blue,,,Edwards,,,Utah Jazz
+3464,537,Walter,,,Palmer,,,Utah Jazz
+3465,538,Mark,,,West,,,Phoenix Suns
+3466,539,Clifford,,,Robinson,,,Portland Trail Blazers
+3467,540,Hakeem,,,Olajuwon,,,Houston Rockets
+3468,541,Richard,,,Coffey,,,Minnesota Timberwolves
+3469,542,James,,,Donaldson,,,Dallas Mavericks
+3470,543,Jerome,,,Lane,,,Denver Nuggets
+3471,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+3472,545,Grant,,,Long,,,Miami Heat
+3473,546,Willie,,,Burton,,,Miami Heat
+3474,547,Mark,,,Alarie,,,Washington Wizards
+3475,548,Winston,,,Bennett,,,Cleveland Cavaliers
+3476,549,Doc,,,Rivers,,,Atlanta Hawks
+3477,550,Tim,,,McCormick,,,Atlanta Hawks
+3478,551,Scott,,,Skiles,,,Orlando Magic
+3479,552,Dennis,,,Rodman,,,Detroit Pistons
+3480,553,Greg,,,Anderson,,,Milwaukee Bucks
+3481,554,Jeff,,,Malone,,,Utah Jazz
+3482,555,Cedric,,,Ceballos,,,Phoenix Suns
+3483,556,Tim,,,Perry,,,Phoenix Suns
+3484,557,Buck,,,Williams,,,Portland Trail Blazers
+3485,558,Dave,,,Jamerson,,,Houston Rockets
+3486,559,Scott,,,Brooks,,,Minnesota Timberwolves
+3487,560,Rolando,,,Blackman,,,Dallas Mavericks
+3488,561,Avery,,,Johnson,,,Denver Nuggets
+3489,562,Rod,,,Higgins,,,Golden State Warriors
+3490,563,Jon,,,Sundvold,,,Miami Heat
+3491,564,A.J.,,,English,,,Washington Wizards
+3492,565,John,,,Battle,,,Atlanta Hawks
+3493,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+3494,566,Sam,,,Vincent,,,Orlando Magic
+3495,567,Isiah,,,Thomas,,,Detroit Pistons
+3496,568,Brad,,,Lohaus,,,Milwaukee Bucks
+3497,569,Mike,,,Brown,,,Utah Jazz
+3498,570,Kenny,,,Battle,,,Phoenix Suns
+3499,571,Danny,,,Young,,,Portland Trail Blazers
+3500,14,Ike,,,Anigbogu,C,,Indiana Pacers
+3501,25,Ron,,,Baker,G,,New York Knicks
+3502,47,Jabari,,,Bird,G,,Boston Celtics
+3503,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+3504,71,Lorenzo,,,Brown,G,,Toronto Raptors
+3505,90,Omri,,,Casspi,F,,Memphis Grizzlies
+3506,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+3507,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+3508,149,Keenan,,,Evans,G,,Detroit Pistons
+3509,179,Marcin,,,Gortat,C,,LA Clippers
+3510,1593,Andrew,,,Bogut,F,,Golden State Warriors
+3511,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+3512,392,Malachi,,,Richardson,G,,Utah Jazz
+3513,281,Zach,,,Lofton,G,,Detroit Pistons
+3514,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+3515,382,Billy,,,Preston,F,,Cleveland Cavaliers
+3516,384,Zhou,,,Qi,F-C,,Houston Rockets
+3517,388,Zach,,,Randolph,F,,Sacramento Kings
+3518,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+3519,437,Milos,,,Teodosic,G,,LA Clippers
+3520,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+3521,494,Michael,,,Smith,,,Boston Celtics
+3522,495,John,,,Morton,,,Cleveland Cavaliers
+3523,496,Howard,,,Wright,,,Atlanta Hawks
+3524,497,Michael,,,Ansley,,,Orlando Magic
+3525,498,John,,,Salley,,,Detroit Pistons
+3526,499,Dan,,,Schayes,,,Milwaukee Bucks
+3527,500,Mark,,,Eaton,,,Utah Jazz
+3528,501,Kevin,,,Johnson,,,Phoenix Suns
+3529,502,Danny,,,Ainge,,,Portland Trail Blazers
+3530,503,Kenny,,,Smith,,,Houston Rockets
+3531,504,Randy,,,Breuer,,,Minnesota Timberwolves
+3532,505,Herb,,,Williams,,,Dallas Mavericks
+3533,506,Joe,,,Wolf,,,Denver Nuggets
+3534,507,Steve,,,Johnson,,,Golden State Warriors
+3535,508,Glen,,,Rice,,,Miami Heat
+3536,509,Greg,,,Foster,,,Washington Wizards
+3537,510,Larry,,,Nance,,,Cleveland Cavaliers
+3538,511,Duane,,,Ferrell,,,Atlanta Hawks
+3539,512,Nick,,,Anderson,,,Orlando Magic
+3540,513,Joe,,,Dumars,,,Detroit Pistons
+3541,514,Jay,,,Humphries,,,Milwaukee Bucks
+3542,515,Darrell,,,Griffith,,,Utah Jazz
+3543,516,Dan,,,Majerle,,,Phoenix Suns
+3544,517,Tom,,,Chambers,,,Phoenix Suns
+3545,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+3546,519,Adrian,,,Caldwell,,,Houston Rockets
+3547,520,Vernon,,,Maxwell,,,Houston Rockets
+3548,521,Doug,,,West,,,Minnesota Timberwolves
+3549,522,Tony,,,Campbell,,,Minnesota Timberwolves
+3550,523,Roy,,,Tarpley,,,Dallas Mavericks
+3551,524,Anthony,,,Cook,,,Denver Nuggets
+3552,525,Todd,,,Lichti,,,Denver Nuggets
+3553,526,Tom,,,Tolbert,,,Golden State Warriors
+3554,527,Billy,,,Thompson,,,Miami Heat
+3555,528,Byron,,,Irvin,,,Washington Wizards
+3556,529,Mark,,,Price,,,Cleveland Cavaliers
+3557,530,Dominique,,,Wilkins,,,Atlanta Hawks
+3558,531,Dennis,,,Scott,,,Orlando Magic
+3559,532,Terry,,,Catledge,,,Orlando Magic
+3560,533,Bill,,,Laimbeer,,,Detroit Pistons
+3561,534,William,,,Bedford,,,Detroit Pistons
+3562,535,Ricky,,,Pierce,,,Milwaukee Bucks
+3563,536,Blue,,,Edwards,,,Utah Jazz
+3564,537,Walter,,,Palmer,,,Utah Jazz
+3565,538,Mark,,,West,,,Phoenix Suns
+3566,539,Clifford,,,Robinson,,,Portland Trail Blazers
+3567,540,Hakeem,,,Olajuwon,,,Houston Rockets
+3568,541,Richard,,,Coffey,,,Minnesota Timberwolves
+3569,542,James,,,Donaldson,,,Dallas Mavericks
+3570,543,Jerome,,,Lane,,,Denver Nuggets
+3571,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+3572,545,Grant,,,Long,,,Miami Heat
+3573,546,Willie,,,Burton,,,Miami Heat
+3574,547,Mark,,,Alarie,,,Washington Wizards
+3575,548,Winston,,,Bennett,,,Cleveland Cavaliers
+3576,549,Doc,,,Rivers,,,Atlanta Hawks
+3577,550,Tim,,,McCormick,,,Atlanta Hawks
+3578,551,Scott,,,Skiles,,,Orlando Magic
+3579,552,Dennis,,,Rodman,,,Detroit Pistons
+3580,553,Greg,,,Anderson,,,Milwaukee Bucks
+3581,554,Jeff,,,Malone,,,Utah Jazz
+3582,555,Cedric,,,Ceballos,,,Phoenix Suns
+3583,556,Tim,,,Perry,,,Phoenix Suns
+3584,557,Buck,,,Williams,,,Portland Trail Blazers
+3585,558,Dave,,,Jamerson,,,Houston Rockets
+3586,559,Scott,,,Brooks,,,Minnesota Timberwolves
+3587,560,Rolando,,,Blackman,,,Dallas Mavericks
+3588,561,Avery,,,Johnson,,,Denver Nuggets
+3589,562,Rod,,,Higgins,,,Golden State Warriors
+3590,563,Jon,,,Sundvold,,,Miami Heat
+3591,564,A.J.,,,English,,,Washington Wizards
+3592,565,John,,,Battle,,,Atlanta Hawks
+3593,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+3594,566,Sam,,,Vincent,,,Orlando Magic
+3595,567,Isiah,,,Thomas,,,Detroit Pistons
+3596,568,Brad,,,Lohaus,,,Milwaukee Bucks
+3597,569,Mike,,,Brown,,,Utah Jazz
+3598,570,Kenny,,,Battle,,,Phoenix Suns
+3599,571,Danny,,,Young,,,Portland Trail Blazers
+3600,14,Ike,,,Anigbogu,C,,Indiana Pacers
+3601,25,Ron,,,Baker,G,,New York Knicks
+3602,47,Jabari,,,Bird,G,,Boston Celtics
+3603,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+3604,71,Lorenzo,,,Brown,G,,Toronto Raptors
+3605,90,Omri,,,Casspi,F,,Memphis Grizzlies
+3606,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+3607,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+3608,149,Keenan,,,Evans,G,,Detroit Pistons
+3609,179,Marcin,,,Gortat,C,,LA Clippers
+3610,1593,Andrew,,,Bogut,F,,Golden State Warriors
+3611,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+3612,392,Malachi,,,Richardson,G,,Utah Jazz
+3613,281,Zach,,,Lofton,G,,Detroit Pistons
+3614,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+3615,382,Billy,,,Preston,F,,Cleveland Cavaliers
+3616,384,Zhou,,,Qi,F-C,,Houston Rockets
+3617,388,Zach,,,Randolph,F,,Sacramento Kings
+3618,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+3619,437,Milos,,,Teodosic,G,,LA Clippers
+3620,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+3621,494,Michael,,,Smith,,,Boston Celtics
+3622,495,John,,,Morton,,,Cleveland Cavaliers
+3623,496,Howard,,,Wright,,,Atlanta Hawks
+3624,497,Michael,,,Ansley,,,Orlando Magic
+3625,498,John,,,Salley,,,Detroit Pistons
+3626,499,Dan,,,Schayes,,,Milwaukee Bucks
+3627,500,Mark,,,Eaton,,,Utah Jazz
+3628,501,Kevin,,,Johnson,,,Phoenix Suns
+3629,502,Danny,,,Ainge,,,Portland Trail Blazers
+3630,503,Kenny,,,Smith,,,Houston Rockets
+3631,504,Randy,,,Breuer,,,Minnesota Timberwolves
+3632,505,Herb,,,Williams,,,Dallas Mavericks
+3633,506,Joe,,,Wolf,,,Denver Nuggets
+3634,507,Steve,,,Johnson,,,Golden State Warriors
+3635,508,Glen,,,Rice,,,Miami Heat
+3636,509,Greg,,,Foster,,,Washington Wizards
+3637,510,Larry,,,Nance,,,Cleveland Cavaliers
+3638,511,Duane,,,Ferrell,,,Atlanta Hawks
+3639,512,Nick,,,Anderson,,,Orlando Magic
+3640,513,Joe,,,Dumars,,,Detroit Pistons
+3641,514,Jay,,,Humphries,,,Milwaukee Bucks
+3642,515,Darrell,,,Griffith,,,Utah Jazz
+3643,516,Dan,,,Majerle,,,Phoenix Suns
+3644,517,Tom,,,Chambers,,,Phoenix Suns
+3645,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+3646,519,Adrian,,,Caldwell,,,Houston Rockets
+3647,520,Vernon,,,Maxwell,,,Houston Rockets
+3648,521,Doug,,,West,,,Minnesota Timberwolves
+3649,522,Tony,,,Campbell,,,Minnesota Timberwolves
+3650,523,Roy,,,Tarpley,,,Dallas Mavericks
+3651,524,Anthony,,,Cook,,,Denver Nuggets
+3652,525,Todd,,,Lichti,,,Denver Nuggets
+3653,526,Tom,,,Tolbert,,,Golden State Warriors
+3654,527,Billy,,,Thompson,,,Miami Heat
+3655,528,Byron,,,Irvin,,,Washington Wizards
+3656,529,Mark,,,Price,,,Cleveland Cavaliers
+3657,530,Dominique,,,Wilkins,,,Atlanta Hawks
+3658,531,Dennis,,,Scott,,,Orlando Magic
+3659,532,Terry,,,Catledge,,,Orlando Magic
+3660,533,Bill,,,Laimbeer,,,Detroit Pistons
+3661,534,William,,,Bedford,,,Detroit Pistons
+3662,535,Ricky,,,Pierce,,,Milwaukee Bucks
+3663,536,Blue,,,Edwards,,,Utah Jazz
+3664,537,Walter,,,Palmer,,,Utah Jazz
+3665,538,Mark,,,West,,,Phoenix Suns
+3666,539,Clifford,,,Robinson,,,Portland Trail Blazers
+3667,540,Hakeem,,,Olajuwon,,,Houston Rockets
+3668,541,Richard,,,Coffey,,,Minnesota Timberwolves
+3669,542,James,,,Donaldson,,,Dallas Mavericks
+3670,543,Jerome,,,Lane,,,Denver Nuggets
+3671,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+3672,545,Grant,,,Long,,,Miami Heat
+3673,546,Willie,,,Burton,,,Miami Heat
+3674,547,Mark,,,Alarie,,,Washington Wizards
+3675,548,Winston,,,Bennett,,,Cleveland Cavaliers
+3676,549,Doc,,,Rivers,,,Atlanta Hawks
+3677,550,Tim,,,McCormick,,,Atlanta Hawks
+3678,551,Scott,,,Skiles,,,Orlando Magic
+3679,552,Dennis,,,Rodman,,,Detroit Pistons
+3680,553,Greg,,,Anderson,,,Milwaukee Bucks
+3681,554,Jeff,,,Malone,,,Utah Jazz
+3682,555,Cedric,,,Ceballos,,,Phoenix Suns
+3683,556,Tim,,,Perry,,,Phoenix Suns
+3684,557,Buck,,,Williams,,,Portland Trail Blazers
+3685,558,Dave,,,Jamerson,,,Houston Rockets
+3686,559,Scott,,,Brooks,,,Minnesota Timberwolves
+3687,560,Rolando,,,Blackman,,,Dallas Mavericks
+3688,561,Avery,,,Johnson,,,Denver Nuggets
+3689,562,Rod,,,Higgins,,,Golden State Warriors
+3690,563,Jon,,,Sundvold,,,Miami Heat
+3691,564,A.J.,,,English,,,Washington Wizards
+3692,565,John,,,Battle,,,Atlanta Hawks
+3693,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+3694,566,Sam,,,Vincent,,,Orlando Magic
+3695,567,Isiah,,,Thomas,,,Detroit Pistons
+3696,568,Brad,,,Lohaus,,,Milwaukee Bucks
+3697,569,Mike,,,Brown,,,Utah Jazz
+3698,570,Kenny,,,Battle,,,Phoenix Suns
+3699,571,Danny,,,Young,,,Portland Trail Blazers
+3700,14,Ike,,,Anigbogu,C,,Indiana Pacers
+3701,25,Ron,,,Baker,G,,New York Knicks
+3702,47,Jabari,,,Bird,G,,Boston Celtics
+3703,67,MarShon,,,Brooks,G,,Memphis Grizzlies
+3704,71,Lorenzo,,,Brown,G,,Toronto Raptors
+3705,90,Omri,,,Casspi,F,,Memphis Grizzlies
+3706,1,Alex,6.0,6.0,Abrines,G,200.0,Oklahoma City Thunder
+3707,119,Tyler,,,Davis,C,,Oklahoma City Thunder
+3708,149,Keenan,,,Evans,G,,Detroit Pistons
+3709,179,Marcin,,,Gortat,C,,LA Clippers
+3710,1593,Andrew,,,Bogut,F,,Golden State Warriors
+3711,241,Amir,6.0,9.0,Johnson,C-F,240.0,Philadelphia 76ers
+3712,392,Malachi,,,Richardson,G,,Utah Jazz
+3713,281,Zach,,,Lofton,G,,Detroit Pistons
+3714,263,Kosta,7.0,0.0,Koufos,C,245.0,Sacramento Kings
+3715,382,Billy,,,Preston,F,,Cleveland Cavaliers
+3716,384,Zhou,,,Qi,F-C,,Houston Rockets
+3717,388,Zach,,,Randolph,F,,Sacramento Kings
+3718,430,DJ,,,Stephens,G-F,,Memphis Grizzlies
+3719,437,Milos,,,Teodosic,G,,LA Clippers
+3720,448,Gary,,,Trent Jr.,G,,Portland Trail Blazers
+3721,494,Michael,,,Smith,,,Boston Celtics
+3722,495,John,,,Morton,,,Cleveland Cavaliers
+3723,496,Howard,,,Wright,,,Atlanta Hawks
+3724,497,Michael,,,Ansley,,,Orlando Magic
+3725,498,John,,,Salley,,,Detroit Pistons
+3726,499,Dan,,,Schayes,,,Milwaukee Bucks
+3727,500,Mark,,,Eaton,,,Utah Jazz
+3728,501,Kevin,,,Johnson,,,Phoenix Suns
+3729,502,Danny,,,Ainge,,,Portland Trail Blazers
+3730,503,Kenny,,,Smith,,,Houston Rockets
+3731,504,Randy,,,Breuer,,,Minnesota Timberwolves
+3732,505,Herb,,,Williams,,,Dallas Mavericks
+3733,506,Joe,,,Wolf,,,Denver Nuggets
+3734,507,Steve,,,Johnson,,,Golden State Warriors
+3735,508,Glen,,,Rice,,,Miami Heat
+3736,509,Greg,,,Foster,,,Washington Wizards
+3737,510,Larry,,,Nance,,,Cleveland Cavaliers
+3738,511,Duane,,,Ferrell,,,Atlanta Hawks
+3739,512,Nick,,,Anderson,,,Orlando Magic
+3740,513,Joe,,,Dumars,,,Detroit Pistons
+3741,514,Jay,,,Humphries,,,Milwaukee Bucks
+3742,515,Darrell,,,Griffith,,,Utah Jazz
+3743,516,Dan,,,Majerle,,,Phoenix Suns
+3744,517,Tom,,,Chambers,,,Phoenix Suns
+3745,518,Alaa,,,Abdelnaby,,,Portland Trail Blazers
+3746,519,Adrian,,,Caldwell,,,Houston Rockets
+3747,520,Vernon,,,Maxwell,,,Houston Rockets
+3748,521,Doug,,,West,,,Minnesota Timberwolves
+3749,522,Tony,,,Campbell,,,Minnesota Timberwolves
+3750,523,Roy,,,Tarpley,,,Dallas Mavericks
+3751,524,Anthony,,,Cook,,,Denver Nuggets
+3752,525,Todd,,,Lichti,,,Denver Nuggets
+3753,526,Tom,,,Tolbert,,,Golden State Warriors
+3754,527,Billy,,,Thompson,,,Miami Heat
+3755,528,Byron,,,Irvin,,,Washington Wizards
+3756,529,Mark,,,Price,,,Cleveland Cavaliers
+3757,530,Dominique,,,Wilkins,,,Atlanta Hawks
+3758,531,Dennis,,,Scott,,,Orlando Magic
+3759,532,Terry,,,Catledge,,,Orlando Magic
+3760,533,Bill,,,Laimbeer,,,Detroit Pistons
+3761,534,William,,,Bedford,,,Detroit Pistons
+3762,535,Ricky,,,Pierce,,,Milwaukee Bucks
+3763,536,Blue,,,Edwards,,,Utah Jazz
+3764,537,Walter,,,Palmer,,,Utah Jazz
+3765,538,Mark,,,West,,,Phoenix Suns
+3766,539,Clifford,,,Robinson,,,Portland Trail Blazers
+3767,540,Hakeem,,,Olajuwon,,,Houston Rockets
+3768,541,Richard,,,Coffey,,,Minnesota Timberwolves
+3769,542,James,,,Donaldson,,,Dallas Mavericks
+3770,543,Jerome,,,Lane,,,Denver Nuggets
+3771,544,Sarunas,,,Marciulionis,,,Golden State Warriors
+3772,545,Grant,,,Long,,,Miami Heat
+3773,546,Willie,,,Burton,,,Miami Heat
+3774,547,Mark,,,Alarie,,,Washington Wizards
+3775,548,Winston,,,Bennett,,,Cleveland Cavaliers
+3776,549,Doc,,,Rivers,,,Atlanta Hawks
+3777,550,Tim,,,McCormick,,,Atlanta Hawks
+3778,551,Scott,,,Skiles,,,Orlando Magic
+3779,552,Dennis,,,Rodman,,,Detroit Pistons
+3780,553,Greg,,,Anderson,,,Milwaukee Bucks
+3781,554,Jeff,,,Malone,,,Utah Jazz
+3782,555,Cedric,,,Ceballos,,,Phoenix Suns
+3783,556,Tim,,,Perry,,,Phoenix Suns
+3784,557,Buck,,,Williams,,,Portland Trail Blazers
+3785,558,Dave,,,Jamerson,,,Houston Rockets
+3786,559,Scott,,,Brooks,,,Minnesota Timberwolves
+3787,560,Rolando,,,Blackman,,,Dallas Mavericks
+3788,561,Avery,,,Johnson,,,Denver Nuggets
+3789,562,Rod,,,Higgins,,,Golden State Warriors
+3790,563,Jon,,,Sundvold,,,Miami Heat
+3791,564,A.J.,,,English,,,Washington Wizards
+3792,565,John,,,Battle,,,Atlanta Hawks
+3793,18170939,Georgios,,,Kalaitzakis,F,,Milwaukee Bucks
+3794,566,Sam,,,Vincent,,,Orlando Magic
+3795,567,Isiah,,,Thomas,,,Detroit Pistons
+3796,568,Brad,,,Lohaus,,,Milwaukee Bucks
+3797,569,Mike,,,Brown,,,Utah Jazz
+3798,570,Kenny,,,Battle,,,Phoenix Suns
+3799,571,Danny,,,Young,,,Portland Trail Blazers

@@ -2,6 +2,14 @@
 <html lang="en">
 
 <head>
+    <script>
+        // The function below will change the background image
+        function changeBackgroundImage() {
+            document.body.style.backgroundImage = "url('court_background.png.png')";
+          document.body.style.backgroundRepeat = "no-repeat";
+          document.body.style.backgroundSize = "cover";
+        }
+      </script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,7 +26,25 @@
 
 
 <body>
-
+    <style type="text/css">
+        #bg {
+          position: fixed; 
+          top: -50%; 
+          left: -50%; 
+          width: 200%; 
+          height: 200%;
+      }
+      #bg img {
+          position: absolute; 
+          top: 0; 
+          left: 0; 
+          right: 0; 
+          bottom: 0; 
+          margin: auto; 
+          min-width: 50%;
+          min-height: 50%;
+      }
+  </style>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container-fluid">
             <a class="navbar-brand" href="{{ url_for('index')}}">Basketball Nerds</a>
@@ -35,7 +61,7 @@
                         <a class="nav-link text-white" href="{{ url_for('players')}}">Players</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="{{ url_for('games')}}">Schedules</a>
+                        <a class="nav-link text-white" href="{{ url_for('stat')}}">Season Leaders</a>
                     </li>
                 </ul>
             </div>
@@ -65,7 +91,7 @@
             duration: 1000,
         });
     </script>
-    
+
 </body>
 
 </html>
