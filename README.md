@@ -25,10 +25,8 @@ We used plotly and dash with in our flask file to configure the charts and table
 
 <img width="589" alt="Screen Shot 2022-01-15 at 6 34 19 PM" src="https://user-images.githubusercontent.com/77027814/149641120-47566cd6-e7f4-4718-8128-424ddaa2bda4.png">
 
-
-
-
-### Schedule Tab: 
+### Season Leaders Tab: 
+<img width="967" alt="Screen Shot 2022-01-16 at 12 10 45 PM" src="https://user-images.githubusercontent.com/77027814/149670279-95d651f0-a1c0-4f8b-92b5-27623b038bc2.png">
 
 
 
