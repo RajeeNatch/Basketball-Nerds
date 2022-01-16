@@ -99,7 +99,6 @@ Create Table public.seasons
  	Number_of_Wins INT,	
  	Number_of_Losses INT, 	
  	Win_Per DECIMAL(2,2) )
-<<<<<<< HEAD
 
 
 CREATE TABLE IF NOT EXISTS public.size
@@ -114,5 +113,3 @@ CREATE TABLE IF NOT EXISTS public.size
   team_full_name VARCHAR ( 50 ) UNIQUE NOT NULL,
   PRIMARY KEY (player_id)
 )
-=======
->>>>>>> 95abc5fe7a15059053fc7ce161ce301252f5eb14

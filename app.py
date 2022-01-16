@@ -107,17 +107,19 @@ def players():
                fill_color='lavender',
                align='left'))
 ])
+    fig.update_layout(title_text="Player Stats Table")
+    fig.update_layout({'margin':{'t':50}})
     
     ##Secon Chart##
     ps_long_df = pd.melt(ps_df, id_vars=['pgame_season','player_name'], value_vars=['ast', 'blk', 'pts','reb','stl','turnover'],
              var_name='metric', value_name='amount')
-    stat_lines = ['metric','amount'] # or df_users_community.columns[3:]
-    player_1=ps_long_df.loc[12341]
+    stat_lines = ['metric','amount']
+
     
 
     fig3 = px.bar(ps_long_df, x='metric', y='amount',color='player_name', animation_frame='pgame_season', 
                 labels={'variable':'categorie, whatever', 'value':'count,value,whatever'}, 
-                barmode='group', title='Player Stats')
+                barmode='group', title='Player Stats by Season')
     fig3.update_traces(width=.2)
     # return str(players_table)
     graph2JSON = json.dumps(fig, cls = plotly.utils.PlotlyJSONEncoder)

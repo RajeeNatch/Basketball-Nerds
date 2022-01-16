@@ -1,42 +1,47 @@
 {%extends "base.html"%}
 
 {%block content%}
+<div id="welcome_header" class="card-body">
     <div class="site-header-logo">
-        <h1 class = "text-center">
+        <h1 class="text-center">
             Basketball Nerds
         </h1>
     </div>
-    <div class="container">
+
+    <h2>Waddup Nerds!</h2>
+    <h3>Where we look at the numbers instead of watching the games.</h3>
+</div>
+<div id="Text" class="card border-danger">
+    <div class="card-body">
         <br>
-        <div class="row>
-            <div class="welcome_header">
-                <h2>Waddup Nerds!</h2>
-                <h3>Where we look at the numbers instead of watching the games.</h3>
-            </div>
+        <h3 class="card-title">Team Win%</h3>
+        <p class="card-text">Ever wanted a clear visual fof history for your favoreite NBA team?
+            With the chart above, you can compare any NBA team of your choice. One you could use inorder to back up your
+            trash talk with a rivaling team. Well look no further. By clicking on any of the teams, you can
+            see their winning percentage since 1980.</p>
+    </div>
+</div>
+<div class="row p-4">
+    <div class="card mb-4 ml-auto mr-auto" style="width: 90%;" data-aos="slide-up">
+        <div class="card-body">
+            <div id="chart1"></div>
+
+
         </div>
     </div>
 
-    <div class="row p-4">
-        <div class="card mb-4 ml-auto mr-auto" style="width: 90%;" data-aos="slide-up">
-            <div class="card-body">
-                <div id = "chart1"></div>
-
-                
-            </div>
-        </div>
-
-    </div>
+</div>
 
 
 
 
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
 
-    <script>
-        var graph1 = {{graph1JSON | safe}};
-        Plotly.plot("chart1", graph1, {})
+<script>
+    var graph1 = {{ graph1JSON | safe}};
+    Plotly.plot("chart1", graph1, {})
 
-    </script>
+</script>
 
 {%endblock content%}
