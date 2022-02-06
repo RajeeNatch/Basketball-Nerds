@@ -47,17 +47,19 @@ dash_app = dash.Dash(
 def index():
     # teams_table = list(engine.execute("select * from seasons"))
     season_df = pd.read_sql('select * from seasons', engine)
-    fig1 = px.bar(season_df, x="Season", y =["Win%"], title="Teams Legacy")
+    fig1 = px.bar(season_df, x="season", y =["Win%"], title="teams Legacy")
     
     layout = dict(xaxis=dict(title="Seasons"),yaxis=dict(title="Win %"))
-    fig1 = go.Figure(layout=layout)    
-    nba_list = list(season_df['Teams'].unique())
+    fig1 = go.Figure(layout=layout) 
+    print(season_df.columns)   
+    nba_list = list(season_df['teams'].unique())
+    
 
     for team in nba_list:
         fig1.add_trace(
             go.Scatter(
-                x = season_df['Season'][season_df['Teams']==team],
-                y = season_df['Win%'][season_df['Teams']==team],
+                x = season_df['Season'][season_df['teams']==team],
+                y = season_df['Win%'][season_df['teams']==team],
                 name = team, visible = True
             )
         )
